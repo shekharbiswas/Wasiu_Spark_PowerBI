@@ -1,0 +1,361 @@
+Order_ID,Order_Date,Customer_Name,Segment,Region,Category,Sub_Category,Product_Name,Sales,Quantity,Discount,Profit
+ELS-2259,2024-02-05,Alexander Graf,Home Office,Sachsen,Home Appliances,Heating,Ceramic Heater,590.29,6,0.05,86.51
+ELS-2152,2023-03-27,Franziska Huber,Home Office,Hessen,Books & Media,Non-Fiction,Biography,1208.62,3,0.0,26.05
+ELS-2154,2024-05-12,Alexander Graf,Corporate,Hessen,Electronics,Laptops,UltraBook 14,84.05,2,0.15,12.84
+ELS-2319,2023-03-22,Tobias Richter,Corporate,Sachsen,Home Appliances,Kitchen,Blender Pro,477.06,6,0.05,139.15
+ELS-2283,2023-06-10,Carolin Winkler,Home Office,Schleswig-Holstein,Books & Media,Magazines,Tech Monthly,479.86,3,0.0,147.41
+ELS-2228,2023-12-30,Simon Krause,Consumer,Schleswig-Holstein,Books & Media,Fiction,Fantasy Novel,858.21,5,0.25,-17.17
+ELS-2220,2023-06-18,Stefanie Peters,Consumer,Hessen,Home Appliances,Kitchen,Blender Pro,114.45,7,0.25,-12.85
+ELS-2212,2023-08-18,Franziska Huber,Corporate,Schleswig-Holstein,Home Appliances,Kitchen,Blender Pro,1159.71,4,0.25,-165.06
+ELS-2269,2023-07-13,Alexander Graf,Home Office,Sachsen,Home Appliances,Kitchen,Blender Pro,686.38,7,0.25,249.5
+ELS-2260,2024-03-25,Theresa Baumann,Consumer,Berlin,Electronics,Monitors,27-inch Curved Monitor,818.08,5,0.05,294.26
+ELS-2207,2024-01-27,Alexander Graf,Home Office,Hessen,Electronics,Cables,USB-C Cable,1465.93,7,0.0,40.45
+ELS-2084,2023-10-14,Franziska Huber,Corporate,Schleswig-Holstein,Books & Media,Fiction,Mystery Novel,610.7,7,0.0,201.1
+ELS-2349,2024-05-03,Patrick Fuchs,Consumer,Berlin,Electronics,Laptops,ProBook 15,1172.93,5,0.0,-109.55
+ELS-2174,2023-06-27,Franziska Huber,Home Office,Schleswig-Holstein,Electronics,Cables,HDMI Cable 2m,589.47,6,0.0,-57.56
+ELS-2105,2023-05-13,Carolin Winkler,Home Office,Schleswig-Holstein,Home Appliances,Heating,Radiator Fan,1224.58,2,0.0,-74.94
+ELS-2021,2023-04-11,Vanessa Berger,Corporate,Berlin,Home Appliances,Kitchen,Toaster Deluxe,428.64,7,0.05,101.98
+ELS-2181,2023-09-11,Katharina Vogel,Consumer,Hessen,Books & Media,Magazines,Business Weekly,264.51,6,0.0,99.23
+ELS-2104,2024-04-02,Franziska Huber,Consumer,Hessen,Books & Media,Fiction,Fantasy Novel,159.29,3,0.05,51.42
+ELS-2102,2024-02-03,Franziska Huber,Home Office,Berlin,Books & Media,Magazines,Tech Monthly,485.56,5,0.25,74.35
+ELS-2138,2023-10-25,Benjamin Herrmann,Home Office,Schleswig-Holstein,Electronics,Storage,1TB External HDD,847.4,6,0.25,182.01
+ELS-2118,2023-08-28,Vanessa Berger,Home Office,Schleswig-Holstein,Home Appliances,Cleaning,Cordless Vacuum,331.8,3,0.0,52.93
+ELS-2255,2024-03-11,Theresa Baumann,Home Office,Hessen,Books & Media,Non-Fiction,Biography,185.67,5,0.0,-6.9
+ELS-2015,2024-05-19,Franziska Huber,Corporate,Hessen,Electronics,Cables,USB-C Cable,585.21,3,0.0,180.95
+ELS-2296,2024-02-19,Benjamin Herrmann,Corporate,Berlin,Electronics,Storage,1TB External HDD,1328.23,5,0.05,252.8
+ELS-2083,2023-12-19,Marco Lehmann,Home Office,Berlin,Electronics,Storage,1TB External HDD,1107.94,6,0.0,208.12
+ELS-2203,2023-12-09,Katharina Vogel,Home Office,Hessen,Electronics,Storage,512GB SSD,176.72,1,0.05,12.17
+ELS-2340,2023-06-27,Nina Schäfer,Consumer,Schleswig-Holstein,Home Appliances,Cleaning,Steam Mop,1463.62,7,0.0,563.2
+ELS-2075,2023-06-04,Melanie Kaiser,Home Office,Hessen,Electronics,Storage,512GB SSD,1369.09,4,0.15,-95.16
+ELS-2061,2023-07-07,Daniel Schuster,Consumer,Hessen,Home Appliances,Heating,Ceramic Heater,824.49,7,0.0,-117.31
+ELS-2135,2024-02-29,Carolin Winkler,Corporate,Berlin,Books & Media,Fiction,Mystery Novel,910.48,3,0.05,101.09
+ELS-2288,2023-07-03,Carolin Winkler,Consumer,Schleswig-Holstein,Electronics,Laptops,UltraBook 14,1068.86,2,0.05,-54.65
+ELS-2322,2024-03-29,Jasmin König,Home Office,Schleswig-Holstein,Books & Media,Magazines,Tech Monthly,104.67,4,0.25,13.94
+ELS-2022,2023-10-16,,Consumer,Berlin,Books & Media,Non-Fiction,History Book,1180.81,4,0.15,13.21
+ELS-2304,2023-10-01,Melanie Kaiser,Corporate,Sachsen,Home Appliances,Cleaning,Cordless Vacuum,748.56,5,0.0,-20.03
+ELS-2206,2024-05-15,Simon Krause,Home Office,Schleswig-Holstein,Electronics,Monitors,27-inch Curved Monitor,268.31,7,0.15,38.47
+ELS-2056,2023-03-02,Michael Frank,Consumer,Hessen,Electronics,Monitors,27-inch Curved Monitor,259.24,1,0.0,2.77
+ELS-2042,2023-08-09,Stefanie Peters,Home Office,Sachsen,Books & Media,Magazines,Tech Monthly,302.51,6,0.25,71.65
+ELS-2218,2023-03-28,Christian Meyer,Corporate,Schleswig-Holstein,Electronics,Storage,512GB SSD,1458.16,2,0.15,0.42
+ELS-2089,2023-07-09,,Home Office,Hessen,Books & Media,Fiction,Fantasy Novel,283.1,3,0.15,72.82
+ELS-2199,2023-06-29,Carolin Winkler,Home Office,Berlin,Books & Media,Fiction,Fantasy Novel,193.09,7,0.0,30.96
+ELS-2165,2023-06-02,Katharina Vogel,Consumer,Sachsen,Electronics,Cables,USB-C Cable,351.0,7,0.0,128.38
+ELS-2307,2023-04-01,Patrick Fuchs,Corporate,Schleswig-Holstein,Electronics,Cables,USB-C Cable,19.55,4,0.05,6.95
+ELS-2166,2023-05-16,Simon Krause,Consumer,Hessen,Electronics,Monitors,24-inch LED Monitor,966.37,6,0.0,-100.69
+ELS-2201,2023-07-18,,Corporate,Sachsen,Books & Media,Magazines,Tech Monthly,572.96,4,0.0,186.52
+ELS-2300,2024-03-07,Tobias Richter,Consumer,Berlin,Home Appliances,Heating,Radiator Fan,1323.7,7,0.0,345.55
+ELS-2312,2024-05-05,Katharina Vogel,Corporate,Schleswig-Holstein,Electronics,Laptops,UltraBook 14,605.83,1,0.0,102.94
+ELS-2250,2023-05-06,Nina Schäfer,Corporate,Schleswig-Holstein,Electronics,Laptops,UltraBook 14,800.61,5,0.15,181.11
+ELS-2027,2024-03-11,Stefanie Peters,Home Office,Schleswig-Holstein,Electronics,Laptops,UltraBook 14,826.21,2,0.0,69.79
+ELS-2189,2023-09-03,Tobias Richter,Home Office,Sachsen,Home Appliances,Kitchen,Toaster Deluxe,633.43,6,0.0,-43.91
+ELS-2050,2023-09-15,Theresa Baumann,Corporate,Berlin,Electronics,Storage,512GB SSD,143.44,4,0.0,39.98
+ELS-2017,2023-07-25,Michael Frank,Consumer,Berlin,Electronics,Storage,512GB SSD,1207.13,4,0.0,69.45
+ELS-2290,2023-07-24,Carolin Winkler,Corporate,Schleswig-Holstein,Electronics,Monitors,24-inch LED Monitor,268.42,1,0.0,16.69
+ELS-2012,2023-10-08,Katharina Vogel,Home Office,Hessen,Home Appliances,Cleaning,Steam Mop,364.04,2,0.0,-28.29
+ELS-2222,2023-11-02,Stefanie Peters,Consumer,,Home Appliances,Heating,Ceramic Heater,1349.93,4,0.15,224.81
+ELS-2187,2023-08-31,Alexander Graf,Consumer,Berlin,Books & Media,Fiction,Mystery Novel,1263.6,2,0.05,-134.85
+ELS-2040,2023-10-11,Carolin Winkler,Consumer,Hessen,Electronics,Storage,1TB External HDD,1303.32,1,0.0,174.7
+ELS-2196,2024-05-02,Michael Frank,Corporate,Berlin,Electronics,Laptops,UltraBook 14,670.52,3,0.0,33.09
+ELS-2045,2024-02-25,Katharina Vogel,Corporate,Schleswig-Holstein,Electronics,Cables,HDMI Cable 2m,177.29,1,0.25,67.61
+ELS-2013,2023-11-24,Stefanie Peters,Home Office,Schleswig-Holstein,Electronics,Monitors,24-inch LED Monitor,835.07,4,0.15,198.94
+ELS-2213,2024-03-14,Christian Meyer,Home Office,Schleswig-Holstein,Books & Media,Magazines,Business Weekly,1050.81,6,0.0,53.15
+ELS-2147,2023-06-02,Patrick Fuchs,Consumer,Schleswig-Holstein,Home Appliances,Heating,Radiator Fan,142.57,6,0.25,33.07
+ELS-2341,2023-07-14,Tobias Richter,Corporate,Berlin,Electronics,Laptops,ProBook 15,1348.25,2,0.0,-60.25
+ELS-2054,2024-02-22,Fabian Scholz,Home Office,Hessen,Electronics,Storage,1TB External HDD,1076.78,7,0.0,-87.87
+ELS-2032,2023-11-11,Franziska Huber,Corporate,Schleswig-Holstein,Home Appliances,Kitchen,Blender Pro,1075.29,3,0.05,48.6
+ELS-2062,2023-06-21,Christian Meyer,Consumer,Sachsen,Electronics,Monitors,24-inch LED Monitor,184.58,3,0.25,-26.89
+ELS-2144,2023-10-03,Tobias Richter,Consumer,Schleswig-Holstein,Home Appliances,Cleaning,Steam Mop,206.77,5,0.0,-15.84
+ELS-2038,2024-05-18,Franziska Huber,Consumer,Sachsen,Home Appliances,Kitchen,Blender Pro,1090.47,3,0.0,205.3
+ELS-2258,2023-06-10,Daniel Schuster,Corporate,Berlin,Home Appliances,Cleaning,Cordless Vacuum,316.23,7,0.15,0.14
+ELS-2029,2023-03-23,Carolin Winkler,Corporate,Berlin,Electronics,Laptops,UltraBook 14,726.09,2,0.0,221.33
+ELS-2292,2023-08-01,Tobias Richter,Home Office,Hessen,Home Appliances,Kitchen,Blender Pro,298.18,6,0.05,-28.66
+ELS-2294,2023-05-15,Theresa Baumann,Corporate,Sachsen,Home Appliances,Kitchen,Toaster Deluxe,707.83,5,0.0,253.16
+ELS-2279,2024-02-10,,Home Office,Berlin,Electronics,Monitors,27-inch Curved Monitor,794.11,4,0.05,218.64
+ELS-2271,2024-05-23,Tobias Richter,Consumer,Berlin,Books & Media,Fiction,Fantasy Novel,1188.16,5,0.25,207.23
+ELS-2145,2023-10-20,Stefanie Peters,Corporate,Hessen,Home Appliances,Kitchen,Toaster Deluxe,1251.53,1,0.0,147.09
+ELS-2315,2023-06-07,Franziska Huber,Home Office,,Home Appliances,Heating,Ceramic Heater,338.77,4,0.25,77.24
+ELS-2053,2023-03-14,Marco Lehmann,Home Office,Sachsen,Home Appliances,Heating,Radiator Fan,947.37,3,0.05,311.53
+ELS-2273,2024-01-01,,Consumer,Sachsen,Home Appliances,Cleaning,Cordless Vacuum,644.14,6,0.25,-5.15
+ELS-2131,2023-11-19,Vanessa Berger,Corporate,Hessen,Electronics,Storage,1TB External HDD,232.51,6,0.0,54.14
+ELS-2230,2023-07-10,Tobias Richter,Consumer,Sachsen,Electronics,Monitors,27-inch Curved Monitor,1286.98,3,0.15,3.95
+ELS-2194,2023-04-21,Benjamin Herrmann,Corporate,Sachsen,Electronics,Monitors,24-inch LED Monitor,1244.93,1,0.0,424.15
+ELS-2140,2023-09-03,Carolin Winkler,Corporate,Sachsen,Books & Media,Fiction,Mystery Novel,1416.1,7,0.0,317.1
+ELS-2219,2024-05-11,Melanie Kaiser,Consumer,Schleswig-Holstein,Books & Media,Magazines,Tech Monthly,511.13,1,0.25,90.25
+ELS-2286,2024-04-10,Carolin Winkler,Consumer,Berlin,Electronics,Laptops,UltraBook 14,1482.32,2,0.25,284.38
+ELS-2320,2023-03-24,Nina Schäfer,Corporate,Hessen,Books & Media,Fiction,Fantasy Novel,1356.26,3,0.0,490.95
+ELS-2266,2023-12-20,Sabine Otto,Corporate,,Electronics,Monitors,27-inch Curved Monitor,960.9,3,0.0,9.1
+ELS-2164,2024-04-25,Daniel Schuster,Corporate,Schleswig-Holstein,Books & Media,Fiction,Mystery Novel,366.68,6,,52.27
+ELS-2190,2023-03-27,Fabian Scholz,Corporate,Schleswig-Holstein,Electronics,Laptops,ProBook 15,523.69,1,0.15,172.5
+ELS-2247,2023-12-12,Melanie Kaiser,Corporate,Berlin,Home Appliances,Kitchen,Toaster Deluxe,197.85,4,0.0,28.21
+ELS-2125,2023-03-05,Alexander Graf,Consumer,Berlin,Home Appliances,Kitchen,Blender Pro,1135.12,7,0.0,-118.57
+ELS-2114,2023-09-19,Tobias Richter,Consumer,Sachsen,Home Appliances,Kitchen,Toaster Deluxe,1465.25,1,0.05,-216.11
+ELS-2078,2024-04-03,Fabian Scholz,Consumer,Sachsen,Home Appliances,Cleaning,Cordless Vacuum,1272.31,7,0.0,25.58
+ELS-2170,2023-08-08,Melanie Kaiser,Home Office,Berlin,Books & Media,Fiction,Mystery Novel,1364.99,6,0.25,151.05
+ELS-2009,2023-08-17,Franziska Huber,Consumer,Sachsen,Electronics,Monitors,27-inch Curved Monitor,344.04,7,0.25,59.04
+ELS-2350,2023-03-05,Franziska Huber,Corporate,Sachsen,Electronics,Storage,512GB SSD,1179.85,2,0.25,348.49
+ELS-2071,2024-03-20,Vanessa Berger,Corporate,Berlin,Electronics,Laptops,ProBook 15,634.36,4,0.0,-38.16
+ELS-2003,2023-11-10,Jasmin König,Consumer,Schleswig-Holstein,Books & Media,Magazines,Tech Monthly,872.92,2,0.0,344.67
+ELS-2175,2024-03-09,Daniel Schuster,Home Office,Sachsen,Books & Media,Magazines,Business Weekly,1182.15,1,0.25,337.98
+ELS-2099,2024-04-14,Sabine Otto,Corporate,Hessen,Books & Media,Magazines,Business Weekly,790.48,5,0.0,297.87
+ELS-2217,2023-04-22,Vanessa Berger,Corporate,Hessen,Books & Media,Fiction,Mystery Novel,263.65,7,0.0,-16.59
+ELS-2235,2024-04-24,Michael Frank,Consumer,Sachsen,Home Appliances,Heating,Radiator Fan,399.18,4,0.15,1.14
+ELS-2183,2023-12-09,Patrick Fuchs,Corporate,Hessen,Electronics,Cables,USB-C Cable,1253.0,2,0.0,16.79
+ELS-2026,2023-12-09,Franziska Huber,Home Office,Berlin,Books & Media,Non-Fiction,Biography,1378.75,2,0.05,-117.46
+ELS-2309,2023-11-16,Alexander Graf,Consumer,Berlin,Electronics,Cables,USB-C Cable,1219.29,5,0.0,306.02
+ELS-2151,2023-12-29,Michael Frank,Corporate,Berlin,Home Appliances,Heating,Radiator Fan,1265.34,5,0.05,-70.34
+ELS-2136,2024-04-26,Michael Frank,Corporate,Hessen,Home Appliances,Cleaning,Steam Mop,367.64,2,0.0,-12.93
+ELS-2214,2023-11-29,,Home Office,Sachsen,Home Appliances,Heating,Ceramic Heater,305.47,1,0.0,85.74
+ELS-2328,2024-05-17,,Corporate,Berlin,Home Appliances,Cleaning,Steam Mop,1123.74,7,0.05,28.13
+ELS-2103,2023-06-04,Theresa Baumann,Corporate,Sachsen,Books & Media,Non-Fiction,History Book,1051.39,6,0.0,95.65
+ELS-2223,2023-10-30,Marco Lehmann,Consumer,Sachsen,Books & Media,Non-Fiction,History Book,1216.18,6,0.0,143.92
+ELS-2191,2023-10-03,Michael Frank,Home Office,Berlin,Electronics,Cables,USB-C Cable,1281.67,7,0.0,168.97
+ELS-2086,2023-04-15,Nina Schäfer,Consumer,Sachsen,Home Appliances,Cleaning,Steam Mop,90.72,3,0.0,31.31
+ELS-2032,2023-11-11,Franziska Huber,Corporate,Schleswig-Holstein,Home Appliances,Kitchen,Blender Pro,1075.29,3,0.05,48.6
+ELS-2200,2023-12-24,Vanessa Berger,Consumer,Schleswig-Holstein,Home Appliances,Cleaning,Steam Mop,107.31,1,0.0,23.68
+ELS-2297,2024-02-02,Carolin Winkler,Corporate,Sachsen,Home Appliances,Heating,Ceramic Heater,876.86,3,0.0,206.71
+ELS-2023,2024-03-22,Marco Lehmann,Corporate,Schleswig-Holstein,Home Appliances,Cleaning,Cordless Vacuum,896.53,6,0.0,219.81
+ELS-2063,2024-04-28,Carolin Winkler,Corporate,Sachsen,Electronics,Cables,USB-C Cable,1273.18,4,0.15,-52.39
+ELS-2107,2023-11-12,Nina Schäfer,Consumer,Berlin,Home Appliances,Cleaning,Cordless Vacuum,1188.89,1,0.15,99.07
+ELS-2106,2024-03-26,Nina Schäfer,Consumer,Berlin,Electronics,Laptops,ProBook 15,703.88,1,0.25,222.25
+ELS-2295,2024-01-03,Benjamin Herrmann,Consumer,Sachsen,Electronics,Cables,USB-C Cable,1007.68,3,0.0,236.05
+ELS-2191,2023-10-03,Michael Frank,Home Office,Berlin,Electronics,Cables,USB-C Cable,1281.67,7,0.0,168.97
+ELS-2100,2024-04-17,Tobias Richter,Home Office,Berlin,Electronics,Monitors,27-inch Curved Monitor,403.59,2,0.0,123.62
+ELS-2070,2024-01-06,Theresa Baumann,Consumer,Sachsen,Electronics,Laptops,UltraBook 14,1492.61,6,,435.92
+ELS-2234,2024-03-04,Christian Meyer,Consumer,Berlin,Home Appliances,Heating,Ceramic Heater,1399.78,1,0.0,271.44
+ELS-2227,2023-04-29,Marco Lehmann,Corporate,Sachsen,Home Appliances,Heating,Radiator Fan,281.78,5,0.05,23.81
+ELS-2156,2024-03-23,Daniel Schuster,Corporate,Berlin,Home Appliances,Heating,Ceramic Heater,420.17,5,0.0,-24.12
+ELS-2055,2023-12-22,Vanessa Berger,Home Office,Berlin,Electronics,Laptops,ProBook 15,758.09,3,0.0,51.8
+ELS-2229,2023-03-05,Theresa Baumann,Home Office,Berlin,Home Appliances,Heating,Ceramic Heater,601.78,4,0.15,40.37
+ELS-2137,2024-05-18,Benjamin Herrmann,Home Office,Schleswig-Holstein,Books & Media,Magazines,Business Weekly,277.27,2,0.15,-4.04
+ELS-2321,2024-01-28,Marco Lehmann,Home Office,,Home Appliances,Heating,Ceramic Heater,1303.23,2,0.0,429.66
+ELS-2184,2023-06-26,Sabine Otto,Home Office,Sachsen,Books & Media,Non-Fiction,Biography,1072.5,2,0.05,57.86
+ELS-2096,2023-09-15,Fabian Scholz,Consumer,Schleswig-Holstein,Books & Media,Non-Fiction,History Book,838.34,5,0.15,215.71
+ELS-2030,2023-04-08,Simon Krause,Home Office,Sachsen,Electronics,Storage,512GB SSD,852.13,6,0.0,38.47
+ELS-2178,2024-02-11,Fabian Scholz,Home Office,Sachsen,Electronics,Laptops,UltraBook 14,1080.56,1,0.0,425.48
+ELS-2329,2023-06-05,Benjamin Herrmann,Home Office,Berlin,Books & Media,Non-Fiction,Biography,52.95,1,0.0,20.37
+ELS-2155,2024-05-12,Christian Meyer,Home Office,Schleswig-Holstein,Electronics,Laptops,ProBook 15,672.49,1,0.0,-64.85
+ELS-2335,2023-10-02,Nina Schäfer,Consumer,Schleswig-Holstein,Home Appliances,Kitchen,Blender Pro,974.08,4,0.05,168.89
+ELS-2117,2024-01-11,Tobias Richter,Home Office,Sachsen,Home Appliances,Kitchen,Blender Pro,17.71,6,0.25,-0.49
+ELS-2087,2023-05-20,Melanie Kaiser,Home Office,Schleswig-Holstein,Electronics,Cables,USB-C Cable,359.21,6,0.0,111.3
+ELS-2310,2023-06-10,Katharina Vogel,Corporate,Hessen,Home Appliances,Heating,Radiator Fan,1329.21,5,0.05,201.33
+ELS-2124,2023-10-07,Fabian Scholz,Consumer,Berlin,Home Appliances,Cleaning,Steam Mop,1389.45,2,0.0,246.68
+ELS-2317,2023-10-06,Fabian Scholz,Consumer,Hessen,Electronics,Cables,HDMI Cable 2m,966.2,2,0.25,275.12
+ELS-2004,2023-10-08,Alexander Graf,Home Office,Hessen,Electronics,Storage,1TB External HDD,580.87,4,0.15,151.45
+ELS-2113,2023-09-07,Simon Krause,Corporate,Hessen,Books & Media,Non-Fiction,Biography,31.94,6,0.0,-2.86
+ELS-2198,2023-09-19,Vanessa Berger,Home Office,Berlin,Home Appliances,Kitchen,Toaster Deluxe,907.53,3,0.15,353.78
+ELS-2231,2023-07-18,Benjamin Herrmann,Home Office,Hessen,Books & Media,Magazines,Business Weekly,656.32,3,0.25,-41.37
+ELS-2185,2023-12-09,Christian Meyer,Home Office,Berlin,Home Appliances,Kitchen,Blender Pro,56.97,6,,2.91
+ELS-2334,2023-06-14,Alexander Graf,Home Office,Schleswig-Holstein,Books & Media,Magazines,Tech Monthly,1164.55,5,0.05,226.59
+ELS-2052,2023-06-29,Patrick Fuchs,Consumer,Schleswig-Holstein,Home Appliances,Heating,Ceramic Heater,629.55,5,0.15,212.44
+ELS-2037,2024-04-18,Theresa Baumann,Corporate,Sachsen,Books & Media,Non-Fiction,History Book,659.7,1,0.0,247.43
+ELS-2098,2023-04-09,Patrick Fuchs,Home Office,Hessen,Electronics,Storage,512GB SSD,1499.02,6,0.0,487.33
+ELS-2160,2023-09-21,Vanessa Berger,Corporate,Schleswig-Holstein,Electronics,Laptops,UltraBook 14,1473.85,3,0.0,238.3
+ELS-2014,2023-06-23,Carolin Winkler,Consumer,Sachsen,Electronics,Monitors,27-inch Curved Monitor,478.45,4,0.0,66.35
+ELS-2059,2023-10-19,Marco Lehmann,Corporate,Sachsen,Home Appliances,Heating,Ceramic Heater,743.76,5,0.0,264.57
+ELS-2176,2024-01-21,Sabine Otto,Corporate,,Books & Media,Magazines,Business Weekly,1314.95,2,0.15,19.25
+ELS-2215,2023-09-13,Franziska Huber,Home Office,Schleswig-Holstein,Home Appliances,Kitchen,Toaster Deluxe,1125.43,1,0.15,371.21
+ELS-2346,2023-06-27,Stefanie Peters,Corporate,Hessen,Electronics,Monitors,27-inch Curved Monitor,1045.68,5,0.15,363.76
+ELS-2010,2024-05-17,Carolin Winkler,Consumer,Schleswig-Holstein,Books & Media,Fiction,Mystery Novel,626.32,1,0.0,5.54
+ELS-2129,2023-08-16,Daniel Schuster,Home Office,Sachsen,Books & Media,Non-Fiction,History Book,1491.03,7,0.05,120.37
+ELS-2277,2024-02-07,Sabine Otto,Home Office,Sachsen,Electronics,Monitors,27-inch Curved Monitor,299.64,1,0.0,-31.87
+ELS-2238,2024-01-20,Carolin Winkler,Corporate,Berlin,Books & Media,Non-Fiction,Biography,1426.3,1,0.15,-131.02
+ELS-2046,2024-05-16,Nina Schäfer,Consumer,Schleswig-Holstein,Books & Media,Magazines,Tech Monthly,975.97,2,0.0,219.56
+ELS-2116,2024-02-10,Carolin Winkler,Consumer,Hessen,Books & Media,Non-Fiction,History Book,892.12,5,0.15,356.47
+ELS-2293,2024-04-26,Daniel Schuster,Home Office,Schleswig-Holstein,Electronics,Laptops,UltraBook 14,1005.37,3,0.25,229.02
+ELS-2158,2023-11-03,Melanie Kaiser,Corporate,Schleswig-Holstein,Electronics,Laptops,UltraBook 14,559.96,1,0.0,-69.18
+ELS-2025,2024-01-29,Stefanie Peters,Consumer,Berlin,Books & Media,Non-Fiction,Biography,1314.03,5,0.25,-160.51
+ELS-2197,2023-11-23,Jasmin König,Consumer,Hessen,Books & Media,Fiction,Mystery Novel,1475.73,4,0.05,0.47
+ELS-2244,2023-04-01,Benjamin Herrmann,Corporate,Schleswig-Holstein,Home Appliances,Cleaning,Steam Mop,1290.51,1,0.05,372.48
+ELS-2314,2024-03-02,Theresa Baumann,Consumer,Sachsen,Electronics,Cables,USB-C Cable,1060.3,1,0.15,299.3
+ELS-2127,2023-09-03,Patrick Fuchs,Home Office,Hessen,Home Appliances,Heating,Ceramic Heater,1065.23,5,0.25,268.48
+ELS-2299,2023-05-16,Stefanie Peters,Consumer,Berlin,Electronics,Monitors,24-inch LED Monitor,746.17,1,0.0,180.6
+ELS-2208,2024-03-19,Christian Meyer,Corporate,Sachsen,Electronics,Storage,512GB SSD,1150.38,7,0.05,437.97
+ELS-2298,2023-07-07,Simon Krause,Consumer,Hessen,Home Appliances,Heating,Radiator Fan,570.11,6,0.15,225.28
+ELS-2034,2023-07-06,Benjamin Herrmann,Home Office,Schleswig-Holstein,Electronics,Storage,512GB SSD,796.98,4,0.25,109.11
+ELS-2239,2023-08-10,Vanessa Berger,Corporate,Hessen,Books & Media,Magazines,Business Weekly,122.44,5,0.25,-8.66
+ELS-2123,2023-03-29,Christian Meyer,Consumer,Hessen,Books & Media,Magazines,Tech Monthly,1451.4,1,0.0,71.63
+ELS-2064,2024-03-15,Patrick Fuchs,Corporate,Hessen,Electronics,Laptops,UltraBook 14,1256.93,7,0.05,-121.51
+ELS-2067,2023-06-06,Stefanie Peters,Corporate,Hessen,Books & Media,Non-Fiction,History Book,1393.85,7,0.0,374.4
+ELS-2210,2023-04-09,Simon Krause,Home Office,Sachsen,Books & Media,Magazines,Business Weekly,610.81,6,0.15,-59.4
+ELS-2233,2023-11-25,Benjamin Herrmann,Consumer,Sachsen,Books & Media,Fiction,Fantasy Novel,472.71,1,0.05,-11.24
+ELS-2218,2023-03-28,Christian Meyer,Corporate,Schleswig-Holstein,Electronics,Storage,512GB SSD,1458.16,2,0.15,0.42
+ELS-2221,2023-11-03,Marco Lehmann,Corporate,Sachsen,Home Appliances,Heating,Radiator Fan,1178.64,1,0.05,336.61
+ELS-2001,2023-07-08,Alexander Graf,Corporate,Hessen,Books & Media,Fiction,Mystery Novel,1087.97,1,0.0,330.77
+ELS-2122,2024-01-07,Christian Meyer,Home Office,Berlin,Home Appliances,Kitchen,Blender Pro,109.24,6,,41.88
+ELS-2109,2023-06-06,Marco Lehmann,Corporate,Sachsen,Books & Media,Magazines,Business Weekly,203.94,3,0.0,56.8
+ELS-2171,2023-04-30,Daniel Schuster,Consumer,Berlin,Books & Media,Magazines,Tech Monthly,1385.42,5,0.15,96.46
+ELS-2006,2023-04-29,Christian Meyer,Home Office,Sachsen,Home Appliances,Kitchen,Toaster Deluxe,1461.33,3,0.15,285.09
+ELS-2005,2023-07-09,Patrick Fuchs,Consumer,Sachsen,Home Appliances,Cleaning,Steam Mop,748.02,1,0.0,269.98
+ELS-2324,2024-03-30,Carolin Winkler,Corporate,Hessen,Electronics,Laptops,ProBook 15,393.41,6,0.0,52.06
+ELS-2058,2024-01-09,Alexander Graf,Corporate,Sachsen,Electronics,Monitors,27-inch Curved Monitor,1438.57,2,0.05,-67.6
+ELS-2289,2023-08-02,Nina Schäfer,Home Office,Hessen,Home Appliances,Cleaning,Cordless Vacuum,318.66,1,0.25,-1.56
+ELS-2060,2024-05-20,Michael Frank,Corporate,Hessen,Books & Media,Fiction,Fantasy Novel,987.98,2,0.15,296.01
+ELS-2326,2023-06-11,Michael Frank,Home Office,Sachsen,Electronics,Monitors,24-inch LED Monitor,984.64,7,0.25,-117.96
+ELS-2048,2023-10-30,Franziska Huber,Corporate,Berlin,Home Appliances,Cleaning,Cordless Vacuum,359.17,7,0.15,143.4
+ELS-2268,2024-05-13,Christian Meyer,Consumer,Sachsen,Electronics,Storage,1TB External HDD,913.15,7,0.0,132.97
+ELS-2047,2023-06-28,Alexander Graf,Home Office,Sachsen,Electronics,Storage,1TB External HDD,1351.59,6,0.0,-190.73
+ELS-2316,2023-05-02,Michael Frank,Consumer,Berlin,Home Appliances,Heating,Ceramic Heater,1326.44,3,0.0,-80.54
+ELS-2121,2024-03-17,Fabian Scholz,Corporate,Schleswig-Holstein,Electronics,Storage,512GB SSD,76.65,4,0.25,16.95
+ELS-2031,2023-11-10,Theresa Baumann,Home Office,,Electronics,Laptops,ProBook 15,1219.05,3,0.05,-73.43
+ELS-2202,2024-03-06,Jasmin König,Home Office,Sachsen,Home Appliances,Heating,Radiator Fan,946.88,5,0.15,289.04
+ELS-2159,2023-06-04,Stefanie Peters,Home Office,Berlin,Electronics,Cables,HDMI Cable 2m,1288.27,4,0.0,508.53
+ELS-2130,2023-08-23,Theresa Baumann,Corporate,Berlin,Electronics,Laptops,UltraBook 14,1249.16,4,0.0,-137.71
+ELS-2167,2023-05-25,Simon Krause,Consumer,,Electronics,Cables,USB-C Cable,311.42,3,0.0,121.0
+ELS-2057,2023-10-23,Christian Meyer,Consumer,Schleswig-Holstein,Electronics,Laptops,UltraBook 14,881.18,6,0.15,-14.72
+ELS-2267,2023-06-08,Carolin Winkler,Corporate,Hessen,Electronics,Laptops,ProBook 15,1482.12,3,,165.75
+ELS-2241,2023-04-03,Sabine Otto,Home Office,Sachsen,Books & Media,Non-Fiction,Biography,1370.03,4,0.0,503.95
+ELS-2204,2023-09-06,Tobias Richter,Consumer,Hessen,Electronics,Monitors,27-inch Curved Monitor,538.17,3,0.0,-10.66
+ELS-2252,2023-10-23,Jasmin König,Home Office,Hessen,Books & Media,Non-Fiction,Biography,715.03,7,0.25,67.64
+ELS-2205,2024-03-09,Marco Lehmann,Home Office,Hessen,Home Appliances,Cleaning,Steam Mop,1326.12,5,0.25,-162.25
+ELS-2143,2023-12-24,Daniel Schuster,Consumer,Hessen,Electronics,Monitors,24-inch LED Monitor,537.88,2,0.15,182.59
+ELS-2128,2023-09-01,Sabine Otto,Consumer,Schleswig-Holstein,Books & Media,Magazines,Tech Monthly,1094.54,6,0.05,203.47
+ELS-2285,2024-01-20,Vanessa Berger,Home Office,Schleswig-Holstein,Books & Media,Magazines,Business Weekly,1380.58,2,0.15,42.66
+ELS-2311,2023-11-20,Nina Schäfer,Corporate,Berlin,Electronics,Storage,1TB External HDD,1307.27,2,0.0,-100.77
+ELS-2332,2024-02-10,Vanessa Berger,Home Office,Schleswig-Holstein,Books & Media,Non-Fiction,History Book,944.12,6,0.05,62.87
+ELS-2043,2024-04-17,Marco Lehmann,Consumer,Hessen,Books & Media,Fiction,Mystery Novel,563.32,1,0.15,101.64
+ELS-2206,2024-05-15,Simon Krause,Home Office,Schleswig-Holstein,Electronics,Monitors,27-inch Curved Monitor,268.31,7,0.15,38.47
+ELS-2306,2024-04-15,Alexander Graf,Corporate,Hessen,Electronics,Storage,512GB SSD,477.96,7,0.0,80.63
+ELS-2263,2024-03-04,Nina Schäfer,Home Office,Hessen,Home Appliances,Cleaning,Cordless Vacuum,1491.52,1,0.05,140.07
+ELS-2077,2023-03-12,Tobias Richter,Corporate,Schleswig-Holstein,Books & Media,Non-Fiction,History Book,679.6,6,0.0,109.31
+ELS-2248,2023-04-18,Melanie Kaiser,Consumer,Berlin,Electronics,Cables,USB-C Cable,1382.94,1,0.25,410.34
+ELS-2282,2024-01-01,Alexander Graf,Corporate,Schleswig-Holstein,Electronics,Laptops,UltraBook 14,1412.19,4,0.0,333.75
+ELS-2008,2023-05-02,,Consumer,Hessen,Books & Media,Non-Fiction,Biography,449.02,1,0.15,2.3
+ELS-2074,2023-04-08,Katharina Vogel,Consumer,Berlin,Home Appliances,Heating,Ceramic Heater,926.31,5,0.0,74.72
+ELS-2051,2024-02-09,Katharina Vogel,Corporate,Hessen,Books & Media,Magazines,Business Weekly,1145.11,6,0.0,207.18
+ELS-2257,2023-11-04,Daniel Schuster,Home Office,Berlin,Books & Media,Non-Fiction,History Book,55.78,3,0.25,-3.87
+ELS-2291,2023-09-07,Melanie Kaiser,Corporate,Berlin,Electronics,Monitors,27-inch Curved Monitor,761.51,6,0.25,-49.22
+ELS-2256,2024-04-25,Franziska Huber,Consumer,Berlin,Home Appliances,Cleaning,Cordless Vacuum,123.67,4,0.0,45.36
+ELS-2153,2023-05-01,Jasmin König,Consumer,Sachsen,Books & Media,Fiction,Mystery Novel,504.59,5,0.0,10.38
+ELS-2033,2024-04-21,Alexander Graf,Corporate,Hessen,Home Appliances,Cleaning,Cordless Vacuum,977.52,7,0.0,-14.34
+ELS-2016,2024-03-16,Christian Meyer,Consumer,Berlin,Electronics,Laptops,ProBook 15,1426.68,4,0.0,151.84
+ELS-2240,2023-12-15,Vanessa Berger,Consumer,Berlin,Electronics,Laptops,UltraBook 14,99.6,2,0.0,-3.4
+ELS-2095,2024-02-19,Nina Schäfer,Corporate,Sachsen,Electronics,Cables,USB-C Cable,771.68,1,0.0,-6.37
+ELS-2108,2024-04-01,Nina Schäfer,Home Office,Berlin,Home Appliances,Cleaning,Cordless Vacuum,907.99,2,0.0,54.72
+ELS-2348,2024-03-12,Melanie Kaiser,Corporate,Hessen,Home Appliances,Kitchen,Toaster Deluxe,911.11,6,0.05,-104.79
+ELS-2211,2024-02-21,Melanie Kaiser,Corporate,Sachsen,Books & Media,Fiction,Fantasy Novel,1124.75,7,0.0,312.07
+ELS-2236,2023-04-05,Daniel Schuster,Consumer,Hessen,Books & Media,Non-Fiction,Biography,782.75,6,0.0,104.3
+ELS-2148,2023-04-04,Jasmin König,Home Office,Schleswig-Holstein,Electronics,Storage,1TB External HDD,774.68,5,0.0,201.85
+ELS-2195,2024-01-24,Alexander Graf,Consumer,Schleswig-Holstein,Books & Media,Magazines,Tech Monthly,267.03,1,0.0,82.24
+ELS-2079,2023-12-08,Michael Frank,Corporate,Schleswig-Holstein,Books & Media,Non-Fiction,History Book,1447.82,1,0.15,-32.17
+ELS-2036,2024-02-18,Patrick Fuchs,Corporate,Sachsen,Home Appliances,Heating,Ceramic Heater,768.01,2,0.15,258.97
+ELS-2180,2023-11-19,Melanie Kaiser,Consumer,Berlin,Home Appliances,Kitchen,Toaster Deluxe,162.0,4,0.15,24.72
+ELS-2226,2023-05-01,Nina Schäfer,Corporate,Sachsen,Home Appliances,Kitchen,Blender Pro,330.58,3,0.25,117.43
+ELS-2173,2023-09-21,Katharina Vogel,Consumer,Schleswig-Holstein,Electronics,Monitors,24-inch LED Monitor,113.04,3,0.0,2.97
+ELS-2214,2023-11-29,,Home Office,Sachsen,Home Appliances,Heating,Ceramic Heater,305.47,1,0.0,85.74
+ELS-2272,2023-03-18,Sabine Otto,Home Office,Sachsen,Home Appliances,Cleaning,Cordless Vacuum,863.01,2,0.05,-5.11
+ELS-2018,2023-06-18,Alexander Graf,Corporate,Schleswig-Holstein,Home Appliances,Heating,Ceramic Heater,1493.31,6,0.0,547.37
+ELS-2088,2023-06-18,Fabian Scholz,Corporate,Hessen,Home Appliances,Cleaning,Cordless Vacuum,449.86,7,0.0,-20.09
+ELS-2157,2023-04-15,Michael Frank,Home Office,Sachsen,Books & Media,Fiction,Mystery Novel,486.04,4,,68.13
+ELS-2163,2024-02-29,Carolin Winkler,Consumer,Schleswig-Holstein,Electronics,Cables,HDMI Cable 2m,439.55,4,0.25,14.6
+ELS-2345,2023-04-12,Marco Lehmann,Corporate,Berlin,Books & Media,Non-Fiction,History Book,377.84,4,0.05,145.6
+ELS-2347,2024-02-01,Michael Frank,Consumer,Hessen,Books & Media,Magazines,Tech Monthly,177.31,2,0.0,7.3
+ELS-2287,2023-03-25,Franziska Huber,Consumer,Berlin,Electronics,Cables,HDMI Cable 2m,1308.04,4,0.0,352.1
+ELS-2278,2023-11-26,Melanie Kaiser,Consumer,Berlin,Electronics,Laptops,UltraBook 14,712.84,6,0.25,102.54
+ELS-2251,2023-08-19,Jasmin König,Home Office,Hessen,Electronics,Laptops,UltraBook 14,1038.11,3,0.0,90.87
+ELS-2275,2023-04-05,Franziska Huber,Corporate,Hessen,Books & Media,Magazines,Business Weekly,953.98,2,0.0,286.09
+ELS-2342,2024-04-12,Daniel Schuster,Consumer,Berlin,Electronics,Storage,512GB SSD,267.32,2,0.0,-24.71
+ELS-2323,2023-11-12,Nina Schäfer,Home Office,Berlin,Books & Media,Fiction,Mystery Novel,484.92,6,0.0,52.37
+ELS-2261,2023-06-17,Stefanie Peters,Consumer,Schleswig-Holstein,Electronics,Storage,512GB SSD,371.1,6,0.05,104.22
+ELS-2209,2023-10-07,Stefanie Peters,Home Office,Schleswig-Holstein,Books & Media,Magazines,Tech Monthly,853.45,5,0.0,19.43
+ELS-2065,2023-04-09,Katharina Vogel,Corporate,Hessen,Electronics,Cables,HDMI Cable 2m,451.05,6,0.0,115.44
+ELS-2011,2023-10-06,Sabine Otto,Consumer,Schleswig-Holstein,Home Appliances,Kitchen,Toaster Deluxe,330.11,4,0.0,-33.49
+ELS-2308,2023-12-10,Franziska Huber,Home Office,Sachsen,Electronics,Laptops,ProBook 15,1028.15,5,0.0,-154.21
+ELS-2112,2023-10-24,Simon Krause,Corporate,Berlin,Electronics,Laptops,UltraBook 14,1087.22,4,0.05,188.22
+ELS-2330,2023-08-02,Christian Meyer,Home Office,Schleswig-Holstein,Electronics,Storage,512GB SSD,148.15,4,0.05,20.41
+ELS-2313,2024-02-14,Jasmin König,Consumer,Hessen,Books & Media,Magazines,Business Weekly,1023.58,3,0.25,11.12
+ELS-2280,2024-01-25,Fabian Scholz,Consumer,Hessen,Books & Media,Fiction,Fantasy Novel,689.24,2,0.0,272.79
+ELS-2094,2023-07-27,Christian Meyer,Home Office,Berlin,Electronics,Monitors,24-inch LED Monitor,359.72,3,0.15,45.77
+ELS-2337,2024-03-07,Michael Frank,Consumer,Berlin,Electronics,Monitors,27-inch Curved Monitor,1263.02,1,0.0,247.17
+ELS-2262,2023-09-03,Patrick Fuchs,Corporate,Schleswig-Holstein,Electronics,Storage,512GB SSD,627.37,6,0.0,184.87
+ELS-2101,2023-06-17,Simon Krause,Home Office,Berlin,Books & Media,Magazines,Business Weekly,220.9,5,0.0,-27.82
+ELS-2168,2024-01-19,Franziska Huber,Corporate,Schleswig-Holstein,Books & Media,Fiction,Fantasy Novel,526.32,1,0.0,43.36
+ELS-2066,2023-10-30,Christian Meyer,Consumer,,Electronics,Cables,HDMI Cable 2m,859.73,3,0.0,152.93
+ELS-2242,2023-09-22,Theresa Baumann,Home Office,Sachsen,Books & Media,Magazines,Tech Monthly,608.56,6,0.0,140.26
+ELS-2007,2024-01-13,Simon Krause,Corporate,Hessen,Books & Media,Non-Fiction,Biography,1222.76,5,0.0,91.93
+ELS-2150,2024-02-13,Stefanie Peters,Home Office,,Electronics,Cables,USB-C Cable,1205.56,6,0.0,106.66
+ELS-2283,2023-06-10,Carolin Winkler,Home Office,Schleswig-Holstein,Books & Media,Magazines,Tech Monthly,479.86,3,0.0,147.41
+ELS-2336,2023-09-14,,Corporate,Schleswig-Holstein,Books & Media,Magazines,Business Weekly,143.73,1,0.0,-4.19
+ELS-2149,2023-12-23,Theresa Baumann,Home Office,Sachsen,Home Appliances,Kitchen,Blender Pro,32.14,3,0.05,10.1
+ELS-2318,2023-08-24,Vanessa Berger,Consumer,Schleswig-Holstein,Electronics,Laptops,ProBook 15,640.86,1,0.05,166.77
+ELS-2303,2023-12-04,Michael Frank,Home Office,Berlin,Electronics,Storage,512GB SSD,330.24,7,0.0,42.48
+ELS-2253,2023-03-23,Christian Meyer,Home Office,Berlin,Books & Media,Non-Fiction,Biography,1128.47,6,0.0,15.62
+ELS-2186,2024-01-04,Melanie Kaiser,Consumer,Schleswig-Holstein,Home Appliances,Kitchen,Toaster Deluxe,991.43,1,0.0,382.43
+ELS-2142,2023-07-30,Vanessa Berger,Corporate,Sachsen,Home Appliances,Heating,Ceramic Heater,864.66,1,0.0,320.4
+ELS-2133,2024-04-07,Jasmin König,Corporate,Hessen,Books & Media,Non-Fiction,History Book,840.86,7,0.0,-51.12
+ELS-2119,2023-06-12,Michael Frank,Corporate,Hessen,Books & Media,Fiction,Fantasy Novel,276.6,6,0.15,43.75
+ELS-2245,2023-07-15,Sabine Otto,Home Office,Hessen,Books & Media,Non-Fiction,Biography,182.1,7,0.0,-10.08
+ELS-2120,2023-08-13,Stefanie Peters,Home Office,Hessen,Books & Media,Non-Fiction,History Book,434.62,2,0.0,107.07
+ELS-2343,2023-07-19,Nina Schäfer,Corporate,Hessen,Books & Media,Fiction,Mystery Novel,26.83,7,0.05,5.61
+ELS-2039,2023-10-06,Fabian Scholz,Consumer,Berlin,Electronics,Storage,1TB External HDD,1172.34,6,0.25,-46.47
+ELS-2085,2023-10-10,Fabian Scholz,Corporate,Berlin,Books & Media,Fiction,Fantasy Novel,965.01,6,0.25,19.47
+ELS-2225,2023-08-28,Katharina Vogel,Corporate,Sachsen,Books & Media,Fiction,Fantasy Novel,849.37,7,0.15,-8.65
+ELS-2020,2023-04-01,Vanessa Berger,Home Office,Berlin,Electronics,Cables,HDMI Cable 2m,274.01,4,0.25,20.68
+ELS-2073,2024-05-14,Christian Meyer,Corporate,Berlin,Electronics,Cables,HDMI Cable 2m,745.13,4,0.0,253.44
+ELS-2076,2024-02-15,Tobias Richter,Home Office,Berlin,Electronics,Storage,1TB External HDD,1276.08,5,0.25,162.4
+ELS-2265,2023-08-02,Simon Krause,Home Office,Sachsen,Electronics,Storage,512GB SSD,1471.92,5,0.0,549.3
+ELS-2041,2023-05-07,Christian Meyer,Home Office,Berlin,Electronics,Monitors,24-inch LED Monitor,215.58,1,0.25,33.45
+ELS-2305,2023-04-07,,Corporate,Sachsen,Electronics,Cables,USB-C Cable,1267.77,1,0.15,349.58
+ELS-2111,2024-03-16,Alexander Graf,Consumer,Berlin,Electronics,Storage,1TB External HDD,1097.65,2,0.05,184.93
+ELS-2325,2023-11-16,Patrick Fuchs,Consumer,Berlin,Books & Media,Magazines,Business Weekly,252.22,5,0.0,13.33
+ELS-2049,2023-07-25,Alexander Graf,Consumer,Berlin,Electronics,Monitors,24-inch LED Monitor,69.31,7,0.0,0.78
+ELS-2019,2023-10-15,Katharina Vogel,Corporate,Schleswig-Holstein,Home Appliances,Kitchen,Toaster Deluxe,326.86,6,0.25,79.71
+ELS-2044,2023-11-12,Alexander Graf,Consumer,Berlin,Books & Media,Fiction,Mystery Novel,858.65,5,0.0,-92.49
+ELS-2274,2023-09-22,Simon Krause,Corporate,Schleswig-Holstein,Electronics,Cables,USB-C Cable,910.84,6,0.0,253.41
+ELS-2091,2023-12-06,Tobias Richter,Corporate,Schleswig-Holstein,Books & Media,Fiction,Mystery Novel,1150.99,2,0.05,-42.02
+ELS-2276,2024-04-06,Katharina Vogel,Home Office,Sachsen,Books & Media,Magazines,Business Weekly,529.82,5,0.25,6.28
+ELS-2161,2023-09-11,Michael Frank,Home Office,Hessen,Home Appliances,Cleaning,Steam Mop,164.8,2,0.0,-0.8
+ELS-2115,2024-02-26,Tobias Richter,Consumer,Sachsen,Books & Media,Fiction,Mystery Novel,1389.9,3,0.25,179.67
+ELS-2069,2024-01-19,Simon Krause,Corporate,Sachsen,Home Appliances,Cleaning,Steam Mop,530.3,4,0.0,208.45
+ELS-2216,2023-05-14,Nina Schäfer,Corporate,Hessen,Electronics,Monitors,27-inch Curved Monitor,734.09,7,0.0,25.08
+ELS-2132,2023-09-03,Simon Krause,Consumer,Sachsen,Books & Media,Fiction,Mystery Novel,550.5,2,0.25,56.92
+ELS-2002,2023-09-27,,Consumer,Berlin,Books & Media,Non-Fiction,Biography,1056.0,5,0.15,170.11
+ELS-2188,2023-10-25,Fabian Scholz,Home Office,Hessen,Books & Media,Non-Fiction,Biography,128.86,2,0.0,-0.2
+ELS-2228,2023-12-30,Simon Krause,Consumer,Schleswig-Holstein,Books & Media,Fiction,Fantasy Novel,858.21,5,0.25,-17.17
+ELS-2179,2023-04-30,Sabine Otto,Consumer,Hessen,Books & Media,Magazines,Business Weekly,958.31,6,0.25,-31.09
+ELS-2182,2023-12-07,Marco Lehmann,Consumer,Schleswig-Holstein,Home Appliances,Heating,Radiator Fan,555.87,4,0.0,189.63
+ELS-2134,2023-09-05,Fabian Scholz,Consumer,Hessen,Books & Media,Magazines,Business Weekly,102.0,2,0.15,14.04
+ELS-2224,2023-11-29,Patrick Fuchs,Home Office,Berlin,Home Appliances,Kitchen,Blender Pro,304.78,3,0.0,67.54
+ELS-2249,2023-05-01,Michael Frank,Consumer,Schleswig-Holstein,Electronics,Storage,1TB External HDD,221.78,3,0.05,12.35
+ELS-2284,2023-05-07,Stefanie Peters,Corporate,Sachsen,Electronics,Cables,HDMI Cable 2m,1004.73,6,0.25,281.6
+ELS-2169,2023-04-22,Jasmin König,Consumer,Schleswig-Holstein,Home Appliances,Kitchen,Toaster Deluxe,1414.32,6,0.0,453.72
+ELS-2264,2023-04-29,Theresa Baumann,Corporate,Sachsen,Electronics,Cables,HDMI Cable 2m,641.24,1,0.0,165.08
+ELS-2143,2023-12-24,Daniel Schuster,Consumer,Hessen,Electronics,Monitors,24-inch LED Monitor,537.88,2,0.15,182.59
+ELS-2246,2023-09-10,Daniel Schuster,Home Office,Schleswig-Holstein,Books & Media,Non-Fiction,History Book,946.44,3,,180.22
+ELS-2301,2024-03-07,Carolin Winkler,Home Office,Schleswig-Holstein,Books & Media,Fiction,Fantasy Novel,1420.19,1,0.25,75.24
+ELS-2028,2023-08-31,Fabian Scholz,Corporate,Hessen,Books & Media,Non-Fiction,Biography,1236.45,3,0.0,84.12
+ELS-2139,2023-04-15,Benjamin Herrmann,Consumer,Sachsen,Home Appliances,Cleaning,Cordless Vacuum,608.96,1,0.05,161.11
+ELS-2090,2023-04-26,Fabian Scholz,Consumer,Hessen,Books & Media,Non-Fiction,Biography,625.21,2,0.15,210.77
+ELS-2024,2024-01-20,Alexander Graf,Home Office,Schleswig-Holstein,Electronics,Storage,512GB SSD,1391.66,1,0.0,483.6
+ELS-2097,2024-04-23,Sabine Otto,Corporate,Hessen,Home Appliances,Kitchen,Blender Pro,1464.45,3,0.25,38.85
+ELS-2080,2023-10-23,Simon Krause,Home Office,Sachsen,Electronics,Laptops,UltraBook 14,165.63,5,0.05,62.87
+ELS-2344,2024-05-11,Alexander Graf,Consumer,Hessen,Books & Media,Fiction,Fantasy Novel,899.47,2,0.0,43.14
+ELS-2193,2024-01-16,Daniel Schuster,Consumer,Schleswig-Holstein,Electronics,Cables,HDMI Cable 2m,248.29,2,0.05,72.22
+ELS-2243,2023-12-04,Benjamin Herrmann,Home Office,Schleswig-Holstein,Electronics,Cables,USB-C Cable,446.78,2,0.0,175.35
+ELS-2172,2023-11-27,Benjamin Herrmann,Consumer,Berlin,Books & Media,Non-Fiction,Biography,619.9,4,0.0,8.41
+ELS-2327,2023-11-03,Daniel Schuster,Home Office,Berlin,Electronics,Laptops,UltraBook 14,212.8,6,0.05,-20.86
+ELS-2068,2023-04-24,Benjamin Herrmann,Consumer,Sachsen,Home Appliances,Kitchen,Blender Pro,1268.88,2,0.15,216.87
+ELS-2146,2023-03-10,Franziska Huber,Home Office,Sachsen,Electronics,Storage,512GB SSD,574.35,2,0.0,12.17
+ELS-2279,2024-02-10,,Home Office,Berlin,Electronics,Monitors,27-inch Curved Monitor,794.11,4,0.05,218.64
+ELS-2082,2023-08-04,Daniel Schuster,Home Office,Sachsen,Electronics,Storage,512GB SSD,1109.7,1,0.0,-95.85
+ELS-2232,2024-01-25,Benjamin Herrmann,Consumer,Hessen,Home Appliances,Heating,Radiator Fan,475.37,4,0.0,126.66
+ELS-2038,2024-05-18,Franziska Huber,Consumer,Sachsen,Home Appliances,Kitchen,Blender Pro,1090.47,3,0.0,205.3
+ELS-2331,2024-04-18,Benjamin Herrmann,Consumer,Hessen,Home Appliances,Kitchen,Toaster Deluxe,187.37,3,0.15,20.04
+ELS-2141,2024-02-24,Theresa Baumann,Corporate,Sachsen,Electronics,Monitors,24-inch LED Monitor,902.28,2,0.0,-71.85
+ELS-2035,2023-09-15,Franziska Huber,Consumer,Hessen,Home Appliances,Heating,Ceramic Heater,173.34,5,0.0,13.43
+ELS-2126,2023-05-12,Theresa Baumann,Corporate,Schleswig-Holstein,Home Appliances,Heating,Radiator Fan,987.12,1,0.25,198.25
+ELS-2237,2023-06-06,,Home Office,Sachsen,Books & Media,Fiction,Fantasy Novel,781.91,4,0.0,-4.59
+ELS-2302,2023-09-29,Melanie Kaiser,Consumer,Sachsen,Electronics,Monitors,27-inch Curved Monitor,703.66,6,0.05,3.73
+ELS-2254,2023-06-06,Nina Schäfer,Corporate,Hessen,Electronics,Monitors,24-inch LED Monitor,108.66,6,0.0,16.63
+ELS-2177,2023-11-17,Benjamin Herrmann,Consumer,Schleswig-Holstein,Books & Media,Non-Fiction,History Book,276.01,3,0.0,11.72
+ELS-2093,2023-08-07,Simon Krause,Consumer,Berlin,Electronics,Laptops,UltraBook 14,692.34,3,0.25,203.94
+ELS-2110,2023-09-26,Vanessa Berger,Corporate,Hessen,Home Appliances,Cleaning,Steam Mop,30.43,7,0.25,3.06
+ELS-2281,2023-06-05,Patrick Fuchs,Consumer,Schleswig-Holstein,Books & Media,Magazines,Tech Monthly,1261.4,3,0.15,426.39
+ELS-2339,2024-03-22,Vanessa Berger,Home Office,Berlin,Home Appliances,Cleaning,Cordless Vacuum,324.45,2,0.15,32.12
+ELS-2072,2023-12-02,Carolin Winkler,Consumer,Berlin,Home Appliances,Cleaning,Steam Mop,255.4,1,0.15,100.69
+ELS-2162,2023-11-30,Marco Lehmann,Home Office,Hessen,Electronics,Storage,512GB SSD,1048.83,7,0.0,-147.11
+ELS-2333,2024-02-19,Carolin Winkler,Corporate,Berlin,Electronics,Monitors,24-inch LED Monitor,387.74,2,0.15,58.27
+ELS-2270,2023-09-30,Stefanie Peters,Home Office,Berlin,Books & Media,Fiction,Fantasy Novel,765.45,6,0.25,303.2
+ELS-2338,2024-03-15,Stefanie Peters,Consumer,Sachsen,Books & Media,Fiction,Mystery Novel,634.43,5,0.05,107.83
+ELS-2092,2023-08-27,Simon Krause,Corporate,Schleswig-Holstein,Electronics,Laptops,UltraBook 14,1249.98,4,0.0,50.99
+ELS-2081,2023-04-15,Daniel Schuster,Corporate,Sachsen,Electronics,Laptops,ProBook 15,986.59,1,0.0,81.23
+ELS-2192,2023-09-21,Tobias Richter,Home Office,Sachsen,Electronics,Monitors,27-inch Curved Monitor,24.17,4,0.15,5.28

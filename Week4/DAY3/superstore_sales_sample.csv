@@ -1,0 +1,413 @@
+order_id,order_date,ship_date,ship_mode,customer_name,segment,region,state,city,category,sub_category,product_name,quantity,unit_price,discount,sales,profit
+US-1403,2024-01-03,2024-01-06,First Class,Marie Wagner,Corporate,Berlin-West,Berlin,Spandau,Technology,Copiers,Desktop Copier,4,549.0,0.3,1537.2,255.5
+US-1278,2024-01-05,2024-01-12,Second Class,Lena Wagner,Corporate,Berlin-West,Berlin,Wilmersdorf,Office Supplies,Art,Marker Set,6,12.99,0.3,54.56,11.14
+US-1200,2024-01-05,2024-01-08,Same Day,Laura Becker,Consumer,Berlin-Süd,Berlin,Zehlendorf,Furniture,Bookcases,5-Shelf Bookcase,2,149.99,0.0,299.98,27.48
+US-1060,2024-01-07,2024-01-11,Same Day,Emilia Meyer,Home Office,Berlin-Ost,Berlin,Hellersdorf,Office Supplies,Binders,Binder Clips Box,8,4.5,0.0,36.0,7.09
+US-1468,2024-01-08,2024-01-10,Second Class,Lena Wagner,Consumer,Berlin-West,Berlin,Charlottenburg,Furniture,Furnishings,Wall Clock,5,24.99,0.15,106.21,4.39
+US-1229,2024-01-09,2024-01-10,Standard Class,Emilia Müller,Home Office,Berlin-Ost,Berlin,Friedrichshain,Office Supplies,Art,Whiteboard 4x3,9,74.99,0.15,573.67,126.58
+US-1354,2024-01-10,2024-01-17,First Class,Marie Fischer,Corporate,Berlin-West,Berlin,Spandau,Technology,Machines,Label Printer,1,89.99,0.2,71.99,8.64
+US-1320,2024-01-11,2024-01-14,Second Class,Maximilian Meyer,Corporate,Berlin-West,Berlin,Schöneberg,Furniture,Chairs,Executive Leather Chair,5,349.5,0.0,1747.5,220.0
+US-1099,2024-01-12,2024-01-19,Standard Class,Lukas Schulz,Home Office,Berlin-West,Berlin,Schöneberg,Office Supplies,Storage,Storage Bin Set,7,29.99,0.0,209.93,54.81
+US-1212,2024-01-12,2024-01-15,Same Day,Lea Wagner,Consumer,Berlin-Süd,Berlin,Tempelhof,Technology,Accessories,USB-C Hub,8,29.99,0.2,191.94,20.91
+US-1413,2024-01-12,2024-01-14,Second Class,Jan Schulz,Consumer,Berlin-Süd,Berlin,Zehlendorf,Office Supplies,Paper,Sticky Notes Pack,1,6.75,0.0,6.75,1.75
+US-1036,2024-01-13,2024-01-15,First Class,Emilia Fischer,Consumer,Berlin-West,Berlin,Wilmersdorf,Technology,Accessories,Wireless Mouse,6,24.99,0.3,104.96,17.72
+US-1513,2024-01-13,2024-01-15,Standard Class,Felix Becker,Corporate,Berlin-West,Berlin,Wilmersdorf,Office Supplies,Storage,Storage Bin Set,8,29.99,0.15,203.93,33.98
+US-1177,2024-01-15,2024-01-16,Second Class,Jan Weber,Home Office,Berlin-West,Berlin,Wilmersdorf,Office Supplies,Storage,File Cabinet,1,119.0,0.2,95.2,16.57
+US-1499,2024-01-16,2024-01-21,Same Day,Paul Meyer,Home Office,Berlin-West,Berlin,Spandau,Technology,Machines,Laminator,5,64.99,0.0,324.95,20.91
+US-1265,2024-01-17,2024-01-20,Same Day,Laura Schneider,Home Office,Berlin-Mitte,Berlin,Mitte,Technology,Accessories,Wireless Mouse,4,24.99,0.15,84.97,6.89
+US-1108,2024-01-17,2024-01-24,Second Class,Niklas Becker,Corporate,Berlin-Süd,Berlin,Neukölln,Technology,Copiers,All-in-One Printer,6,229.0,0.0,1374.0,307.63
+US-1057,2024-01-21,2024-01-22,Second Class,Lukas Schulz,Consumer,Berlin-Mitte,Berlin,Wedding,Furniture,Chairs,Folding Chair 4-Pack,4,79.0,0.0,316.0,20.52
+US-1196,2024-01-22,2024-01-25,Same Day,Niklas Weber,Consumer,Berlin-Süd,Berlin,Zehlendorf,Technology,Accessories,Wireless Mouse,2,24.99,0.0,49.98,8.24
+US-1214,2024-01-23,2024-01-27,Standard Class,Lea Fischer,Consumer,Berlin-Mitte,Berlin,Tiergarten,Office Supplies,Binders,3-Ring Binder 2in,8,8.99,0.0,71.92,17.31
+US-1234,2024-01-24,2024-01-25,Second Class,Jan Müller,Corporate,Berlin-West,Berlin,Wilmersdorf,Technology,Copiers,All-in-One Printer,5,229.0,0.15,973.25,176.43
+US-1367,2024-01-24,2024-01-25,Second Class,Leon Müller,Home Office,Berlin-Süd,Berlin,Zehlendorf,Furniture,Furnishings,Wall Clock,5,24.99,0.2,99.96,4.88
+US-1460,2024-01-26,2024-01-31,First Class,Lena Weber,Consumer,Berlin-Ost,Berlin,Hellersdorf,Furniture,Chairs,Ergo Task Chair,1,189.99,0.0,189.99,21.76
+US-1197,2024-01-26,2024-02-02,Standard Class,Marie Müller,Corporate,Berlin-Ost,Berlin,Marzahn,Furniture,Tables,Round Meeting Table,9,259.0,0.0,2331.0,215.67
+US-1487,2024-01-26,2024-02-02,Standard Class,Katharina Schulz,Consumer,Berlin-Ost,Berlin,Lichtenberg,Office Supplies,Paper,Copy Paper Case,7,39.99,0.1,251.94,59.73
+US-1125,2024-01-27,2024-01-29,Standard Class,Katharina Müller,Corporate,Berlin-Ost,Berlin,Lichtenberg,Office Supplies,Storage,File Cabinet,3,119.0,0.3,249.9,36.69
+US-1450,2024-01-28,2024-01-29,First Class,Maximilian Schmidt,Home Office,Berlin-Mitte,Berlin,Mitte,Furniture,Furnishings,Office Rug,7,65.0,0.15,386.75,25.36
+US-1006,2024-01-29,2024-01-31,First Class,Leon Wagner,Consumer,Berlin-West,Berlin,Schöneberg,Office Supplies,Paper,Sticky Notes Pack,1,6.75,0.3,4.72,0.98
+US-1218,2024-01-30,2024-02-04,Second Class,Lea Hoffmann,Corporate,Berlin-West,Berlin,Wilmersdorf,Office Supplies,Paper,Sticky Notes Pack,7,6.75,0.1,42.52,8.83
+US-1024,2024-01-31,2024-02-02,Same Day,Finn Weber,Corporate,Berlin-West,Berlin,Schöneberg,Office Supplies,Paper,Sticky Notes Pack,7,6.75,0.0,47.25,11.14
+US-1075,2024-01-31,2024-02-02,Same Day,Jan Weber,Consumer,Berlin-West,Berlin,Wilmersdorf,Technology,Accessories,USB-C Hub,5,29.99,0.15,127.46,21.23
+US-1138,2024-02-01,2024-02-05,Second Class,Leon Schmidt,Consumer,Berlin-Süd,Berlin,Tempelhof,Office Supplies,Art,Marker Set,2,12.99,0.3,18.19,4.37
+US-1052,2024-02-01,2024-02-03,Same Day,Jan Müller,Corporate,Berlin-Mitte,Berlin,Tiergarten,Office Supplies,Art,Whiteboard 4x3,7,74.99,0.1,472.44,108.59
+US-1355,2024-02-03,2024-02-04,First Class,Niklas Hoffmann,Corporate,Berlin-Mitte,Berlin,Tiergarten,Office Supplies,Storage,File Cabinet,5,119.0,0.0,595.0,132.98
+US-1255,2024-02-04,2024-02-07,First Class,Lena Müller,Home Office,Berlin-Mitte,Berlin,Tiergarten,Technology,Copiers,All-in-One Printer,1,229.0,0.3,160.3,16.96
+US-1017,2024-02-04,2024-02-05,First Class,Tim Fischer,Home Office,Berlin-West,Berlin,Charlottenburg,Furniture,Chairs,Ergo Task Chair,6,189.99,0.0,1139.94,-17.86
+US-1473,2024-02-05,2024-02-10,First Class,Laura Weber,Corporate,Berlin-Ost,Berlin,Marzahn,Technology,Machines,Label Printer,3,89.99,0.1,242.97,48.1
+US-1028,2024-02-05,2024-02-10,Standard Class,Marie Wagner,Home Office,Berlin-West,Berlin,Charlottenburg,Technology,Phones,Wireless Headset,2,59.99,0.2,95.98,7.62
+US-1236,2024-02-08,2024-02-11,First Class,Leon Müller,Corporate,Berlin-Mitte,Berlin,Wedding,Furniture,Furnishings,Desk Lamp,7,34.99,0.3,171.45,4.54
+US-1023,2024-02-08,2024-02-12,Standard Class,Anna Hoffmann,Consumer,Berlin-West,Berlin,Schöneberg,Furniture,Furnishings,Desk Lamp,9,34.99,0.0,314.91,9.25
+US-1434,2024-02-08,2024-02-13,Second Class,Leon Meyer,Home Office,Berlin-Ost,Berlin,Lichtenberg,Office Supplies,Art,Whiteboard 4x3,3,74.99,0.1,202.47,39.77
+US-1444,2024-02-10,2024-02-14,First Class,Paul Schneider,Corporate,Berlin-Ost,Berlin,Marzahn,Office Supplies,Art,Whiteboard 4x3,5,74.99,0.1,337.45,73.92
+US-1115,2024-02-11,2024-02-14,First Class,Paul Weber,Corporate,Berlin-Mitte,Berlin,Tiergarten,Technology,Copiers,Desktop Copier,3,549.0,0.0,1647.0,203.42
+US-1077,2024-02-11,2024-02-16,First Class,Leon Schulz,Consumer,Berlin-Ost,Berlin,Hellersdorf,Technology,Copiers,All-in-One Printer,1,229.0,0.1,206.1,40.97
+US-1286,2024-02-12,2024-02-15,First Class,Felix Schneider,Corporate,Berlin-Süd,Berlin,Zehlendorf,Furniture,Tables,Standing Desk,2,399.99,0.15,679.98,-9.09
+US-1307,2024-02-14,2024-02-17,Second Class,Emilia Fischer,Home Office,Berlin-Ost,Berlin,Hellersdorf,Office Supplies,Art,Marker Set,7,12.99,0.0,90.93,16.4
+US-1294,2024-02-14,2024-02-19,First Class,Hannah Fischer,Home Office,Berlin-Süd,Berlin,Steglitz,Technology,Machines,Laminator,8,64.99,0.0,519.92,59.39
+US-1082,2024-02-15,2024-02-18,Standard Class,Lena Wagner,Home Office,Berlin-Ost,Berlin,Hellersdorf,Technology,Phones,Smartphone Case,5,19.99,0.0,99.95,9.46
+US-1132,2024-02-15,2024-02-19,Same Day,Emilia Schulz,Home Office,Berlin-Ost,Berlin,Lichtenberg,Technology,Copiers,All-in-One Printer,2,229.0,0.0,458.0,36.29
+US-1301,2024-02-16,2024-02-23,Standard Class,Finn Hoffmann,Home Office,Berlin-Mitte,Berlin,Moabit,Technology,Machines,Label Printer,4,89.99,0.0,359.96,65.4
+US-1304,2024-02-17,2024-02-20,Second Class,Niklas Müller,Home Office,Berlin-Mitte,Berlin,Moabit,Technology,Copiers,Desktop Copier,2,549.0,0.0,1098.0,128.37
+US-1476,2024-02-19,2024-02-24,Standard Class,Paul Schneider,Consumer,Berlin-West,Berlin,Spandau,Office Supplies,Storage,File Cabinet,2,119.0,0.0,238.0,43.23
+US-1188,2024-02-19,2024-02-23,First Class,Leon Hoffmann,Consumer,Berlin-Süd,Berlin,Steglitz,Technology,Phones,Wireless Headset,6,59.99,0.3,251.96,54.26
+US-1479,2024-02-19,2024-02-20,Second Class,Finn Fischer,Home Office,Berlin-Mitte,Berlin,Wedding,Furniture,Tables,Side Table,4,89.0,0.15,302.6,57.34
+US-1442,2024-02-20,2024-02-27,Same Day,Felix Weber,Home Office,Berlin-Süd,Berlin,Steglitz,Furniture,Chairs,Executive Leather Chair,3,349.5,0.0,1048.5,128.84
+US-1094,2024-02-20,2024-02-27,Standard Class,Sophie Weber,Consumer,Berlin-West,Berlin,Spandau,Technology,Phones,Smartphone Case,2,19.99,0.1,35.98,8.16
+US-1002,2024-02-22,2024-02-23,First Class,Hannah Meyer,Consumer,Berlin-Süd,Berlin,Steglitz,Furniture,Tables,Standing Desk,7,399.99,0.0,2799.93,314.67
+US-1069,2024-02-22,2024-02-23,First Class,Johanna Becker,Consumer,Berlin-Mitte,Berlin,Wedding,Office Supplies,Paper,Sticky Notes Pack,5,6.75,0.1,30.38,7.61
+US-1230,2024-02-24,2024-02-25,First Class,Marie Fischer,Corporate,Berlin-Ost,Berlin,Friedrichshain,Office Supplies,Art,Marker Set,9,12.99,0.0,116.91,34.22
+US-1417,2024-02-25,2024-02-26,Second Class,Tim Wagner,Home Office,Berlin-Süd,Berlin,Neukölln,Furniture,Furnishings,Desk Lamp,4,34.99,0.15,118.97,9.44
+US-1375,2024-02-25,2024-02-29,Same Day,Jan Schmidt,Corporate,Berlin-Süd,Berlin,Tempelhof,Office Supplies,Paper,Sticky Notes Pack,1,6.75,0.2,5.4,1.43
+US-1111,2024-02-26,2024-03-04,Second Class,Lukas Meyer,Home Office,Berlin-Ost,Berlin,Lichtenberg,Technology,Machines,Label Printer,1,89.99,0.0,89.99,11.24
+US-1013,2024-02-27,2024-03-01,Standard Class,Anna Fischer,Consumer,Berlin-West,Berlin,Charlottenburg,Office Supplies,Art,Marker Set,5,12.99,0.0,64.95,12.78
+US-1213,2024-02-27,2024-02-28,Second Class,Lukas Fischer,Consumer,Berlin-Süd,Berlin,Steglitz,Furniture,Tables,Side Table,7,89.0,0.15,529.55,67.87
+US-1034,2024-02-27,2024-02-28,Second Class,Anna Meyer,Corporate,Berlin-West,Berlin,Schöneberg,Office Supplies,Art,Marker Set,3,12.99,0.15,33.12,7.47
+US-1259,2024-02-28,2024-03-02,Same Day,Leon Schulz,Home Office,Berlin-Mitte,Berlin,Moabit,Office Supplies,Paper,Sticky Notes Pack,8,6.75,0.15,45.9,7.47
+US-1269,2024-03-01,2024-03-03,Same Day,Jan Meyer,Consumer,Berlin-Ost,Berlin,Marzahn,Technology,Phones,Smartphone Case,4,19.99,0.3,55.97,9.84
+US-1438,2024-03-02,2024-03-09,Standard Class,Leon Müller,Home Office,Berlin-Ost,Berlin,Hellersdorf,Technology,Accessories,Wireless Mouse,9,24.99,0.1,202.42,23.09
+US-1486,2024-03-02,2024-03-04,First Class,Finn Müller,Home Office,Berlin-Ost,Berlin,Marzahn,Technology,Copiers,All-in-One Printer,1,229.0,0.2,183.2,28.86
+US-1109,2024-03-03,2024-03-07,Standard Class,Felix Schulz,Consumer,Berlin-Ost,Berlin,Marzahn,Furniture,Bookcases,5-Shelf Bookcase,2,149.99,0.2,239.98,12.98
+US-1448,2024-03-05,2024-03-12,Second Class,Jonas Schmidt,Consumer,Berlin-Ost,Berlin,Hellersdorf,Office Supplies,Paper,Copy Paper Case,4,39.99,0.2,127.97,28.03
+US-1047,2024-03-09,2024-03-13,Same Day,Katharina Meyer,Home Office,Berlin-Mitte,Berlin,Moabit,Technology,Phones,Smartphone Case,9,19.99,0.15,152.92,24.53
+US-1406,2024-03-09,2024-03-13,First Class,Maximilian Wagner,Home Office,Berlin-Süd,Berlin,Tempelhof,Office Supplies,Paper,Sticky Notes Pack,9,6.75,0.15,51.64,12.9
+US-1452,2024-03-10,2024-03-17,Same Day,Jan Schulz,Home Office,Berlin-Ost,Berlin,Hellersdorf,Office Supplies,Storage,Storage Bin Set,9,29.99,0.0,269.91,48.22
+US-1299,2024-03-10,2024-03-15,Same Day,Lena Schneider,Corporate,Berlin-Ost,Berlin,Hellersdorf,Furniture,Chairs,Ergo Task Chair,2,189.99,0.0,379.98,18.02
+US-1364,2024-03-11,2024-03-18,First Class,Hannah Becker,Home Office,Berlin-Süd,Berlin,Neukölln,Furniture,Chairs,Ergo Task Chair,3,189.99,0.0,569.97,41.27
+US-1151,2024-03-12,2024-03-19,Standard Class,Katharina Müller,Consumer,Berlin-West,Berlin,Wilmersdorf,Furniture,Furnishings,Office Rug,8,65.0,0.1,468.0,44.5
+US-1263,2024-03-12,2024-03-14,Standard Class,Niklas Schulz,Corporate,Berlin-Süd,Berlin,Tempelhof,Office Supplies,Art,Whiteboard 4x3,6,74.99,0.3,314.96,86.35
+US-1000,2024-03-12,2024-03-19,Same Day,Lea Schmidt,Consumer,Berlin-Mitte,Berlin,Mitte,Technology,Accessories,USB-C Hub,2,29.99,0.2,47.98,8.39
+US-1253,2024-03-13,2024-03-16,Same Day,Niklas Fischer,Corporate,Berlin-Süd,Berlin,Neukölln,Office Supplies,Binders,3-Ring Binder 2in,5,8.99,0.0,44.95,10.76
+US-1123,2024-03-13,2024-03-20,Same Day,Tim Fischer,Corporate,Berlin-Mitte,Berlin,Moabit,Technology,Copiers,Desktop Copier,1,549.0,0.0,549.0,71.59
+US-1334,2024-03-14,2024-03-19,Second Class,Finn Meyer,Consumer,Berlin-Süd,Berlin,Zehlendorf,Furniture,Bookcases,Corner Bookcase,7,129.0,0.0,903.0,69.55
+US-1416,2024-03-14,2024-03-19,Second Class,Tim Weber,Home Office,Berlin-Süd,Berlin,Tempelhof,Furniture,Furnishings,Office Rug,3,65.0,0.15,165.75,18.47
+US-1007,2024-03-14,2024-03-17,First Class,Lea Hoffmann,Home Office,Berlin-Ost,Berlin,Lichtenberg,Office Supplies,Art,Whiteboard 4x3,3,74.99,0.0,224.97,67.26
+US-1426,2024-03-15,2024-03-19,Second Class,Maximilian Weber,Corporate,Berlin-West,Berlin,Schöneberg,Technology,Phones,Wireless Headset,7,59.99,0.0,419.93,56.24
+US-1516,2024-03-15,2024-03-17,Same Day,Laura Weber,Corporate,Berlin-Mitte,Berlin,Moabit,Technology,Accessories,USB-C Hub,1,29.99,0.1,26.99,4.21
+US-1243,2024-03-15,2024-03-16,First Class,Jonas Wagner,Corporate,Berlin-West,Berlin,Wilmersdorf,Furniture,Bookcases,Corner Bookcase,3,129.0,0.1,348.3,26.6
+US-1043,2024-03-16,2024-03-17,Standard Class,Johanna Schulz,Corporate,Berlin-Mitte,Berlin,Moabit,Office Supplies,Paper,Copy Paper Case,1,39.99,0.0,39.99,10.44
+US-1347,2024-03-17,2024-03-22,First Class,Katharina Wagner,Home Office,Berlin-Ost,Berlin,Marzahn,Office Supplies,Storage,File Cabinet,4,119.0,0.0,476.0,139.02
+US-1441,2024-03-17,2024-03-21,Second Class,Emilia Becker,Home Office,Berlin-West,Berlin,Schöneberg,Technology,Accessories,USB-C Hub,1,29.99,0.0,29.99,6.71
+US-1225,2024-03-19,2024-03-21,Second Class,Finn Schulz,Corporate,Berlin-Mitte,Berlin,Wedding,Office Supplies,Art,Whiteboard 4x3,6,74.99,0.0,449.94,106.66
+US-1072,2024-03-21,2024-03-23,Standard Class,Maximilian Schneider,Corporate,Berlin-Mitte,Berlin,Moabit,Office Supplies,Storage,File Cabinet,3,119.0,0.15,303.45,54.03
+US-1469,2024-03-21,2024-03-25,Standard Class,Katharina Meyer,Consumer,Berlin-Süd,Berlin,Tempelhof,Office Supplies,Binders,3-Ring Binder 2in,2,8.99,0.2,14.38,3.18
+US-1290,2024-03-21,2024-03-24,Standard Class,Lena Fischer,Consumer,Berlin-Mitte,Berlin,Tiergarten,Technology,Accessories,Wireless Mouse,2,24.99,0.15,42.48,8.68
+US-1086,2024-03-22,2024-03-25,Standard Class,Lea Wagner,Consumer,Berlin-Süd,Berlin,Neukölln,Furniture,Tables,Side Table,9,89.0,0.0,801.0,96.62
+US-1407,2024-03-22,2024-03-24,Standard Class,Johanna Meyer,Consumer,Berlin-West,Berlin,Wilmersdorf,Technology,Accessories,Wireless Mouse,3,24.99,0.2,59.98,6.54
+US-1387,2024-03-23,2024-03-28,Second Class,Leon Becker,Consumer,Berlin-Süd,Berlin,Neukölln,Office Supplies,Storage,File Cabinet,5,119.0,0.0,595.0,134.39
+US-1015,2024-03-25,2024-03-28,Second Class,Katharina Wagner,Home Office,Berlin-Mitte,Berlin,Moabit,Furniture,Furnishings,Office Rug,9,65.0,0.3,409.5,23.22
+US-1226,2024-03-27,2024-04-03,Same Day,Paul Hoffmann,Consumer,Berlin-Ost,Berlin,Hellersdorf,Technology,Copiers,All-in-One Printer,6,229.0,0.0,1374.0,225.11
+US-1133,2024-03-27,2024-03-28,Second Class,Lena Hoffmann,Corporate,Berlin-Süd,Berlin,Steglitz,Technology,Accessories,Wireless Mouse,9,24.99,0.2,179.93,23.21
+US-1428,2024-03-27,2024-04-03,Second Class,Marie Müller,Consumer,Berlin-Ost,Berlin,Lichtenberg,Furniture,Tables,Side Table,1,89.0,0.0,89.0,4.61
+US-1233,2024-03-28,2024-03-29,Standard Class,Emilia Meyer,Home Office,Berlin-Süd,Berlin,Zehlendorf,Furniture,Chairs,Folding Chair 4-Pack,8,79.0,0.3,442.4,95.56
+US-1134,2024-03-29,2024-04-03,Same Day,Maximilian Schneider,Corporate,Berlin-West,Berlin,Wilmersdorf,Furniture,Bookcases,5-Shelf Bookcase,3,149.99,0.3,314.98,19.8
+US-1311,2024-03-30,2024-04-03,Second Class,Anna Fischer,Consumer,Berlin-West,Berlin,Wilmersdorf,Technology,Copiers,All-in-One Printer,1,229.0,0.0,229.0,20.61
+US-1078,2024-03-30,2024-04-03,Second Class,Niklas Weber,Home Office,Berlin-West,Berlin,Charlottenburg,Technology,Machines,Label Printer,9,89.99,0.2,647.93,81.67
+US-1291,2024-04-01,2024-04-02,First Class,Emilia Fischer,Consumer,Berlin-West,Berlin,Charlottenburg,Office Supplies,Art,Marker Set,9,12.99,0.3,81.84,18.27
+US-1062,2024-04-03,2024-04-07,First Class,Jonas Meyer,Home Office,Berlin-Süd,Berlin,Zehlendorf,Office Supplies,Art,Whiteboard 4x3,4,74.99,0.0,299.96,71.14
+US-1238,2024-04-05,2024-04-12,Second Class,Katharina Weber,Home Office,Berlin-West,Berlin,Spandau,Office Supplies,Art,Whiteboard 4x3,7,74.99,0.0,524.93,128.15
+US-1458,2024-04-06,2024-04-07,Same Day,Laura Schmidt,Home Office,Berlin-West,Berlin,Spandau,Office Supplies,Storage,Storage Bin Set,3,29.99,0.0,89.97,21.6
+US-1041,2024-04-08,2024-04-12,First Class,Sophie Schulz,Corporate,Berlin-Süd,Berlin,Steglitz,Office Supplies,Storage,File Cabinet,7,119.0,0.2,666.4,146.16
+US-1329,2024-04-08,2024-04-10,Second Class,Maximilian Wagner,Home Office,Berlin-Mitte,Berlin,Tiergarten,Furniture,Tables,Round Meeting Table,1,259.0,0.1,233.1,23.82
+US-1066,2024-04-08,2024-04-11,Second Class,Lea Schneider,Consumer,Berlin-Ost,Berlin,Marzahn,Furniture,Chairs,Folding Chair 4-Pack,2,79.0,0.2,126.4,7.68
+US-1386,2024-04-09,2024-04-12,Second Class,Maximilian Schneider,Home Office,Berlin-West,Berlin,Spandau,Technology,Accessories,Laptop Stand,8,39.0,0.0,312.0,46.47
+US-1303,2024-04-11,2024-04-15,First Class,Maximilian Schulz,Consumer,Berlin-Mitte,Berlin,Mitte,Technology,Accessories,USB-C Hub,6,29.99,0.2,143.95,22.93
+US-1001,2024-04-11,2024-04-18,First Class,Marie Becker,Consumer,Berlin-Mitte,Berlin,Moabit,Furniture,Chairs,Folding Chair 4-Pack,9,79.0,0.1,639.9,46.77
+US-1059,2024-04-11,2024-04-12,Standard Class,Laura Schulz,Home Office,Berlin-Mitte,Berlin,Mitte,Technology,Copiers,All-in-One Printer,4,229.0,0.0,916.0,104.43
+US-1323,2024-04-12,2024-04-13,Standard Class,Sophie Weber,Corporate,Berlin-Ost,Berlin,Friedrichshain,Office Supplies,Storage,Storage Bin Set,1,29.99,0.0,29.99,4.32
+US-1148,2024-04-12,2024-04-17,Same Day,Jonas Müller,Corporate,Berlin-Süd,Berlin,Steglitz,Technology,Copiers,Desktop Copier,3,549.0,0.3,1152.9,176.41
+US-1029,2024-04-14,2024-04-21,Second Class,Jonas Wagner,Home Office,Berlin-Mitte,Berlin,Mitte,Office Supplies,Storage,Storage Bin Set,6,29.99,0.0,179.94,52.77
+US-1129,2024-04-14,2024-04-17,First Class,Paul Weber,Corporate,Berlin-Ost,Berlin,Friedrichshain,Furniture,Chairs,Ergo Task Chair,4,189.99,0.3,531.97,49.5
+US-1224,2024-04-14,2024-04-17,Second Class,Anna Schulz,Home Office,Berlin-Süd,Berlin,Neukölln,Technology,Copiers,All-in-One Printer,6,229.0,0.1,1236.6,180.72
+US-1343,2024-04-15,2024-04-18,Same Day,Lukas Müller,Consumer,Berlin-West,Berlin,Wilmersdorf,Technology,Accessories,Laptop Stand,7,39.0,0.15,232.05,18.21
+US-1220,2024-04-16,2024-04-19,Standard Class,Felix Fischer,Home Office,Berlin-Mitte,Berlin,Moabit,Technology,Accessories,Wireless Mouse,5,24.99,0.0,124.95,13.19
+US-1035,2024-04-17,2024-04-24,Same Day,Lena Meyer,Home Office,Berlin-Mitte,Berlin,Wedding,Office Supplies,Binders,Binder Clips Box,4,4.5,0.2,14.4,2.34
+US-1127,2024-04-20,2024-04-25,First Class,Emilia Schmidt,Home Office,Berlin-Süd,Berlin,Zehlendorf,Office Supplies,Art,Whiteboard 4x3,2,74.99,0.0,149.98,35.22
+US-1462,2024-04-21,2024-04-24,Same Day,Johanna Meyer,Home Office,Berlin-Mitte,Berlin,Moabit,Furniture,Chairs,Executive Leather Chair,7,349.5,0.0,2446.5,146.64
+US-1437,2024-04-23,2024-04-28,Same Day,Tim Wagner,Home Office,Berlin-Süd,Berlin,Tempelhof,Technology,Machines,Laminator,3,64.99,0.0,194.97,15.52
+US-1068,2024-04-26,2024-04-29,Second Class,Lukas Hoffmann,Corporate,Berlin-Ost,Berlin,Marzahn,Technology,Accessories,Wireless Mouse,3,24.99,0.0,74.97,8.71
+US-1425,2024-04-27,2024-05-01,Same Day,Felix Hoffmann,Corporate,Berlin-Ost,Berlin,Hellersdorf,Technology,Phones,Desk Phone,3,45.0,0.0,135.0,14.68
+US-1146,2024-04-29,2024-05-04,First Class,Johanna Fischer,Home Office,Berlin-Ost,Berlin,Lichtenberg,Technology,Machines,Laminator,4,64.99,0.0,259.96,38.65
+US-1107,2024-04-30,2024-05-05,Same Day,Niklas Meyer,Home Office,Berlin-Mitte,Berlin,Wedding,Technology,Phones,Wireless Headset,3,59.99,0.1,161.97,27.19
+US-1310,2024-05-01,2024-05-06,Standard Class,Hannah Schulz,Home Office,Berlin-West,Berlin,Schöneberg,Office Supplies,Paper,Copy Paper Case,6,39.99,0.3,167.96,44.22
+US-1173,2024-05-01,2024-05-05,First Class,Lea Schulz,Corporate,Berlin-Ost,Berlin,Lichtenberg,Furniture,Tables,Round Meeting Table,1,259.0,0.0,259.0,0.64
+US-1500,2024-05-03,2024-05-08,First Class,Laura Schulz,Corporate,Berlin-Mitte,Berlin,Tiergarten,Office Supplies,Paper,Sticky Notes Pack,3,6.75,0.1,18.23,5.24
+US-1390,2024-05-03,2024-05-10,Standard Class,Leon Wagner,Corporate,Berlin-Süd,Berlin,Neukölln,Furniture,Bookcases,Corner Bookcase,4,129.0,0.0,516.0,55.4
+US-1435,2024-05-03,2024-05-06,First Class,Felix Fischer,Consumer,Berlin-West,Berlin,Wilmersdorf,Office Supplies,Paper,Copy Paper Case,4,39.99,0.0,159.96,37.05
+US-1287,2024-05-05,2024-05-06,Standard Class,Niklas Schulz,Corporate,Berlin-Ost,Berlin,Hellersdorf,Technology,Accessories,USB-C Hub,7,29.99,0.0,209.93,38.69
+US-1095,2024-05-05,2024-05-10,Second Class,Sophie Schneider,Consumer,Berlin-Mitte,Berlin,Wedding,Office Supplies,Art,Marker Set,7,12.99,0.15,77.29,16.87
+US-1281,2024-05-06,2024-05-09,First Class,Lea Schulz,Home Office,Berlin-Süd,Berlin,Steglitz,Technology,Machines,Label Printer,2,89.99,0.0,179.98,24.87
+US-1182,2024-05-06,2024-05-08,Same Day,Laura Wagner,Consumer,Berlin-Ost,Berlin,Lichtenberg,Office Supplies,Storage,Storage Bin Set,2,29.99,0.0,59.98,12.23
+US-1206,2024-05-06,2024-05-13,First Class,Niklas Hoffmann,Consumer,Berlin-Süd,Berlin,Steglitz,Office Supplies,Art,Marker Set,2,12.99,0.15,22.08,3.54
+US-1456,2024-05-07,2024-05-09,First Class,Finn Fischer,Consumer,Berlin-West,Berlin,Schöneberg,Technology,Copiers,All-in-One Printer,7,229.0,0.3,1122.1,162.21
+US-1394,2024-05-08,2024-05-13,Same Day,Marie Weber,Corporate,Berlin-Ost,Berlin,Friedrichshain,Furniture,Chairs,Ergo Task Chair,2,189.99,0.15,322.98,43.58
+US-1176,2024-05-08,2024-05-10,Standard Class,Paul Weber,Home Office,Berlin-West,Berlin,Spandau,Technology,Machines,Label Printer,9,89.99,0.0,809.91,140.66
+US-1517,2024-05-09,2024-05-10,Standard Class,Johanna Hoffmann,Home Office,Berlin-Mitte,Berlin,Moabit,Technology,Phones,Desk Phone,8,45.0,0.1,324.0,56.93
+US-1140,2024-05-09,2024-05-16,Second Class,Maximilian Schulz,Corporate,Berlin-Mitte,Berlin,Wedding,Furniture,Furnishings,Wall Clock,3,24.99,0.0,74.97,6.65
+US-1049,2024-05-12,2024-05-14,Second Class,Tim Becker,Corporate,Berlin-Süd,Berlin,Tempelhof,Technology,Copiers,All-in-One Printer,5,229.0,0.3,801.5,41.69
+US-1430,2024-05-13,2024-05-15,Standard Class,Lena Hoffmann,Home Office,Berlin-West,Berlin,Wilmersdorf,Office Supplies,Art,Marker Set,7,12.99,0.15,77.29,17.95
+US-1284,2024-05-14,2024-05-16,First Class,Finn Hoffmann,Home Office,Berlin-Süd,Berlin,Neukölln,Furniture,Chairs,Ergo Task Chair,1,189.99,0.0,189.99,37.19
+US-1463,2024-05-16,2024-05-20,Second Class,Johanna Schneider,Corporate,Berlin-Ost,Berlin,Friedrichshain,Technology,Accessories,USB-C Hub,2,29.99,0.15,50.98,8.22
+US-1326,2024-05-17,2024-05-22,First Class,Lena Schmidt,Home Office,Berlin-Mitte,Berlin,Wedding,Office Supplies,Storage,File Cabinet,1,119.0,0.0,119.0,33.72
+US-1088,2024-05-21,2024-05-25,Standard Class,Tim Weber,Corporate,Berlin-Süd,Berlin,Tempelhof,Technology,Accessories,USB-C Hub,6,29.99,0.3,125.96,18.44
+US-1336,2024-05-23,2024-05-27,First Class,Marie Schneider,Home Office,Berlin-Ost,Berlin,Marzahn,Furniture,Bookcases,Corner Bookcase,2,129.0,0.3,180.6,-14.82
+US-1222,2024-05-24,2024-05-28,First Class,Hannah Weber,Corporate,Berlin-West,Berlin,Wilmersdorf,Office Supplies,Paper,Sticky Notes Pack,8,6.75,0.15,45.9,8.23
+US-1185,2024-05-24,2024-05-28,Standard Class,Lea Müller,Corporate,Berlin-West,Berlin,Wilmersdorf,Office Supplies,Binders,3-Ring Binder 2in,8,8.99,0.0,71.92,11.4
+US-1402,2024-05-25,2024-05-30,Same Day,Leon Becker,Corporate,Berlin-Süd,Berlin,Steglitz,Office Supplies,Paper,Copy Paper Case,2,39.99,0.0,79.98,16.35
+US-1137,2024-05-26,2024-05-27,Same Day,Katharina Hoffmann,Corporate,Berlin-Ost,Berlin,Hellersdorf,Office Supplies,Binders,Binder Clips Box,2,4.5,0.15,7.65,1.62
+US-1152,2024-05-27,2024-05-29,Same Day,Anna Fischer,Home Office,Berlin-West,Berlin,Wilmersdorf,Office Supplies,Art,Marker Set,5,12.99,0.0,64.95,14.18
+US-1087,2024-05-29,2024-06-03,Second Class,Johanna Becker,Corporate,Berlin-Süd,Berlin,Neukölln,Office Supplies,Paper,Sticky Notes Pack,5,6.75,0.1,30.38,8.74
+US-1349,2024-05-30,2024-05-31,Second Class,Jonas Hoffmann,Home Office,Berlin-Süd,Berlin,Steglitz,Office Supplies,Paper,Copy Paper Case,8,39.99,0.0,319.92,88.99
+US-1282,2024-05-31,2024-06-07,Same Day,Marie Becker,Consumer,Berlin-Ost,Berlin,Lichtenberg,Office Supplies,Paper,Sticky Notes Pack,1,6.75,0.3,4.72,0.92
+US-1322,2024-06-01,2024-06-03,Same Day,Finn Schulz,Consumer,Berlin-West,Berlin,Wilmersdorf,Office Supplies,Storage,Storage Bin Set,2,29.99,0.0,59.98,16.29
+US-1346,2024-06-01,2024-06-08,First Class,Maximilian Meyer,Home Office,Berlin-Mitte,Berlin,Mitte,Office Supplies,Storage,Storage Bin Set,2,29.99,0.1,53.98,12.23
+US-1235,2024-06-02,2024-06-04,First Class,Finn Hoffmann,Corporate,Berlin-West,Berlin,Wilmersdorf,Technology,Copiers,Desktop Copier,4,549.0,0.15,1866.6,199.99
+US-1215,2024-06-03,2024-06-05,First Class,Emilia Weber,Consumer,Berlin-West,Berlin,Spandau,Office Supplies,Storage,File Cabinet,9,119.0,0.0,1071.0,279.64
+US-1204,2024-06-03,2024-06-08,Standard Class,Hannah Fischer,Home Office,Berlin-Ost,Berlin,Hellersdorf,Furniture,Bookcases,Corner Bookcase,1,129.0,0.0,129.0,22.35
+US-1164,2024-06-05,2024-06-09,Same Day,Niklas Meyer,Consumer,Berlin-Ost,Berlin,Marzahn,Furniture,Bookcases,Corner Bookcase,7,129.0,0.0,903.0,98.74
+US-1300,2024-06-06,2024-06-10,Second Class,Lena Schmidt,Home Office,Berlin-Süd,Berlin,Neukölln,Office Supplies,Paper,Sticky Notes Pack,5,6.75,0.3,23.62,7.73
+US-1296,2024-06-06,2024-06-07,Same Day,Marie Wagner,Consumer,Berlin-Mitte,Berlin,Wedding,Furniture,Furnishings,Office Rug,4,65.0,0.15,221.0,9.61
+US-1501,2024-06-07,2024-06-14,Second Class,Emilia Schneider,Corporate,Berlin-West,Berlin,Wilmersdorf,Office Supplies,Paper,Copy Paper Case,9,39.99,0.0,359.91,77.12
+US-1181,2024-06-09,2024-06-16,Second Class,Hannah Wagner,Corporate,Berlin-Süd,Berlin,Zehlendorf,Office Supplies,Storage,File Cabinet,6,119.0,0.2,571.2,103.29
+US-1118,2024-06-09,2024-06-16,Standard Class,Paul Becker,Consumer,Berlin-Süd,Berlin,Zehlendorf,Technology,Machines,Laminator,5,64.99,0.0,324.95,50.32
+US-1279,2024-06-09,2024-06-12,Second Class,Finn Schneider,Consumer,Berlin-West,Berlin,Schöneberg,Furniture,Chairs,Ergo Task Chair,5,189.99,0.0,949.95,112.05
+US-1039,2024-06-09,2024-06-13,Second Class,Finn Schulz,Corporate,Berlin-West,Berlin,Spandau,Furniture,Furnishings,Wall Clock,9,24.99,0.0,224.91,11.23
+US-1508,2024-06-09,2024-06-13,Standard Class,Anna Hoffmann,Corporate,Berlin-Süd,Berlin,Tempelhof,Office Supplies,Binders,Binder Clips Box,9,4.5,0.15,34.42,7.65
+US-1160,2024-06-10,2024-06-13,First Class,Lea Becker,Consumer,Berlin-Mitte,Berlin,Wedding,Furniture,Tables,Round Meeting Table,9,259.0,0.1,2097.9,72.44
+US-1446,2024-06-11,2024-06-18,Same Day,Jonas Schulz,Corporate,Berlin-Mitte,Berlin,Mitte,Furniture,Tables,Standing Desk,5,399.99,0.2,1599.96,47.8
+US-1090,2024-06-11,2024-06-18,Second Class,Finn Wagner,Corporate,Berlin-Süd,Berlin,Tempelhof,Technology,Copiers,Desktop Copier,8,549.0,0.2,3513.6,590.57
+US-1283,2024-06-11,2024-06-13,First Class,Jan Wagner,Home Office,Berlin-Süd,Berlin,Neukölln,Office Supplies,Binders,Binder Clips Box,7,4.5,0.3,22.05,4.94
+US-1502,2024-06-12,2024-06-16,Second Class,Niklas Weber,Consumer,Berlin-Mitte,Berlin,Moabit,Office Supplies,Paper,Copy Paper Case,7,39.99,0.0,279.93,78.91
+US-1080,2024-06-13,2024-06-20,Same Day,Sophie Meyer,Home Office,Berlin-Süd,Berlin,Neukölln,Office Supplies,Art,Whiteboard 4x3,2,74.99,0.3,104.99,22.12
+US-1246,2024-06-13,2024-06-18,Same Day,Leon Schneider,Corporate,Berlin-Ost,Berlin,Hellersdorf,Office Supplies,Paper,Sticky Notes Pack,4,6.75,0.1,24.3,3.51
+US-1474,2024-06-13,2024-06-20,Second Class,Lea Wagner,Home Office,Berlin-Süd,Berlin,Tempelhof,Technology,Machines,Label Printer,2,89.99,0.2,143.98,37.1
+US-1369,2024-06-13,2024-06-15,Second Class,Anna Hoffmann,Home Office,Berlin-Süd,Berlin,Zehlendorf,Technology,Phones,Smartphone Case,6,19.99,0.0,119.94,15.03
+US-1207,2024-06-16,2024-06-21,Same Day,Felix Schulz,Consumer,Berlin-Mitte,Berlin,Moabit,Office Supplies,Paper,Copy Paper Case,8,39.99,0.0,319.92,80.88
+US-1103,2024-06-16,2024-06-23,First Class,Felix Schneider,Home Office,Berlin-Mitte,Berlin,Wedding,Technology,Phones,Smartphone Case,7,19.99,0.0,139.93,18.9
+US-1093,2024-06-17,2024-06-24,Standard Class,Leon Becker,Home Office,Berlin-Ost,Berlin,Marzahn,Office Supplies,Art,Marker Set,9,12.99,0.1,105.22,25.05
+US-1161,2024-06-18,2024-06-21,Same Day,Hannah Wagner,Home Office,Berlin-Ost,Berlin,Marzahn,Technology,Phones,Desk Phone,2,45.0,0.3,63.0,13.87
+US-1350,2024-06-18,2024-06-21,Standard Class,Laura Becker,Corporate,Berlin-Mitte,Berlin,Moabit,Office Supplies,Storage,Storage Bin Set,5,29.99,0.15,127.46,28.11
+US-1089,2024-06-19,2024-06-24,Second Class,Niklas Meyer,Home Office,Berlin-Süd,Berlin,Tempelhof,Office Supplies,Art,Whiteboard 4x3,9,74.99,0.1,607.42,164.11
+US-1189,2024-06-19,2024-06-23,Second Class,Paul Schulz,Corporate,Berlin-Süd,Berlin,Neukölln,Furniture,Tables,Side Table,9,89.0,0.1,720.9,-0.27
+US-1056,2024-06-21,2024-06-25,Standard Class,Emilia Weber,Corporate,Berlin-Ost,Berlin,Hellersdorf,Office Supplies,Art,Whiteboard 4x3,5,74.99,0.3,262.46,56.22
+US-1104,2024-06-22,2024-06-23,Same Day,Paul Fischer,Home Office,Berlin-West,Berlin,Spandau,Technology,Copiers,All-in-One Printer,8,229.0,0.0,1832.0,283.21
+US-1143,2024-06-23,2024-06-27,Standard Class,Paul Schneider,Corporate,Berlin-Ost,Berlin,Friedrichshain,Office Supplies,Paper,Copy Paper Case,4,39.99,0.0,159.96,34.6
+US-1313,2024-06-23,2024-06-30,Standard Class,Leon Müller,Consumer,Berlin-Mitte,Berlin,Wedding,Technology,Accessories,USB-C Hub,3,29.99,0.3,62.98,8.39
+US-1494,2024-06-24,2024-07-01,Standard Class,Niklas Becker,Corporate,Berlin-West,Berlin,Wilmersdorf,Technology,Machines,Label Printer,2,89.99,0.0,179.98,31.42
+US-1443,2024-06-25,2024-06-26,Second Class,Hannah Schulz,Home Office,Berlin-Süd,Berlin,Steglitz,Furniture,Bookcases,Corner Bookcase,7,129.0,0.0,903.0,65.02
+US-1342,2024-06-25,2024-06-27,Standard Class,Maximilian Weber,Corporate,Berlin-Süd,Berlin,Tempelhof,Technology,Copiers,All-in-One Printer,5,229.0,0.2,916.0,212.16
+US-1368,2024-06-26,2024-07-03,Standard Class,Lea Schulz,Consumer,Berlin-Mitte,Berlin,Tiergarten,Office Supplies,Paper,Sticky Notes Pack,7,6.75,0.0,47.25,9.9
+US-1389,2024-06-27,2024-06-29,First Class,Leon Meyer,Corporate,Berlin-West,Berlin,Schöneberg,Office Supplies,Art,Marker Set,4,12.99,0.2,41.57,7.92
+US-1520,2024-06-27,2024-06-28,First Class,Anna Schulz,Corporate,Berlin-West,Berlin,Charlottenburg,Furniture,Chairs,Folding Chair 4-Pack,3,79.0,0.3,165.9,3.94
+US-1038,2024-06-28,2024-07-05,Standard Class,Lea Meyer,Consumer,Berlin-Süd,Berlin,Steglitz,Furniture,Chairs,Executive Leather Chair,9,349.5,0.1,2830.95,185.19
+US-1306,2024-06-30,2024-07-02,Second Class,Jonas Becker,Consumer,Berlin-Süd,Berlin,Zehlendorf,Furniture,Furnishings,Desk Lamp,3,34.99,0.0,104.97,12.87
+US-1157,2024-07-01,2024-07-02,First Class,Lena Schulz,Consumer,Berlin-Mitte,Berlin,Tiergarten,Technology,Machines,Label Printer,6,89.99,0.0,539.94,101.29
+US-1360,2024-07-02,2024-07-09,Same Day,Sophie Müller,Consumer,Berlin-Süd,Berlin,Tempelhof,Office Supplies,Storage,File Cabinet,7,119.0,0.0,833.0,131.7
+US-1309,2024-07-02,2024-07-07,Second Class,Lena Fischer,Corporate,Berlin-Mitte,Berlin,Wedding,Furniture,Furnishings,Office Rug,4,65.0,0.0,260.0,27.36
+US-1155,2024-07-03,2024-07-04,Standard Class,Tim Hoffmann,Corporate,Berlin-West,Berlin,Schöneberg,Furniture,Chairs,Folding Chair 4-Pack,9,79.0,0.15,604.35,82.88
+US-1422,2024-07-04,2024-07-05,First Class,Jan Weber,Home Office,Berlin-Mitte,Berlin,Tiergarten,Office Supplies,Storage,Storage Bin Set,3,29.99,0.1,80.97,21.76
+US-1514,2024-07-04,2024-07-05,Second Class,Finn Hoffmann,Corporate,Berlin-West,Berlin,Charlottenburg,Furniture,Furnishings,Office Rug,9,65.0,0.2,468.0,34.11
+US-1247,2024-07-05,2024-07-06,Standard Class,Lea Schneider,Home Office,Berlin-Süd,Berlin,Tempelhof,Office Supplies,Storage,Storage Bin Set,4,29.99,0.15,101.97,20.16
+US-1340,2024-07-07,2024-07-11,Second Class,Lena Müller,Corporate,Berlin-Süd,Berlin,Neukölln,Technology,Accessories,Wireless Mouse,9,24.99,0.1,202.42,17.73
+US-1105,2024-07-07,2024-07-14,Standard Class,Finn Meyer,Home Office,Berlin-Mitte,Berlin,Tiergarten,Furniture,Chairs,Executive Leather Chair,5,349.5,0.15,1485.38,-28.78
+US-1163,2024-07-07,2024-07-12,Standard Class,Maximilian Wagner,Corporate,Berlin-Süd,Berlin,Steglitz,Technology,Copiers,All-in-One Printer,5,229.0,0.3,801.5,64.05
+US-1005,2024-07-08,2024-07-11,Second Class,Jonas Schmidt,Home Office,Berlin-Süd,Berlin,Steglitz,Office Supplies,Storage,File Cabinet,4,119.0,0.2,380.8,79.32
+US-1219,2024-07-08,2024-07-09,First Class,Felix Müller,Corporate,Berlin-Ost,Berlin,Lichtenberg,Office Supplies,Binders,Binder Clips Box,9,4.5,0.2,32.4,5.91
+US-1481,2024-07-09,2024-07-13,Second Class,Leon Schulz,Home Office,Berlin-West,Berlin,Schöneberg,Technology,Machines,Laminator,7,64.99,0.3,318.45,34.4
+US-1139,2024-07-09,2024-07-12,Standard Class,Leon Schulz,Home Office,Berlin-Süd,Berlin,Zehlendorf,Office Supplies,Paper,Sticky Notes Pack,7,6.75,0.1,42.52,13.36
+US-1252,2024-07-10,2024-07-14,Second Class,Jan Hoffmann,Corporate,Berlin-Mitte,Berlin,Wedding,Furniture,Tables,Standing Desk,8,399.99,0.3,2239.94,198.59
+US-1144,2024-07-11,2024-07-13,Same Day,Katharina Schneider,Consumer,Berlin-Mitte,Berlin,Wedding,Technology,Accessories,Laptop Stand,3,39.0,0.0,117.0,6.33
+US-1211,2024-07-12,2024-07-16,First Class,Lea Schneider,Consumer,Berlin-Süd,Berlin,Steglitz,Technology,Copiers,All-in-One Printer,2,229.0,0.2,366.4,76.19
+US-1358,2024-07-13,2024-07-14,Second Class,Johanna Schneider,Home Office,Berlin-Mitte,Berlin,Mitte,Office Supplies,Art,Whiteboard 4x3,9,74.99,0.0,674.91,170.82
+US-1130,2024-07-13,2024-07-18,Standard Class,Lea Meyer,Corporate,Berlin-Mitte,Berlin,Tiergarten,Technology,Accessories,USB-C Hub,4,29.99,0.15,101.97,15.32
+US-1397,2024-07-14,2024-07-18,Second Class,Sophie Hoffmann,Consumer,Berlin-Ost,Berlin,Marzahn,Office Supplies,Storage,Storage Bin Set,1,29.99,0.1,26.99,7.04
+US-1351,2024-07-14,2024-07-19,Second Class,Anna Schneider,Consumer,Berlin-Mitte,Berlin,Tiergarten,Technology,Phones,Desk Phone,5,45.0,0.1,202.5,20.44
+US-1381,2024-07-14,2024-07-16,First Class,Anna Fischer,Consumer,Berlin-Ost,Berlin,Hellersdorf,Technology,Phones,Wireless Headset,1,59.99,0.2,47.99,5.85
+US-1167,2024-07-15,2024-07-20,First Class,Paul Becker,Corporate,Berlin-Mitte,Berlin,Moabit,Furniture,Bookcases,Corner Bookcase,1,129.0,0.15,109.65,3.34
+US-1150,2024-07-16,2024-07-17,Standard Class,Lukas Meyer,Home Office,Berlin-Mitte,Berlin,Tiergarten,Furniture,Bookcases,5-Shelf Bookcase,6,149.99,0.0,899.94,63.34
+US-1330,2024-07-17,2024-07-22,Same Day,Leon Weber,Consumer,Berlin-Ost,Berlin,Marzahn,Technology,Phones,Wireless Headset,7,59.99,0.15,356.94,67.37
+US-1384,2024-07-17,2024-07-21,First Class,Anna Müller,Consumer,Berlin-West,Berlin,Spandau,Office Supplies,Binders,Binder Clips Box,6,4.5,0.15,22.95,5.75
+US-1505,2024-07-17,2024-07-21,Second Class,Sophie Fischer,Consumer,Berlin-West,Berlin,Schöneberg,Technology,Machines,Label Printer,8,89.99,0.0,719.92,86.41
+US-1239,2024-07-18,2024-07-21,First Class,Maximilian Müller,Corporate,Berlin-Mitte,Berlin,Wedding,Furniture,Tables,Side Table,6,89.0,0.0,534.0,36.75
+US-1491,2024-07-21,2024-07-28,Second Class,Katharina Hoffmann,Consumer,Berlin-West,Berlin,Wilmersdorf,Office Supplies,Paper,Sticky Notes Pack,4,6.75,0.15,22.95,6.14
+US-1482,2024-07-22,2024-07-23,Second Class,Katharina Müller,Corporate,Berlin-Süd,Berlin,Steglitz,Office Supplies,Art,Whiteboard 4x3,1,74.99,0.0,74.99,14.25
+US-1186,2024-07-24,2024-07-25,First Class,Hannah Hoffmann,Consumer,Berlin-Ost,Berlin,Marzahn,Technology,Machines,Label Printer,9,89.99,0.0,809.91,130.7
+US-1250,2024-07-24,2024-07-29,Standard Class,Emilia Hoffmann,Corporate,Berlin-Süd,Berlin,Zehlendorf,Furniture,Furnishings,Office Rug,9,65.0,0.3,409.5,37.14
+US-1203,2024-07-24,2024-07-31,First Class,Paul Becker,Consumer,Berlin-West,Berlin,Schöneberg,Technology,Machines,Label Printer,2,89.99,0.0,179.98,20.57
+US-1440,2024-07-24,2024-07-27,Second Class,Jan Schneider,Consumer,Berlin-Süd,Berlin,Zehlendorf,Furniture,Bookcases,Corner Bookcase,8,129.0,0.0,1032.0,98.6
+US-1356,2024-07-25,2024-07-26,Standard Class,Paul Fischer,Home Office,Berlin-Ost,Berlin,Hellersdorf,Office Supplies,Paper,Copy Paper Case,4,39.99,0.0,159.96,32.11
+US-1272,2024-07-25,2024-07-30,Same Day,Hannah Becker,Corporate,Berlin-Ost,Berlin,Hellersdorf,Office Supplies,Binders,3-Ring Binder 2in,5,8.99,0.2,35.96,14.84
+US-1021,2024-07-25,2024-08-01,Second Class,Lena Fischer,Consumer,Berlin-Süd,Berlin,Neukölln,Office Supplies,Binders,3-Ring Binder 2in,6,8.99,0.3,37.76,7.25
+US-1414,2024-07-26,2024-07-31,Second Class,Laura Schmidt,Corporate,Berlin-West,Berlin,Charlottenburg,Furniture,Tables,Side Table,1,89.0,0.2,71.2,7.92
+US-1348,2024-07-26,2024-07-30,First Class,Jan Fischer,Home Office,Berlin-Mitte,Berlin,Tiergarten,Technology,Machines,Laminator,1,64.99,0.15,55.24,4.32
+US-1174,2024-07-28,2024-08-02,Same Day,Leon Schmidt,Corporate,Berlin-Mitte,Berlin,Mitte,Office Supplies,Art,Whiteboard 4x3,2,74.99,0.0,149.98,33.51
+US-1519,2024-07-28,2024-08-01,Second Class,Katharina Müller,Home Office,Berlin-West,Berlin,Wilmersdorf,Office Supplies,Art,Whiteboard 4x3,2,74.99,0.15,127.48,32.58
+US-1280,2024-07-29,2024-08-03,Standard Class,Felix Schmidt,Consumer,Berlin-West,Berlin,Schöneberg,Office Supplies,Paper,Copy Paper Case,8,39.99,0.3,223.94,40.61
+US-1241,2024-07-30,2024-08-03,Second Class,Lea Fischer,Home Office,Berlin-Mitte,Berlin,Wedding,Technology,Phones,Smartphone Case,2,19.99,0.2,31.98,5.55
+US-1319,2024-07-30,2024-08-03,Standard Class,Lea Wagner,Corporate,Berlin-Mitte,Berlin,Mitte,Office Supplies,Art,Marker Set,7,12.99,0.0,90.93,14.27
+US-1424,2024-07-30,2024-08-04,Same Day,Sophie Meyer,Corporate,Berlin-Ost,Berlin,Marzahn,Technology,Copiers,Desktop Copier,9,549.0,0.1,4446.9,634.34
+US-1297,2024-07-30,2024-08-06,Standard Class,Maximilian Schulz,Home Office,Berlin-Ost,Berlin,Friedrichshain,Furniture,Tables,Side Table,6,89.0,0.1,480.6,43.65
+US-1400,2024-07-30,2024-08-06,Second Class,Sophie Schneider,Home Office,Berlin-Ost,Berlin,Lichtenberg,Technology,Machines,Label Printer,9,89.99,0.0,809.91,122.34
+US-1227,2024-07-30,2024-08-01,Second Class,Paul Müller,Home Office,Berlin-Mitte,Berlin,Mitte,Technology,Phones,Wireless Headset,4,59.99,0.0,239.96,45.92
+US-1359,2024-08-02,2024-08-03,First Class,Katharina Schmidt,Consumer,Berlin-Ost,Berlin,Hellersdorf,Office Supplies,Storage,File Cabinet,9,119.0,0.2,856.8,256.44
+US-1377,2024-08-02,2024-08-07,First Class,Finn Meyer,Corporate,Berlin-Mitte,Berlin,Tiergarten,Office Supplies,Storage,Storage Bin Set,4,29.99,0.0,119.96,31.27
+US-1112,2024-08-03,2024-08-08,Same Day,Maximilian Becker,Corporate,Berlin-Mitte,Berlin,Moabit,Furniture,Tables,Side Table,2,89.0,0.2,142.4,17.91
+US-1344,2024-08-04,2024-08-08,Same Day,Jonas Fischer,Corporate,Berlin-Mitte,Berlin,Moabit,Furniture,Bookcases,Corner Bookcase,6,129.0,0.1,696.6,40.4
+US-1392,2024-08-05,2024-08-06,Second Class,Emilia Schmidt,Consumer,Berlin-Mitte,Berlin,Mitte,Furniture,Tables,Side Table,4,89.0,0.15,302.6,20.91
+US-1277,2024-08-07,2024-08-14,Second Class,Lena Müller,Corporate,Berlin-Ost,Berlin,Lichtenberg,Furniture,Bookcases,5-Shelf Bookcase,2,149.99,0.2,239.98,27.01
+US-1040,2024-08-08,2024-08-09,First Class,Leon Schmidt,Home Office,Berlin-Süd,Berlin,Neukölln,Office Supplies,Paper,Sticky Notes Pack,6,6.75,0.15,34.42,10.76
+US-1321,2024-08-08,2024-08-15,Standard Class,Emilia Schneider,Consumer,Berlin-Mitte,Berlin,Mitte,Office Supplies,Art,Marker Set,3,12.99,0.15,33.12,10.8
+US-1267,2024-08-13,2024-08-18,First Class,Lena Fischer,Consumer,Berlin-Mitte,Berlin,Mitte,Furniture,Bookcases,5-Shelf Bookcase,4,149.99,0.1,539.96,17.88
+US-1493,2024-08-13,2024-08-14,Standard Class,Hannah Schneider,Consumer,Berlin-Ost,Berlin,Lichtenberg,Technology,Copiers,Desktop Copier,4,549.0,0.0,2196.0,230.75
+US-1451,2024-08-14,2024-08-21,Standard Class,Tim Schneider,Consumer,Berlin-Mitte,Berlin,Tiergarten,Office Supplies,Paper,Sticky Notes Pack,3,6.75,0.0,20.25,4.78
+US-1454,2024-08-14,2024-08-17,First Class,Jonas Schneider,Consumer,Berlin-Ost,Berlin,Marzahn,Office Supplies,Paper,Copy Paper Case,6,39.99,0.1,215.95,53.12
+US-1042,2024-08-14,2024-08-18,Standard Class,Johanna Schneider,Corporate,Berlin-Ost,Berlin,Marzahn,Furniture,Bookcases,Corner Bookcase,4,129.0,0.15,438.6,11.89
+US-1136,2024-08-14,2024-08-21,Standard Class,Jonas Schulz,Corporate,Berlin-Ost,Berlin,Marzahn,Furniture,Chairs,Executive Leather Chair,5,349.5,0.3,1223.25,48.79
+US-1465,2024-08-14,2024-08-16,Second Class,Niklas Schmidt,Corporate,Berlin-Mitte,Berlin,Mitte,Technology,Accessories,Wireless Mouse,1,24.99,0.0,24.99,3.76
+US-1338,2024-08-14,2024-08-16,First Class,Johanna Hoffmann,Consumer,Berlin-Ost,Berlin,Marzahn,Technology,Phones,Wireless Headset,7,59.99,0.2,335.94,33.18
+US-1318,2024-08-16,2024-08-17,First Class,Marie Schmidt,Corporate,Berlin-Ost,Berlin,Lichtenberg,Office Supplies,Binders,Binder Clips Box,5,4.5,0.0,22.5,5.41
+US-1240,2024-08-17,2024-08-22,Standard Class,Emilia Schmidt,Consumer,Berlin-Ost,Berlin,Friedrichshain,Furniture,Tables,Standing Desk,9,399.99,0.15,3059.92,354.03
+US-1371,2024-08-17,2024-08-18,Same Day,Leon Schmidt,Home Office,Berlin-Süd,Berlin,Tempelhof,Furniture,Furnishings,Office Rug,8,65.0,0.1,468.0,23.65
+US-1071,2024-08-18,2024-08-22,First Class,Jan Wagner,Home Office,Berlin-Mitte,Berlin,Tiergarten,Office Supplies,Paper,Sticky Notes Pack,5,6.75,0.3,23.62,6.3
+US-1149,2024-08-18,2024-08-23,Second Class,Emilia Schmidt,Corporate,Berlin-Mitte,Berlin,Wedding,Furniture,Tables,Standing Desk,3,399.99,0.3,839.98,170.65
+US-1365,2024-08-21,2024-08-24,Second Class,Johanna Wagner,Consumer,Berlin-Ost,Berlin,Marzahn,Furniture,Furnishings,Wall Clock,7,24.99,0.2,139.94,15.31
+US-1244,2024-08-22,2024-08-23,First Class,Lukas Wagner,Home Office,Berlin-Ost,Berlin,Marzahn,Technology,Copiers,Desktop Copier,3,549.0,0.0,1647.0,177.32
+US-1202,2024-08-22,2024-08-29,First Class,Sophie Müller,Corporate,Berlin-Ost,Berlin,Lichtenberg,Technology,Machines,Label Printer,5,89.99,0.2,359.96,59.27
+US-1030,2024-08-22,2024-08-27,First Class,Lea Fischer,Consumer,Berlin-Süd,Berlin,Steglitz,Technology,Phones,Wireless Headset,2,59.99,0.0,119.98,16.64
+US-1037,2024-08-23,2024-08-26,Standard Class,Marie Fischer,Home Office,Berlin-Süd,Berlin,Neukölln,Technology,Accessories,USB-C Hub,5,29.99,0.3,104.96,12.59
+US-1401,2024-08-24,2024-08-31,First Class,Laura Schmidt,Consumer,Berlin-West,Berlin,Charlottenburg,Furniture,Chairs,Folding Chair 4-Pack,9,79.0,0.0,711.0,81.12
+US-1097,2024-08-24,2024-08-31,Same Day,Jonas Müller,Corporate,Berlin-West,Berlin,Schöneberg,Technology,Accessories,USB-C Hub,5,29.99,0.1,134.95,30.8
+US-1363,2024-08-25,2024-08-26,First Class,Sophie Müller,Corporate,Berlin-Ost,Berlin,Lichtenberg,Office Supplies,Storage,Storage Bin Set,2,29.99,0.3,41.99,5.14
+US-1158,2024-08-25,2024-09-01,Standard Class,Sophie Schneider,Home Office,Berlin-Ost,Berlin,Marzahn,Technology,Accessories,Laptop Stand,8,39.0,0.2,249.6,47.31
+US-1061,2024-08-26,2024-08-30,First Class,Marie Schmidt,Corporate,Berlin-Süd,Berlin,Tempelhof,Technology,Machines,Laminator,5,64.99,0.0,324.95,65.92
+US-1496,2024-08-26,2024-09-02,First Class,Finn Weber,Consumer,Berlin-Mitte,Berlin,Wedding,Furniture,Bookcases,5-Shelf Bookcase,1,149.99,0.0,149.99,25.73
+US-1019,2024-08-30,2024-09-03,First Class,Lena Wagner,Corporate,Berlin-West,Berlin,Wilmersdorf,Technology,Copiers,Desktop Copier,4,549.0,0.0,2196.0,140.0
+US-1064,2024-08-30,2024-09-04,First Class,Emilia Hoffmann,Corporate,Berlin-West,Berlin,Schöneberg,Office Supplies,Storage,Storage Bin Set,9,29.99,0.0,269.91,63.75
+US-1489,2024-08-31,2024-09-05,Standard Class,Finn Weber,Corporate,Berlin-Ost,Berlin,Hellersdorf,Furniture,Bookcases,5-Shelf Bookcase,1,149.99,0.15,127.49,22.16
+US-1455,2024-09-01,2024-09-04,Second Class,Emilia Weber,Consumer,Berlin-West,Berlin,Spandau,Office Supplies,Binders,Binder Clips Box,1,4.5,0.3,3.15,0.93
+US-1420,2024-09-03,2024-09-07,Same Day,Jan Schmidt,Consumer,Berlin-Süd,Berlin,Steglitz,Technology,Copiers,Desktop Copier,6,549.0,0.15,2799.9,430.6
+US-1179,2024-09-04,2024-09-06,Standard Class,Niklas Schmidt,Consumer,Berlin-Mitte,Berlin,Tiergarten,Technology,Machines,Laminator,7,64.99,0.0,454.93,103.5
+US-1391,2024-09-06,2024-09-07,Standard Class,Felix Meyer,Consumer,Berlin-Ost,Berlin,Friedrichshain,Technology,Machines,Laminator,5,64.99,0.2,259.96,36.37
+US-1352,2024-09-06,2024-09-09,Same Day,Anna Müller,Corporate,Berlin-Süd,Berlin,Zehlendorf,Furniture,Tables,Round Meeting Table,3,259.0,0.0,777.0,80.11
+US-1053,2024-09-06,2024-09-08,Same Day,Johanna Müller,Corporate,Berlin-Ost,Berlin,Marzahn,Technology,Copiers,Desktop Copier,5,549.0,0.1,2470.5,461.79
+US-1411,2024-09-06,2024-09-10,Second Class,Paul Becker,Consumer,Berlin-Süd,Berlin,Tempelhof,Office Supplies,Storage,Storage Bin Set,1,29.99,0.15,25.49,4.06
+US-1404,2024-09-06,2024-09-11,First Class,Katharina Schmidt,Consumer,Berlin-Ost,Berlin,Hellersdorf,Office Supplies,Storage,Storage Bin Set,2,29.99,0.0,59.98,12.81
+US-1477,2024-09-07,2024-09-12,Standard Class,Hannah Fischer,Consumer,Berlin-Süd,Berlin,Tempelhof,Furniture,Furnishings,Office Rug,5,65.0,0.0,325.0,40.18
+US-1498,2024-09-07,2024-09-11,First Class,Hannah Meyer,Home Office,Berlin-Süd,Berlin,Neukölln,Furniture,Bookcases,Corner Bookcase,3,129.0,0.0,387.0,21.88
+US-1070,2024-09-08,2024-09-09,First Class,Paul Schulz,Consumer,Berlin-Ost,Berlin,Hellersdorf,Furniture,Chairs,Executive Leather Chair,1,349.5,0.0,349.5,45.98
+US-1374,2024-09-09,2024-09-11,Second Class,Jonas Schulz,Consumer,Berlin-Ost,Berlin,Marzahn,Technology,Phones,Wireless Headset,7,59.99,0.0,419.93,48.44
+US-1009,2024-09-09,2024-09-10,Second Class,Lena Schneider,Home Office,Berlin-Süd,Berlin,Steglitz,Furniture,Tables,Side Table,1,89.0,0.3,62.3,7.37
+US-1288,2024-09-11,2024-09-14,First Class,Jonas Schneider,Consumer,Berlin-Mitte,Berlin,Mitte,Technology,Phones,Wireless Headset,9,59.99,0.15,458.92,31.83
+US-1193,2024-09-13,2024-09-18,Second Class,Anna Schneider,Home Office,Berlin-Süd,Berlin,Tempelhof,Office Supplies,Paper,Sticky Notes Pack,8,6.75,0.3,37.8,5.98
+US-1418,2024-09-14,2024-09-15,Standard Class,Paul Schulz,Home Office,Berlin-West,Berlin,Schöneberg,Technology,Phones,Desk Phone,2,45.0,0.1,81.0,8.52
+US-1175,2024-09-14,2024-09-15,Second Class,Paul Weber,Consumer,Berlin-West,Berlin,Wilmersdorf,Technology,Accessories,Wireless Mouse,2,24.99,0.15,42.48,4.12
+US-1293,2024-09-14,2024-09-21,Standard Class,Marie Hoffmann,Corporate,Berlin-Ost,Berlin,Marzahn,Technology,Machines,Label Printer,1,89.99,0.0,89.99,8.65
+US-1264,2024-09-15,2024-09-22,Same Day,Johanna Wagner,Corporate,Berlin-Süd,Berlin,Tempelhof,Furniture,Furnishings,Office Rug,8,65.0,0.1,468.0,62.1
+US-1190,2024-09-16,2024-09-21,Same Day,Jan Weber,Consumer,Berlin-West,Berlin,Schöneberg,Technology,Machines,Laminator,9,64.99,0.1,526.42,83.82
+US-1012,2024-09-16,2024-09-17,Second Class,Tim Schulz,Consumer,Berlin-Süd,Berlin,Tempelhof,Office Supplies,Storage,File Cabinet,5,119.0,0.3,416.5,102.93
+US-1262,2024-09-18,2024-09-22,Same Day,Paul Schulz,Corporate,Berlin-West,Berlin,Spandau,Furniture,Bookcases,5-Shelf Bookcase,7,149.99,0.15,892.44,96.42
+US-1183,2024-09-20,2024-09-24,Standard Class,Johanna Müller,Corporate,Berlin-Ost,Berlin,Marzahn,Furniture,Tables,Standing Desk,8,399.99,0.0,3199.92,386.15
+US-1016,2024-09-21,2024-09-25,First Class,Marie Schmidt,Consumer,Berlin-Ost,Berlin,Hellersdorf,Technology,Machines,Laminator,2,64.99,0.0,129.98,21.07
+US-1429,2024-09-22,2024-09-23,First Class,Lea Weber,Corporate,Berlin-Süd,Berlin,Steglitz,Office Supplies,Art,Marker Set,2,12.99,0.0,25.98,4.65
+US-1339,2024-09-25,2024-09-30,Standard Class,Felix Fischer,Consumer,Berlin-Mitte,Berlin,Wedding,Technology,Copiers,Desktop Copier,1,549.0,0.0,549.0,75.42
+US-1216,2024-09-25,2024-09-28,Same Day,Paul Weber,Consumer,Berlin-Süd,Berlin,Zehlendorf,Furniture,Bookcases,Corner Bookcase,7,129.0,0.1,812.7,142.09
+US-1289,2024-09-25,2024-09-26,Same Day,Jan Schmidt,Corporate,Berlin-Mitte,Berlin,Mitte,Office Supplies,Art,Whiteboard 4x3,5,74.99,0.2,299.96,58.91
+US-1091,2024-09-26,2024-09-30,Second Class,Paul Wagner,Consumer,Berlin-West,Berlin,Spandau,Technology,Copiers,Desktop Copier,1,549.0,0.2,439.2,51.71
+US-1194,2024-09-29,2024-10-02,Same Day,Jonas Schulz,Consumer,Berlin-Süd,Berlin,Zehlendorf,Office Supplies,Paper,Sticky Notes Pack,9,6.75,0.0,60.75,9.35
+US-1396,2024-09-30,2024-10-01,Standard Class,Jan Müller,Corporate,Berlin-Süd,Berlin,Zehlendorf,Office Supplies,Art,Marker Set,2,12.99,0.3,18.19,4.75
+US-1273,2024-09-30,2024-10-04,First Class,Felix Becker,Corporate,Berlin-Mitte,Berlin,Tiergarten,Office Supplies,Storage,File Cabinet,4,119.0,0.1,428.4,106.48
+US-1051,2024-10-03,2024-10-04,Second Class,Marie Wagner,Home Office,Berlin-Mitte,Berlin,Wedding,Furniture,Bookcases,Corner Bookcase,3,129.0,0.0,387.0,5.26
+US-1210,2024-10-04,2024-10-05,Same Day,Anna Weber,Consumer,Berlin-West,Berlin,Charlottenburg,Furniture,Bookcases,5-Shelf Bookcase,2,149.99,0.1,269.98,32.22
+US-1436,2024-10-04,2024-10-05,Same Day,Katharina Meyer,Home Office,Berlin-Mitte,Berlin,Mitte,Office Supplies,Art,Marker Set,8,12.99,0.0,103.92,15.34
+US-1382,2024-10-04,2024-10-05,Second Class,Niklas Schmidt,Home Office,Berlin-Ost,Berlin,Lichtenberg,Technology,Machines,Label Printer,6,89.99,0.3,377.96,70.82
+US-1379,2024-10-04,2024-10-11,Same Day,Lena Meyer,Home Office,Berlin-Ost,Berlin,Lichtenberg,Technology,Accessories,Laptop Stand,6,39.0,0.2,187.2,20.32
+US-1031,2024-10-05,2024-10-12,First Class,Tim Müller,Home Office,Berlin-Mitte,Berlin,Moabit,Office Supplies,Paper,Sticky Notes Pack,5,6.75,0.15,28.69,6.41
+US-1295,2024-10-06,2024-10-08,Second Class,Emilia Müller,Home Office,Berlin-West,Berlin,Schöneberg,Office Supplies,Art,Marker Set,3,12.99,0.0,38.97,9.9
+US-1439,2024-10-07,2024-10-10,First Class,Johanna Schulz,Corporate,Berlin-Süd,Berlin,Neukölln,Office Supplies,Storage,File Cabinet,4,119.0,0.0,476.0,99.64
+US-1198,2024-10-08,2024-10-10,Second Class,Johanna Becker,Corporate,Berlin-Süd,Berlin,Neukölln,Office Supplies,Paper,Copy Paper Case,7,39.99,0.2,223.94,53.15
+US-1467,2024-10-08,2024-10-13,Second Class,Johanna Weber,Corporate,Berlin-Ost,Berlin,Marzahn,Furniture,Chairs,Folding Chair 4-Pack,2,79.0,0.0,158.0,13.41
+US-1110,2024-10-10,2024-10-12,Second Class,Marie Meyer,Home Office,Berlin-West,Berlin,Wilmersdorf,Technology,Accessories,USB-C Hub,4,29.99,0.3,83.97,9.2
+US-1011,2024-10-10,2024-10-11,First Class,Lea Weber,Consumer,Berlin-Mitte,Berlin,Tiergarten,Office Supplies,Art,Whiteboard 4x3,2,74.99,0.2,119.98,23.58
+US-1032,2024-10-10,2024-10-12,First Class,Katharina Fischer,Consumer,Berlin-West,Berlin,Spandau,Furniture,Chairs,Folding Chair 4-Pack,5,79.0,0.0,395.0,3.46
+US-1399,2024-10-10,2024-10-15,Same Day,Anna Müller,Home Office,Berlin-Ost,Berlin,Lichtenberg,Office Supplies,Storage,File Cabinet,3,119.0,0.0,357.0,101.84
+US-1302,2024-10-11,2024-10-18,Standard Class,Lena Becker,Consumer,Berlin-Ost,Berlin,Lichtenberg,Furniture,Furnishings,Wall Clock,9,24.99,0.0,224.91,-4.78
+US-1063,2024-10-11,2024-10-13,Standard Class,Johanna Becker,Consumer,Berlin-Mitte,Berlin,Moabit,Furniture,Furnishings,Wall Clock,8,24.99,0.2,159.94,-1.3
+US-1119,2024-10-11,2024-10-12,Same Day,Leon Schmidt,Corporate,Berlin-Mitte,Berlin,Tiergarten,Furniture,Bookcases,5-Shelf Bookcase,9,149.99,0.15,1147.42,147.37
+US-1510,2024-10-12,2024-10-16,First Class,Anna Fischer,Corporate,Berlin-Mitte,Berlin,Moabit,Office Supplies,Art,Marker Set,9,12.99,0.3,81.84,16.16
+US-1478,2024-10-12,2024-10-19,First Class,Hannah Müller,Home Office,Berlin-Süd,Berlin,Neukölln,Office Supplies,Binders,Binder Clips Box,7,4.5,0.3,22.05,5.05
+US-1470,2024-10-12,2024-10-19,Standard Class,Niklas Fischer,Home Office,Berlin-West,Berlin,Charlottenburg,Furniture,Tables,Standing Desk,6,399.99,0.3,1679.96,176.23
+US-1141,2024-10-13,2024-10-17,Standard Class,Paul Hoffmann,Home Office,Berlin-Süd,Berlin,Tempelhof,Office Supplies,Binders,Binder Clips Box,6,4.5,0.3,18.9,4.4
+US-1256,2024-10-13,2024-10-17,Second Class,Finn Schneider,Home Office,Berlin-West,Berlin,Wilmersdorf,Office Supplies,Paper,Sticky Notes Pack,8,6.75,0.0,54.0,12.3
+US-1332,2024-10-15,2024-10-16,Same Day,Lea Meyer,Corporate,Berlin-Mitte,Berlin,Tiergarten,Furniture,Chairs,Ergo Task Chair,5,189.99,0.3,664.97,22.38
+US-1209,2024-10-15,2024-10-16,Same Day,Laura Müller,Corporate,Berlin-Mitte,Berlin,Tiergarten,Furniture,Furnishings,Wall Clock,9,24.99,0.1,202.42,6.33
+US-1308,2024-10-16,2024-10-21,Standard Class,Jonas Schneider,Corporate,Berlin-Süd,Berlin,Steglitz,Office Supplies,Art,Whiteboard 4x3,6,74.99,0.1,404.95,86.77
+US-1231,2024-10-16,2024-10-18,Standard Class,Maximilian Müller,Corporate,Berlin-Süd,Berlin,Neukölln,Office Supplies,Art,Whiteboard 4x3,4,74.99,0.0,299.96,62.02
+US-1328,2024-10-20,2024-10-22,Standard Class,Maximilian Wagner,Home Office,Berlin-West,Berlin,Charlottenburg,Technology,Copiers,All-in-One Printer,8,229.0,0.0,1832.0,209.98
+US-1199,2024-10-20,2024-10-22,Same Day,Anna Schneider,Consumer,Berlin-Ost,Berlin,Friedrichshain,Technology,Phones,Desk Phone,9,45.0,0.2,324.0,37.58
+US-1388,2024-10-20,2024-10-25,Second Class,Leon Hoffmann,Consumer,Berlin-Ost,Berlin,Friedrichshain,Technology,Machines,Laminator,6,64.99,0.0,389.94,83.4
+US-1362,2024-10-20,2024-10-27,Standard Class,Maximilian Hoffmann,Home Office,Berlin-Ost,Berlin,Lichtenberg,Furniture,Chairs,Ergo Task Chair,8,189.99,0.0,1519.92,283.7
+US-1131,2024-10-21,2024-10-25,Standard Class,Emilia Weber,Corporate,Berlin-Süd,Berlin,Neukölln,Office Supplies,Binders,Binder Clips Box,7,4.5,0.2,25.2,5.25
+US-1004,2024-10-22,2024-10-24,Standard Class,Marie Weber,Consumer,Berlin-Mitte,Berlin,Tiergarten,Furniture,Bookcases,Corner Bookcase,2,129.0,0.0,258.0,40.29
+US-1121,2024-10-22,2024-10-27,Standard Class,Johanna Fischer,Corporate,Berlin-Mitte,Berlin,Wedding,Office Supplies,Storage,File Cabinet,4,119.0,0.0,476.0,88.01
+US-1410,2024-10-23,2024-10-28,Standard Class,Finn Meyer,Home Office,Berlin-Mitte,Berlin,Wedding,Furniture,Bookcases,Corner Bookcase,3,129.0,0.1,348.3,10.34
+US-1026,2024-10-23,2024-10-30,Standard Class,Leon Müller,Home Office,Berlin-Süd,Berlin,Tempelhof,Furniture,Tables,Round Meeting Table,9,259.0,0.0,2331.0,80.65
+US-1484,2024-10-25,2024-10-27,Same Day,Laura Schmidt,Home Office,Berlin-Süd,Berlin,Steglitz,Furniture,Bookcases,Corner Bookcase,4,129.0,0.0,516.0,27.72
+US-1376,2024-10-26,2024-10-30,Second Class,Sophie Schulz,Home Office,Berlin-Süd,Berlin,Neukölln,Office Supplies,Binders,Binder Clips Box,9,4.5,0.3,28.35,6.67
+US-1314,2024-10-27,2024-10-28,Second Class,Leon Schneider,Home Office,Berlin-Mitte,Berlin,Wedding,Technology,Machines,Laminator,6,64.99,0.0,389.94,49.23
+US-1258,2024-10-30,2024-11-03,First Class,Felix Fischer,Home Office,Berlin-Süd,Berlin,Neukölln,Technology,Accessories,Wireless Mouse,7,24.99,0.0,174.93,26.75
+US-1055,2024-10-30,2024-11-04,Same Day,Emilia Schneider,Consumer,Berlin-West,Berlin,Schöneberg,Technology,Phones,Smartphone Case,1,19.99,0.0,19.99,3.17
+US-1503,2024-11-01,2024-11-03,Standard Class,Lukas Meyer,Home Office,Berlin-West,Berlin,Wilmersdorf,Furniture,Bookcases,5-Shelf Bookcase,4,149.99,0.2,479.97,0.13
+US-1270,2024-11-01,2024-11-06,First Class,Laura Weber,Home Office,Berlin-West,Berlin,Wilmersdorf,Technology,Machines,Laminator,3,64.99,0.0,194.97,34.25
+US-1191,2024-11-01,2024-11-05,Second Class,Jan Schulz,Home Office,Berlin-Ost,Berlin,Friedrichshain,Technology,Machines,Label Printer,5,89.99,0.2,359.96,58.67
+US-1421,2024-11-02,2024-11-07,Standard Class,Felix Müller,Home Office,Berlin-Süd,Berlin,Tempelhof,Technology,Phones,Smartphone Case,7,19.99,0.0,139.93,16.25
+US-1412,2024-11-04,2024-11-11,First Class,Marie Wagner,Home Office,Berlin-Ost,Berlin,Lichtenberg,Furniture,Tables,Standing Desk,2,399.99,0.2,639.98,88.26
+US-1372,2024-11-05,2024-11-10,Same Day,Lea Fischer,Corporate,Berlin-Mitte,Berlin,Tiergarten,Office Supplies,Binders,3-Ring Binder 2in,5,8.99,0.15,38.21,10.03
+US-1122,2024-11-07,2024-11-14,First Class,Sophie Weber,Corporate,Berlin-Mitte,Berlin,Wedding,Office Supplies,Art,Marker Set,5,12.99,0.0,64.95,13.22
+US-1512,2024-11-09,2024-11-10,Standard Class,Niklas Becker,Home Office,Berlin-Ost,Berlin,Marzahn,Office Supplies,Art,Whiteboard 4x3,9,74.99,0.0,674.91,169.5
+US-1171,2024-11-09,2024-11-12,Standard Class,Lena Schneider,Corporate,Berlin-Mitte,Berlin,Wedding,Technology,Copiers,Desktop Copier,8,549.0,0.0,4392.0,680.68
+US-1353,2024-11-10,2024-11-14,Same Day,Emilia Becker,Consumer,Berlin-West,Berlin,Wilmersdorf,Office Supplies,Binders,3-Ring Binder 2in,7,8.99,0.1,56.64,13.02
+US-1495,2024-11-14,2024-11-21,Standard Class,Lukas Wagner,Corporate,Berlin-West,Berlin,Wilmersdorf,Office Supplies,Storage,Storage Bin Set,3,29.99,0.2,71.98,11.08
+US-1084,2024-11-16,2024-11-20,Second Class,Jonas Hoffmann,Corporate,Berlin-Süd,Berlin,Neukölln,Furniture,Bookcases,Corner Bookcase,1,129.0,0.0,129.0,2.6
+US-1154,2024-11-19,2024-11-24,Same Day,Paul Weber,Consumer,Berlin-Mitte,Berlin,Mitte,Technology,Copiers,Desktop Copier,4,549.0,0.2,1756.8,160.86
+US-1405,2024-11-19,2024-11-20,Standard Class,Jan Fischer,Home Office,Berlin-Ost,Berlin,Friedrichshain,Technology,Phones,Desk Phone,7,45.0,0.3,220.5,34.14
+US-1433,2024-11-20,2024-11-22,First Class,Leon Wagner,Home Office,Berlin-Mitte,Berlin,Tiergarten,Furniture,Chairs,Executive Leather Chair,4,349.5,0.3,978.6,53.48
+US-1033,2024-11-20,2024-11-24,Second Class,Lukas Meyer,Home Office,Berlin-Süd,Berlin,Steglitz,Technology,Phones,Wireless Headset,5,59.99,0.0,299.95,36.83
+US-1101,2024-11-21,2024-11-23,Standard Class,Paul Schmidt,Corporate,Berlin-Ost,Berlin,Lichtenberg,Office Supplies,Storage,File Cabinet,5,119.0,0.2,476.0,106.79
+US-1357,2024-11-23,2024-11-26,Standard Class,Anna Schulz,Home Office,Berlin-Mitte,Berlin,Wedding,Technology,Phones,Smartphone Case,9,19.99,0.15,152.92,23.81
+US-1205,2024-11-23,2024-11-26,Second Class,Marie Fischer,Corporate,Berlin-Süd,Berlin,Steglitz,Furniture,Bookcases,5-Shelf Bookcase,6,149.99,0.15,764.95,79.32
+US-1317,2024-11-23,2024-11-28,Standard Class,Paul Meyer,Consumer,Berlin-Süd,Berlin,Neukölln,Furniture,Bookcases,5-Shelf Bookcase,2,149.99,0.1,269.98,45.43
+US-1324,2024-11-24,2024-11-29,First Class,Hannah Wagner,Consumer,Berlin-Ost,Berlin,Hellersdorf,Office Supplies,Storage,File Cabinet,7,119.0,0.0,833.0,163.09
+US-1251,2024-11-27,2024-12-02,Same Day,Finn Meyer,Consumer,Berlin-Mitte,Berlin,Moabit,Office Supplies,Storage,File Cabinet,1,119.0,0.15,101.15,15.95
+US-1106,2024-11-27,2024-11-28,Standard Class,Laura Wagner,Consumer,Berlin-Süd,Berlin,Neukölln,Office Supplies,Storage,File Cabinet,8,119.0,0.2,761.6,159.19
+US-1169,2024-11-28,2024-12-01,Same Day,Lukas Schneider,Home Office,Berlin-Mitte,Berlin,Moabit,Office Supplies,Art,Whiteboard 4x3,4,74.99,0.0,299.96,57.5
+US-1116,2024-11-29,2024-12-04,Same Day,Niklas Fischer,Corporate,Berlin-Süd,Berlin,Zehlendorf,Furniture,Chairs,Folding Chair 4-Pack,4,79.0,0.1,284.4,30.05
+US-1045,2024-12-01,2024-12-08,Second Class,Lena Wagner,Consumer,Berlin-West,Berlin,Schöneberg,Office Supplies,Paper,Copy Paper Case,1,39.99,0.3,27.99,4.45
+US-1373,2024-12-02,2024-12-05,Standard Class,Lena Fischer,Corporate,Berlin-Mitte,Berlin,Moabit,Technology,Machines,Laminator,8,64.99,0.0,519.92,87.27
+US-1113,2024-12-03,2024-12-08,Same Day,Lukas Müller,Corporate,Berlin-Süd,Berlin,Tempelhof,Technology,Phones,Desk Phone,5,45.0,0.1,202.5,33.7
+US-1298,2024-12-05,2024-12-07,Same Day,Jonas Meyer,Home Office,Berlin-Süd,Berlin,Neukölln,Office Supplies,Binders,Binder Clips Box,4,4.5,0.0,18.0,4.0
+US-1316,2024-12-06,2024-12-11,Second Class,Laura Weber,Consumer,Berlin-Süd,Berlin,Steglitz,Furniture,Bookcases,5-Shelf Bookcase,3,149.99,0.1,404.97,19.17
+US-1409,2024-12-08,2024-12-10,Same Day,Hannah Wagner,Corporate,Berlin-West,Berlin,Charlottenburg,Furniture,Tables,Round Meeting Table,9,259.0,0.3,1631.7,301.24
+US-1507,2024-12-09,2024-12-11,Same Day,Sophie Becker,Home Office,Berlin-Mitte,Berlin,Wedding,Technology,Accessories,Laptop Stand,4,39.0,0.0,156.0,23.44
+US-1165,2024-12-09,2024-12-16,Standard Class,Tim Schneider,Consumer,Berlin-Süd,Berlin,Steglitz,Office Supplies,Binders,3-Ring Binder 2in,7,8.99,0.0,62.93,20.74
+US-1492,2024-12-09,2024-12-13,First Class,Hannah Fischer,Corporate,Berlin-Ost,Berlin,Hellersdorf,Office Supplies,Binders,3-Ring Binder 2in,7,8.99,0.0,62.93,12.03
+US-1249,2024-12-10,2024-12-14,First Class,Laura Fischer,Home Office,Berlin-West,Berlin,Schöneberg,Technology,Phones,Smartphone Case,3,19.99,0.2,47.98,9.25
+US-1261,2024-12-10,2024-12-17,Second Class,Jan Schmidt,Corporate,Berlin-Mitte,Berlin,Wedding,Office Supplies,Art,Marker Set,5,12.99,0.15,55.21,13.13
+US-1366,2024-12-13,2024-12-17,Standard Class,Finn Meyer,Home Office,Berlin-Mitte,Berlin,Moabit,Furniture,Furnishings,Office Rug,3,65.0,0.15,165.75,15.59
+US-1192,2024-12-14,2024-12-16,Standard Class,Lena Fischer,Corporate,Berlin-Süd,Berlin,Tempelhof,Office Supplies,Art,Marker Set,1,12.99,0.15,11.04,2.86
+US-1274,2024-12-15,2024-12-16,Standard Class,Niklas Müller,Consumer,Berlin-Ost,Berlin,Lichtenberg,Office Supplies,Art,Whiteboard 4x3,1,74.99,0.0,74.99,20.76
+US-1276,2024-12-18,2024-12-20,First Class,Jonas Schmidt,Corporate,Berlin-Süd,Berlin,Neukölln,Technology,Copiers,Desktop Copier,5,549.0,0.0,2745.0,542.69
+US-1098,2024-12-19,2024-12-22,Same Day,Laura Fischer,Corporate,Berlin-Mitte,Berlin,Tiergarten,Technology,Machines,Laminator,8,64.99,0.3,363.94,6.92
+US-1485,2024-12-19,2024-12-26,Same Day,Laura Müller,Consumer,Berlin-Mitte,Berlin,Wedding,Technology,Accessories,Wireless Mouse,2,24.99,0.15,42.48,4.76
+US-1483,2024-12-19,2024-12-22,Second Class,Lea Schulz,Consumer,Berlin-Ost,Berlin,Lichtenberg,Furniture,Bookcases,5-Shelf Bookcase,9,149.99,0.15,1147.42,-30.06
+US-1431,2024-12-21,2024-12-25,First Class,Johanna Fischer,Corporate,Berlin-Ost,Berlin,Friedrichshain,Technology,Machines,Laminator,7,64.99,0.15,386.69,62.74
+US-1058,2024-12-24,2024-12-27,Standard Class,Katharina Schulz,Consumer,Berlin-Süd,Berlin,Neukölln,Office Supplies,Paper,Sticky Notes Pack,6,6.75,0.0,40.5,5.92
+US-1271,2024-12-25,2024-12-27,Same Day,Leon Fischer,Corporate,Berlin-West,Berlin,Schöneberg,Technology,Machines,Label Printer,4,89.99,0.0,359.96,63.26
+US-1074,2024-12-25,2024-12-29,Second Class,Marie Weber,Corporate,Berlin-Süd,Berlin,Steglitz,Furniture,Bookcases,Corner Bookcase,2,129.0,0.2,206.4,13.32
+US-1480,2024-12-25,2025-01-01,Same Day,Sophie Schneider,Home Office,Berlin-West,Berlin,Schöneberg,Technology,Machines,Laminator,7,64.99,0.0,454.93,49.85
+US-1195,2024-12-26,2024-12-28,First Class,Johanna Meyer,Corporate,Berlin-Ost,Berlin,Marzahn,Furniture,Bookcases,Corner Bookcase,8,129.0,0.0,1032.0,109.49
+US-1472,2024-12-27,2024-12-31,Second Class,Lea Becker,Home Office,Berlin-Ost,Berlin,Lichtenberg,Furniture,Chairs,Executive Leather Chair,9,349.5,0.0,3145.5,479.87
+US-1172,2024-12-29,2024-12-30,Second Class,Laura Weber,Home Office,Berlin-Süd,Berlin,Neukölln,Technology,Machines,Laminator,9,64.99,0.15,497.17,62.06
+US-1497,2024-12-29,2024-12-30,Standard Class,Katharina Hoffmann,Consumer,Berlin-Ost,Berlin,Hellersdorf,Furniture,Furnishings,Office Rug,6,65.0,0.1,351.0,48.78
+US-1378,2024-12-30,2025-01-06,Second Class,Felix Fischer,Home Office,Berlin-West,Berlin,Schöneberg,Office Supplies,Storage,Storage Bin Set,9,29.99,0.2,215.93,54.3
+US-1427,2024-12-30,2025-01-04,Same Day,Sophie Becker,Consumer,Berlin-Mitte,Berlin,Tiergarten,Technology,Copiers,All-in-One Printer,1,229.0,0.3,160.3,27.35

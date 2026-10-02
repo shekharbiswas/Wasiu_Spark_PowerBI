@@ -1,0 +1,413 @@
+Order_ID,Order_Date,Customer_Name,Segment,Region,Category,Sub_Category,Product_Name,Sales,Quantity,Discount,Profit
+ORD-1241,2023-04-11,Leon Braun,Corporate,Nordrhein-Westfalen,Office Supplies,Binders,Clip Binder,1969.83,4,0.0,-258.91
+ORD-1249,2023-06-10,Felix Wagner,Home Office,Baden-Württemberg,Furniture,Chairs,Mesh Task Chair,731.16,6,0.1,-57.72
+ORD-1061,2024-02-26,David Wolf,Corporate,Baden-Württemberg,Furniture,Bookcases,Metal Bookcase,1341.29,3,0.3,6.38
+ORD-1031,2024-02-11,Hannah Zimmermann,Consumer,Nordrhein-Westfalen,Technology,Copiers,Desktop Copier,1212.79,4,0.1,386.36
+ORD-1388,2023-02-10,Emma Krüger,Corporate,Niedersachsen,Furniture,Furnishings,Desk Lamp,1421.03,8,0.2,456.21
+ORD-1295,2023-05-11,Emma Krüger,Consumer,Baden-Württemberg,Technology,Machines,Laminator,164.75,3,0.1,-8.29
+ORD-1285,2023-05-02,Sarah Neumann,Corporate,Niedersachsen,Furniture,Bookcases,Wooden Bookcase,849.85,2,0.0,-92.25
+ORD-1376,2023-07-24,Paul Koch,Corporate,Baden-Württemberg,Office Supplies,Binders,Clip Binder,307.67,5,0.1,-49.27
+ORD-1398,2024-03-13,,Home Office,Nordrhein-Westfalen,Office Supplies,Binders,Ring Binder,71.0,1,0.0,18.62
+ORD-1116,2023-09-06,Sophie Becker,Consumer,Baden-Württemberg,Office Supplies,Binders,Ring Binder,1100.46,5,0.1,234.22
+ORD-1288,2023-06-13,Jan Schröder,Consumer,Nordrhein-Westfalen,Furniture,Chairs,Mesh Task Chair,1440.9,7,0.1,195.56
+ORD-1299,2024-04-23,Jonas Weber,Home Office,Baden-Württemberg,Office Supplies,Labels,Sticker Sheet,1615.06,7,0.0,320.2
+ORD-1282,2023-12-08,Felix Wagner,Consumer,Baden-Württemberg,Technology,Accessories,Wireless Mouse,282.4,9,0.2,-15.09
+ORD-1081,2024-04-21,Felix Wagner,Home Office,Baden-Württemberg,Furniture,Bookcases,Metal Bookcase,600.06,3,0.0,-35.46
+ORD-1396,2023-02-06,Paul Koch,Corporate,Nordrhein-Westfalen,Furniture,Tables,Study Table,1992.7,9,0.0,142.08
+ORD-1169,2023-03-07,Julia Klein,Consumer,Nordrhein-Westfalen,Office Supplies,Binders,Clip Binder,1612.04,7,0.2,-201.5
+ORD-1274,2023-03-22,Lukas Müller,Corporate,Baden-Württemberg,Office Supplies,Labels,Label Roll,1738.25,8,0.2,594.4
+ORD-1269,2024-01-16,Laura Fischer,Corporate,Baden-Württemberg,Technology,Copiers,Desktop Copier,1754.12,2,0.2,510.4
+ORD-1119,2023-08-12,David Wolf,Corporate,Niedersachsen,Office Supplies,Labels,Sticker Sheet,1718.24,1,0.0,298.83
+ORD-1372,2024-01-13,Julia Klein,Consumer,Niedersachsen,Technology,Copiers,Desktop Copier,1237.13,9,0.0,-246.59
+ORD-1203,2023-03-16,Sarah Neumann,Corporate,Niedersachsen,Office Supplies,Storage,File Organizer,1732.36,6,0.2,582.57
+ORD-1309,2024-02-28,Hannah Zimmermann,Home Office,Niedersachsen,Office Supplies,Paper,Sticky Notes,887.65,7,0.2,-145.62
+ORD-1339,2024-02-06,Jan Schröder,Home Office,Baden-Württemberg,Technology,Phones,Cordless Phone,171.28,5,0.0,59.14
+ORD-1294,2023-03-02,Julia Klein,Corporate,Baden-Württemberg,Furniture,Furnishings,Desk Lamp,1379.92,9,0.2,-88.98
+ORD-1370,2023-01-27,Felix Wagner,Home Office,Bayern,Furniture,Furnishings,Desk Lamp,1691.12,4,0.3,-321.61
+ORD-1205,2023-07-13,Marie Richter,Consumer,Nordrhein-Westfalen,Office Supplies,Labels,Label Roll,1117.96,8,0.0,69.47
+ORD-1133,2023-06-14,David Wolf,Home Office,Bayern,Office Supplies,Binders,Clip Binder,474.12,8,0.0,2.77
+ORD-1232,2023-02-16,Emma Krüger,Home Office,Bayern,Technology,Machines,Laminator,823.82,2,0.2,-159.23
+ORD-1130,2023-01-09,Hannah Zimmermann,Home Office,Niedersachsen,Office Supplies,Paper,Sticky Notes,1525.41,1,0.3,-220.24
+ORD-1027,2023-02-04,David Wolf,Home Office,Baden-Württemberg,Office Supplies,Labels,Sticker Sheet,949.71,5,0.0,317.62
+ORD-1224,2023-04-14,Jan Schröder,Corporate,Nordrhein-Westfalen,Office Supplies,Storage,Storage Box,465.76,7,0.1,-63.21
+ORD-1208,2023-05-20,David Wolf,Home Office,Nordrhein-Westfalen,Technology,Machines,Laminator,238.53,6,0.1,28.55
+ORD-1052,2023-05-28,Sarah Neumann,Corporate,Bayern,Furniture,Bookcases,Wooden Bookcase,1293.89,4,0.3,410.54
+ORD-1329,2023-09-18,Lena Schulz,Consumer,Baden-Württemberg,Office Supplies,Paper,Sticky Notes,1263.26,7,0.0,361.4
+ORD-1267,2024-02-02,Julia Klein,Corporate,Baden-Württemberg,Technology,Machines,Laminator,593.36,2,0.0,-114.43
+ORD-1015,2023-11-06,Jan Schröder,Consumer,Baden-Württemberg,Furniture,Tables,Conference Table,72.31,2,0.2,16.37
+ORD-1102,2024-02-04,Lena Schulz,Consumer,Baden-Württemberg,Office Supplies,Paper,Sticky Notes,204.69,5,0.2,12.37
+ORD-1254,2024-03-15,Anna Schmidt,Corporate,Nordrhein-Westfalen,Furniture,Tables,Round Meeting Table,1797.13,1,0.0,-323.3
+ORD-1189,2023-06-03,Emma Krüger,Home Office,Nordrhein-Westfalen,Office Supplies,Art,Marker Set,83.0,8,0.1,-10.52
+ORD-1053,2024-02-28,Paul Koch,Consumer,Niedersachsen,Technology,Copiers,Desktop Copier,779.6,2,,203.27
+ORD-1141,2024-01-04,Maximilian Hoffmann,Home Office,Nordrhein-Westfalen,Furniture,Bookcases,Metal Bookcase,174.95,1,0.0,-13.48
+ORD-1057,2024-01-04,Emma Krüger,Corporate,Nordrhein-Westfalen,Furniture,Tables,Round Meeting Table,491.29,5,0.1,145.04
+ORD-1262,2023-09-04,Anna Schmidt,Home Office,Baden-Württemberg,Technology,Copiers,Office Copier,515.24,7,0.3,87.35
+ORD-1356,2023-11-02,Marie Richter,Home Office,Nordrhein-Westfalen,Office Supplies,Binders,Clip Binder,1980.4,4,0.1,309.27
+ORD-1163,2024-01-01,Anna Schmidt,Home Office,Baden-Württemberg,Technology,Accessories,USB Cable,510.37,4,0.0,-37.89
+ORD-1303,2023-10-09,Laura Fischer,Corporate,Baden-Württemberg,Technology,Phones,Cordless Phone,1140.21,7,0.0,-206.75
+ORD-1112,2023-08-30,Hannah Zimmermann,Corporate,Baden-Württemberg,Furniture,Tables,Study Table,1369.18,1,0.0,219.96
+ORD-1066,2023-05-15,Felix Wagner,Home Office,Baden-Württemberg,Technology,Machines,Laminator,1444.67,1,0.3,142.15
+ORD-1110,2024-03-02,Jan Schröder,Corporate,Baden-Württemberg,Office Supplies,Paper,A4 Paper Ream,1883.51,3,0.3,473.2
+ORD-1400,2023-01-04,Tim Bauer,Corporate,Nordrhein-Westfalen,Office Supplies,Storage,File Organizer,1473.35,4,0.1,114.43
+ORD-1374,2023-06-15,Paul Koch,Home Office,Baden-Württemberg,Furniture,Furnishings,Desk Lamp,458.82,6,0.0,55.1
+ORD-1233,2023-04-25,David Wolf,Consumer,,Furniture,Tables,Conference Table,1390.96,4,0.1,269.71
+ORD-1115,2023-03-16,Lukas Müller,Home Office,Baden-Württemberg,Office Supplies,Art,Sketch Pad,1756.17,4,0.0,52.46
+ORD-1029,2023-12-25,,Consumer,Bayern,Technology,Phones,Smartphone X1,90.46,3,0.0,-16.53
+ORD-1042,2023-10-22,Lea Lange,Consumer,Nordrhein-Westfalen,Office Supplies,Binders,Ring Binder,999.52,1,0.2,-118.5
+ORD-1004,2023-05-30,Emma Krüger,Corporate,Nordrhein-Westfalen,Office Supplies,Labels,Sticker Sheet,122.26,8,0.0,31.52
+ORD-1023,2024-01-14,Leon Braun,Consumer,Baden-Württemberg,Office Supplies,Binders,Ring Binder,157.35,7,0.0,24.88
+ORD-1361,2024-01-10,Lukas Müller,Consumer,Nordrhein-Westfalen,Technology,Phones,Cordless Phone,1653.58,4,0.0,433.19
+ORD-1091,2023-12-21,Tim Bauer,Corporate,Niedersachsen,Office Supplies,Art,Sketch Pad,1278.49,4,0.0,-162.36
+ORD-1343,2023-06-17,Sarah Neumann,Corporate,Niedersachsen,Office Supplies,Art,Sketch Pad,498.12,9,0.0,-8.12
+ORD-1357,2024-03-11,Emma Krüger,Home Office,Nordrhein-Westfalen,Office Supplies,Paper,Sticky Notes,1518.94,7,0.0,-248.96
+ORD-1229,2023-03-27,Tim Bauer,Consumer,Bayern,Technology,Copiers,Office Copier,1430.99,5,0.0,403.86
+ORD-1238,2023-10-20,Hannah Zimmermann,Corporate,Bayern,Technology,Phones,Cordless Phone,1417.4,1,0.0,165.78
+ORD-1265,2023-04-06,Julia Klein,Corporate,Niedersachsen,Technology,Phones,Smartphone X1,1977.57,8,0.3,482.07
+ORD-1058,2023-01-09,,Consumer,Baden-Württemberg,Office Supplies,Paper,Sticky Notes,564.95,3,0.0,112.58
+ORD-1160,2024-04-09,David Wolf,Corporate,Bayern,Technology,Phones,Cordless Phone,1073.35,5,0.0,373.69
+ORD-1140,2024-04-05,Hannah Zimmermann,Corporate,Nordrhein-Westfalen,Office Supplies,Labels,Label Roll,482.64,9,0.1,2.98
+ORD-1142,2023-05-14,Leon Braun,Corporate,Bayern,Office Supplies,Storage,Storage Box,1606.2,5,0.0,-282.9
+ORD-1090,2023-09-19,Sophie Becker,Consumer,Baden-Württemberg,Office Supplies,Storage,File Organizer,112.85,4,0.1,2.96
+ORD-1237,2024-04-04,Leon Braun,Corporate,Nordrhein-Westfalen,Furniture,Tables,Study Table,213.4,4,0.0,50.05
+ORD-1298,2023-10-30,Lea Lange,Home Office,Niedersachsen,Technology,Phones,Smartphone X1,182.54,8,0.0,39.63
+ORD-1244,2023-07-21,Lea Lange,Consumer,Bayern,Furniture,Bookcases,Wooden Bookcase,1607.68,5,0.0,212.29
+ORD-1121,2024-01-04,Maximilian Hoffmann,Corporate,Bayern,Furniture,Tables,Round Meeting Table,1015.45,9,0.2,-24.34
+ORD-1242,2023-11-09,Lukas Müller,Corporate,Bayern,Technology,Machines,Laminator,670.97,6,,57.27
+ORD-1250,2024-01-05,Anna Schmidt,Home Office,Niedersachsen,Office Supplies,Storage,File Organizer,1330.44,7,0.0,447.76
+ORD-1175,2023-09-30,Jan Schröder,Corporate,Nordrhein-Westfalen,Office Supplies,Binders,Clip Binder,523.91,8,0.2,-91.57
+ORD-1382,2023-12-19,Paul Koch,Home Office,Bayern,Furniture,Bookcases,Wooden Bookcase,1040.25,1,0.0,296.88
+ORD-1178,2024-01-23,Lena Schulz,Consumer,Nordrhein-Westfalen,Furniture,Tables,Conference Table,371.94,8,0.0,9.82
+ORD-1245,2023-10-18,Emma Krüger,Home Office,Niedersachsen,Furniture,Bookcases,Wooden Bookcase,802.36,9,0.0,220.6
+ORD-1099,2023-06-03,Tim Bauer,Consumer,Niedersachsen,Office Supplies,Binders,Clip Binder,718.39,5,0.0,-96.2
+ORD-1194,2023-07-31,Sarah Neumann,Home Office,Bayern,Office Supplies,Labels,Sticker Sheet,953.2,3,0.0,149.51
+ORD-1358,2023-02-02,Tim Bauer,Home Office,Bayern,Office Supplies,Storage,File Organizer,653.98,3,0.2,-39.97
+ORD-1060,2024-02-12,Julia Klein,Corporate,Nordrhein-Westfalen,Furniture,Chairs,Executive Chair,1703.35,1,0.0,-189.25
+ORD-1240,2023-10-23,Lena Schulz,Corporate,Baden-Württemberg,Furniture,Furnishings,Desk Lamp,1682.47,7,0.1,-222.85
+ORD-1075,2023-04-26,David Wolf,Corporate,Niedersachsen,Furniture,Tables,Conference Table,595.95,5,0.3,-56.61
+ORD-1080,2023-04-14,Paul Koch,Home Office,Niedersachsen,Technology,Accessories,Wireless Mouse,1397.06,6,0.1,-3.19
+ORD-1156,2023-05-26,Lukas Müller,Corporate,Baden-Württemberg,Technology,Accessories,USB Cable,1974.68,1,0.1,14.23
+ORD-1221,2023-04-14,Leon Braun,Corporate,Niedersachsen,Technology,Phones,Cordless Phone,760.12,3,0.2,108.89
+ORD-1082,2024-02-12,Emma Krüger,Consumer,Nordrhein-Westfalen,Furniture,Tables,Study Table,1827.35,7,0.3,138.58
+ORD-1051,2024-03-18,Paul Koch,Home Office,Niedersachsen,Office Supplies,Binders,Ring Binder,448.28,3,0.3,109.93
+ORD-1257,2024-04-20,Julia Klein,Corporate,Niedersachsen,Technology,Copiers,Office Copier,967.37,6,0.0,213.74
+ORD-1337,2023-01-25,,Home Office,Niedersachsen,Furniture,Furnishings,Desk Lamp,1106.21,2,0.1,27.27
+ORD-1343,2023-06-17,Sarah Neumann,Corporate,Niedersachsen,Office Supplies,Art,Sketch Pad,498.12,9,0.0,-8.12
+ORD-1368,2023-01-12,Hannah Zimmermann,Home Office,Niedersachsen,Office Supplies,Paper,Sticky Notes,1129.87,8,0.0,-127.01
+ORD-1217,2023-10-23,Niklas Hartmann,Corporate,Baden-Württemberg,Technology,Machines,Laminator,1445.98,8,0.1,369.26
+ORD-1054,2023-09-24,Felix Wagner,Home Office,Nordrhein-Westfalen,Technology,Phones,Cordless Phone,688.72,9,0.2,-58.55
+ORD-1362,2023-06-24,Lea Lange,Home Office,Nordrhein-Westfalen,Office Supplies,Paper,Sticky Notes,1364.19,6,0.0,-174.3
+ORD-1146,2024-01-09,Jonas Weber,Corporate,Bayern,Furniture,Bookcases,Wooden Bookcase,774.56,7,0.1,-135.55
+ORD-1369,2024-04-17,Jonas Weber,Home Office,Niedersachsen,Furniture,Chairs,Executive Chair,1738.56,5,0.0,-200.78
+ORD-1175,2023-09-30,Jan Schröder,Corporate,Nordrhein-Westfalen,Office Supplies,Binders,Clip Binder,523.91,8,0.2,-91.57
+ORD-1311,2024-02-13,,Corporate,Baden-Württemberg,Furniture,Bookcases,Metal Bookcase,1478.33,1,0.3,424.71
+ORD-1182,2023-05-13,Paul Koch,Consumer,Nordrhein-Westfalen,Technology,Copiers,Desktop Copier,926.95,2,0.3,-119.75
+ORD-1201,2023-09-04,Sophie Becker,Corporate,Baden-Württemberg,Technology,Machines,Laminator,112.75,8,0.0,20.67
+ORD-1067,2024-03-18,Marie Richter,Home Office,Baden-Württemberg,Technology,Copiers,Office Copier,741.75,7,0.1,-46.17
+ORD-1378,2023-10-28,Felix Wagner,Home Office,Bayern,Furniture,Furnishings,Wall Clock,1516.55,6,0.1,453.9
+ORD-1222,2023-12-19,Maximilian Hoffmann,Corporate,Niedersachsen,Technology,Accessories,USB Cable,1497.74,1,0.1,-108.26
+ORD-1164,2024-01-04,Tim Bauer,Home Office,Niedersachsen,Furniture,Tables,Round Meeting Table,1516.43,2,0.2,-4.57
+ORD-1397,2024-02-16,,Corporate,Niedersachsen,Furniture,Bookcases,Metal Bookcase,407.09,3,0.0,-32.03
+ORD-1085,2023-04-02,Niklas Hartmann,Home Office,Bayern,Technology,Copiers,Office Copier,1161.94,7,0.0,197.08
+ORD-1345,2024-02-26,Leon Braun,Consumer,Nordrhein-Westfalen,Furniture,Chairs,Mesh Task Chair,386.55,5,0.1,109.97
+ORD-1338,2024-04-07,Jonas Weber,Home Office,Niedersachsen,Office Supplies,Labels,Label Roll,20.11,5,0.2,-3.48
+ORD-1100,2023-10-12,Jan Schröder,Home Office,Nordrhein-Westfalen,Office Supplies,Paper,Sticky Notes,240.98,5,0.2,-35.72
+ORD-1033,2023-06-19,Sarah Neumann,Corporate,Bayern,Technology,Phones,Smartphone X1,1618.16,9,0.1,-229.74
+ORD-1333,2023-04-30,Jonas Weber,Corporate,Nordrhein-Westfalen,Office Supplies,Labels,Sticker Sheet,1498.26,9,0.1,188.96
+ORD-1016,2023-06-11,,Corporate,Niedersachsen,Technology,Copiers,Office Copier,796.35,4,0.0,102.61
+ORD-1264,2023-04-07,Jonas Weber,Home Office,Niedersachsen,Furniture,Tables,Round Meeting Table,1117.88,8,0.0,-162.44
+ORD-1304,2023-04-27,Niklas Hartmann,Home Office,Nordrhein-Westfalen,Technology,Phones,Cordless Phone,1464.74,3,0.0,451.75
+ORD-1239,2024-01-13,Sophie Becker,Corporate,Niedersachsen,Technology,Accessories,Wireless Mouse,147.15,3,0.0,30.17
+ORD-1174,2023-10-12,Laura Fischer,Corporate,Niedersachsen,Office Supplies,Binders,Clip Binder,302.68,8,0.0,79.65
+ORD-1087,2023-12-08,Lena Schulz,Corporate,Niedersachsen,Office Supplies,Binders,Clip Binder,508.0,6,0.0,-16.87
+ORD-1038,2023-07-17,Sophie Becker,Corporate,Bayern,Office Supplies,Storage,Storage Box,1026.39,9,0.0,68.42
+ORD-1003,2023-03-29,Felix Wagner,Consumer,Nordrhein-Westfalen,Technology,Phones,Smartphone X1,674.08,8,0.3,127.7
+ORD-1063,2023-12-04,Niklas Hartmann,Corporate,Bayern,Furniture,Furnishings,Wall Clock,976.37,3,0.3,154.83
+ORD-1139,2023-11-13,Laura Fischer,Home Office,Nordrhein-Westfalen,Office Supplies,Storage,Storage Box,1647.35,7,0.1,346.48
+ORD-1165,2023-03-13,Julia Klein,Home Office,Baden-Württemberg,Furniture,Bookcases,Metal Bookcase,54.15,2,0.0,3.35
+ORD-1314,2023-10-01,Jonas Weber,Corporate,Bayern,Office Supplies,Binders,Clip Binder,1878.74,3,0.1,-303.39
+ORD-1148,2024-02-12,Jonas Weber,Consumer,Niedersachsen,Office Supplies,Storage,Storage Box,1244.06,8,0.3,-132.71
+ORD-1149,2023-06-13,Felix Wagner,Corporate,Niedersachsen,Office Supplies,Art,Marker Set,932.76,2,0.2,-50.12
+ORD-1074,2023-10-29,Lea Lange,Consumer,Niedersachsen,Office Supplies,Labels,Label Roll,1933.64,3,0.3,655.86
+ORD-1278,2024-05-08,Leon Braun,Consumer,Bayern,Technology,Accessories,Wireless Mouse,1968.96,2,,-98.9
+ORD-1105,2023-08-11,Lea Lange,Home Office,Baden-Württemberg,Technology,Phones,Smartphone X1,40.46,3,0.0,3.1
+ORD-1158,2023-06-26,Marie Richter,Consumer,Niedersachsen,Office Supplies,Binders,Ring Binder,1678.27,2,0.1,-301.67
+ORD-1017,2023-10-31,Jonas Weber,Home Office,Niedersachsen,Furniture,Chairs,Ergo Office Chair,659.82,7,0.0,57.05
+ORD-1171,2023-10-13,Sarah Neumann,Consumer,Nordrhein-Westfalen,Furniture,Chairs,Mesh Task Chair,1114.08,3,0.1,331.2
+ORD-1089,2023-03-01,Niklas Hartmann,Home Office,Bayern,Furniture,Furnishings,Desk Lamp,439.48,5,0.1,22.63
+ORD-1365,2023-09-19,Julia Klein,Corporate,Niedersachsen,Furniture,Tables,Conference Table,1522.59,5,0.0,519.49
+ORD-1103,2023-10-16,Lea Lange,Home Office,Niedersachsen,Office Supplies,Binders,Clip Binder,934.7,5,0.0,17.93
+ORD-1319,2023-05-22,Jonas Weber,Consumer,Nordrhein-Westfalen,Office Supplies,Art,Sketch Pad,601.04,2,0.3,-22.26
+ORD-1071,2023-11-13,Jan Schröder,Home Office,Nordrhein-Westfalen,Technology,Copiers,Desktop Copier,1003.39,4,0.3,-187.26
+ORD-1134,2023-11-17,Tim Bauer,Consumer,Niedersachsen,Technology,Phones,Cordless Phone,1761.92,1,0.1,565.55
+ORD-1335,2023-05-03,Leon Braun,Home Office,Baden-Württemberg,Furniture,Chairs,Ergo Office Chair,267.73,9,0.2,-47.01
+ORD-1198,2023-11-11,Paul Koch,Home Office,Baden-Württemberg,Office Supplies,Storage,File Organizer,1973.17,5,0.0,618.65
+ORD-1236,2024-04-17,Maximilian Hoffmann,Corporate,Niedersachsen,Office Supplies,Storage,Storage Box,519.47,8,0.2,145.28
+ORD-1271,2023-04-29,Jan Schröder,Consumer,Niedersachsen,Furniture,Bookcases,Metal Bookcase,543.45,5,0.3,-5.51
+ORD-1019,2023-10-07,Lea Lange,Corporate,Baden-Württemberg,Technology,Phones,Smartphone X1,719.94,9,0.3,-26.67
+ORD-1323,2024-03-02,Marie Richter,Home Office,Bayern,Office Supplies,Storage,Storage Box,1181.22,7,0.3,334.89
+ORD-1021,2023-05-09,Jan Schröder,Consumer,Baden-Württemberg,Technology,Accessories,USB Cable,405.44,8,0.3,-77.95
+ORD-1056,2023-05-24,Anna Schmidt,Corporate,Nordrhein-Westfalen,Technology,Accessories,USB Cable,1636.27,9,0.0,137.69
+ORD-1289,2023-11-06,Lea Lange,Corporate,Nordrhein-Westfalen,Furniture,Bookcases,Metal Bookcase,957.34,8,0.0,301.81
+ORD-1348,2023-12-22,Sarah Neumann,Home Office,Bayern,Furniture,Tables,Round Meeting Table,1116.8,7,0.0,-104.73
+ORD-1293,2023-03-14,Emma Krüger,Consumer,Bayern,Office Supplies,Paper,Sticky Notes,159.52,1,0.3,4.31
+ORD-1297,2023-11-01,,Corporate,Baden-Württemberg,Technology,Machines,Laminator,282.27,9,0.0,12.79
+ORD-1151,2023-07-20,Laura Fischer,Corporate,Nordrhein-Westfalen,Technology,Machines,Laminator,625.96,4,0.0,82.33
+ORD-1195,2023-05-26,Laura Fischer,Home Office,Nordrhein-Westfalen,Furniture,Furnishings,Desk Lamp,182.97,6,0.0,22.46
+ORD-1166,2023-09-16,Tim Bauer,Consumer,Niedersachsen,Furniture,Tables,Round Meeting Table,1045.13,1,0.3,108.22
+ORD-1353,2023-07-15,Emma Krüger,Home Office,Nordrhein-Westfalen,Technology,Copiers,Office Copier,355.77,4,0.0,-57.88
+ORD-1098,2023-03-10,Anna Schmidt,Corporate,Niedersachsen,Technology,Machines,Laminator,1227.32,7,0.2,-213.25
+ORD-1394,2023-08-09,Lukas Müller,Corporate,Niedersachsen,Office Supplies,Binders,Ring Binder,1581.5,7,0.2,-278.32
+ORD-1155,2023-01-05,Jonas Weber,Consumer,Niedersachsen,Technology,Machines,Label Printer,62.47,1,0.0,14.22
+ORD-1123,2023-08-21,Anna Schmidt,Consumer,Baden-Württemberg,Technology,Machines,Label Printer,1695.81,9,0.0,-41.34
+ORD-1114,2024-01-26,Anna Schmidt,Home Office,Baden-Württemberg,Technology,Accessories,Wireless Mouse,245.15,5,0.0,-2.06
+ORD-1246,2023-10-21,Laura Fischer,Consumer,Nordrhein-Westfalen,Office Supplies,Labels,Sticker Sheet,699.23,2,0.0,45.07
+ORD-1270,2023-10-30,Marie Richter,Home Office,Niedersachsen,Furniture,Chairs,Ergo Office Chair,1253.27,2,0.0,-0.4
+ORD-1109,2023-06-12,Emma Krüger,Home Office,Baden-Württemberg,Office Supplies,Labels,Sticker Sheet,1290.14,1,0.0,317.58
+ORD-1284,2024-01-29,David Wolf,Corporate,Niedersachsen,Furniture,Chairs,Ergo Office Chair,1829.68,5,0.1,19.63
+ORD-1095,2024-01-31,Paul Koch,Corporate,Nordrhein-Westfalen,Technology,Phones,Smartphone X1,823.82,1,0.0,35.67
+ORD-1296,2023-12-20,Leon Braun,Corporate,Baden-Württemberg,Technology,Phones,Smartphone X1,215.16,5,0.0,-32.19
+ORD-1126,2023-01-25,Lea Lange,Home Office,Baden-Württemberg,Office Supplies,Binders,Clip Binder,1111.87,5,0.3,237.72
+ORD-1379,2023-09-24,Emma Krüger,Corporate,Bayern,Technology,Phones,Smartphone X1,966.21,8,0.0,-115.7
+ORD-1395,2023-10-27,Leon Braun,Consumer,Niedersachsen,Furniture,Tables,Study Table,1115.17,2,0.0,177.64
+ORD-1092,2024-01-05,Hannah Zimmermann,Consumer,Bayern,Office Supplies,Paper,A4 Paper Ream,1037.44,3,0.3,246.24
+ORD-1391,2023-01-03,Lukas Müller,Corporate,Niedersachsen,Office Supplies,Storage,File Organizer,91.1,2,0.0,-15.2
+ORD-1399,2023-11-01,Lukas Müller,Corporate,Baden-Württemberg,Technology,Copiers,Office Copier,1737.86,8,0.1,59.12
+ORD-1308,2023-07-07,Anna Schmidt,Home Office,Nordrhein-Westfalen,Technology,Accessories,Wireless Mouse,967.31,3,0.3,176.98
+ORD-1385,2023-05-02,Jonas Weber,Home Office,Bayern,Technology,Machines,Laminator,1603.17,2,0.0,-284.32
+ORD-1188,2024-04-18,Leon Braun,Home Office,Niedersachsen,Furniture,Chairs,Executive Chair,1522.31,8,0.3,298.8
+ORD-1336,2023-08-14,Leon Braun,Consumer,Nordrhein-Westfalen,Furniture,Bookcases,Metal Bookcase,1725.63,9,0.0,-32.82
+ORD-1025,2023-02-02,Hannah Zimmermann,Consumer,Nordrhein-Westfalen,Furniture,Furnishings,Desk Lamp,136.48,7,0.0,22.91
+ORD-1325,2023-02-21,Laura Fischer,Corporate,Nordrhein-Westfalen,Technology,Copiers,Office Copier,139.32,8,0.3,44.37
+ORD-1256,2023-03-19,Maximilian Hoffmann,Corporate,Baden-Württemberg,Furniture,Bookcases,Metal Bookcase,1430.98,2,,126.52
+ORD-1127,2023-05-31,Marie Richter,Home Office,,Office Supplies,Labels,Sticker Sheet,1564.78,7,0.1,-234.46
+ORD-1334,2024-02-02,Emma Krüger,Corporate,Nordrhein-Westfalen,Furniture,Chairs,Executive Chair,1721.65,9,0.1,26.07
+ORD-1079,2023-05-07,Jan Schröder,Consumer,Niedersachsen,Office Supplies,Storage,File Organizer,1041.48,2,0.3,-23.53
+ORD-1207,2023-11-20,Laura Fischer,Consumer,,Technology,Copiers,Desktop Copier,856.62,1,0.0,175.55
+ORD-1179,2023-12-18,Lena Schulz,Corporate,Nordrhein-Westfalen,Technology,Phones,Cordless Phone,953.18,2,0.0,124.93
+ORD-1342,2023-08-25,Anna Schmidt,Corporate,Niedersachsen,Furniture,Tables,Conference Table,1470.48,8,0.3,350.83
+ORD-1223,2023-08-13,Laura Fischer,Corporate,Bayern,Technology,Accessories,USB Cable,789.05,2,0.0,78.08
+ORD-1321,2024-04-07,Niklas Hartmann,Consumer,Bayern,Furniture,Furnishings,Desk Lamp,861.27,1,0.0,13.26
+ORD-1228,2024-04-29,Lea Lange,Home Office,Bayern,Office Supplies,Labels,Sticker Sheet,1559.36,1,0.3,-283.11
+ORD-1290,2023-03-10,Sophie Becker,Corporate,Niedersachsen,Office Supplies,Storage,Storage Box,972.67,4,,94.26
+ORD-1062,2024-04-17,,Corporate,Baden-Württemberg,Furniture,Chairs,Mesh Task Chair,1330.37,2,0.0,-148.41
+ORD-1390,2023-07-27,Jonas Weber,Home Office,Niedersachsen,Office Supplies,Storage,File Organizer,1099.71,6,0.0,53.64
+ORD-1094,2024-04-18,Lena Schulz,Consumer,Niedersachsen,Technology,Phones,Smartphone X1,1925.67,7,0.1,68.5
+ORD-1331,2024-05-04,Laura Fischer,Corporate,Baden-Württemberg,Furniture,Furnishings,Wall Clock,1035.34,2,0.3,189.27
+ORD-1347,2023-06-09,Jonas Weber,Corporate,Nordrhein-Westfalen,Technology,Phones,Smartphone X1,676.89,7,0.3,-75.53
+ORD-1070,2023-10-11,Marie Richter,Consumer,Niedersachsen,Technology,Machines,Label Printer,1341.16,1,0.1,-124.21
+ORD-1037,2024-03-21,Sophie Becker,Corporate,Niedersachsen,Office Supplies,Paper,Sticky Notes,11.04,9,,-0.36
+ORD-1041,2023-04-23,Niklas Hartmann,Corporate,Nordrhein-Westfalen,Furniture,Chairs,Ergo Office Chair,139.14,4,0.0,-8.94
+ORD-1161,2024-03-12,Lena Schulz,Home Office,Baden-Württemberg,Furniture,Tables,Conference Table,1174.45,5,0.0,375.38
+ORD-1377,2023-11-16,Jan Schröder,Home Office,Nordrhein-Westfalen,Technology,Accessories,Wireless Mouse,797.13,6,0.3,-31.55
+ORD-1012,2024-03-19,Lena Schulz,Consumer,Niedersachsen,Office Supplies,Storage,File Organizer,252.86,8,0.3,-45.79
+ORD-1145,2023-11-01,Anna Schmidt,Corporate,Niedersachsen,Technology,Copiers,Office Copier,1394.54,1,0.3,202.43
+ORD-1281,2024-04-30,Sophie Becker,Home Office,Nordrhein-Westfalen,Furniture,Bookcases,Wooden Bookcase,1661.19,7,0.0,-234.86
+ORD-1371,2023-12-15,Lena Schulz,Consumer,Nordrhein-Westfalen,Furniture,Tables,Conference Table,271.18,5,0.1,81.76
+ORD-1243,2024-02-28,Anna Schmidt,Corporate,Niedersachsen,Technology,Accessories,Wireless Mouse,1219.71,9,0.1,255.33
+ORD-1128,2023-02-11,Felix Wagner,Home Office,Bayern,Office Supplies,Storage,Storage Box,1948.75,5,0.0,400.21
+ORD-1213,2024-04-03,Felix Wagner,Corporate,Baden-Württemberg,Technology,Machines,Laminator,951.6,6,0.0,25.23
+ORD-1185,2023-11-15,Lukas Müller,Consumer,Niedersachsen,Office Supplies,Art,Marker Set,760.8,1,0.1,-36.3
+ORD-1047,2023-07-22,Julia Klein,Consumer,Nordrhein-Westfalen,Office Supplies,Storage,File Organizer,745.61,1,0.1,149.51
+ORD-1247,2023-12-13,Laura Fischer,Corporate,Bayern,Technology,Accessories,USB Cable,909.91,3,0.0,-57.76
+ORD-1306,2024-01-07,Laura Fischer,Consumer,Bayern,Office Supplies,Storage,Storage Box,1690.65,2,0.0,147.66
+ORD-1366,2023-09-14,Lukas Müller,Corporate,Niedersachsen,Office Supplies,Paper,A4 Paper Ream,648.28,6,0.0,-47.66
+ORD-1177,2023-05-31,Felix Wagner,Home Office,Nordrhein-Westfalen,Technology,Phones,Smartphone X1,264.81,6,0.0,48.65
+ORD-1211,2023-06-21,David Wolf,Consumer,Baden-Württemberg,Furniture,Furnishings,Wall Clock,411.44,8,0.0,100.98
+ORD-1129,2023-08-09,Felix Wagner,Consumer,Bayern,Technology,Machines,Laminator,708.32,2,0.0,235.7
+ORD-1144,2023-05-27,Tim Bauer,Consumer,Nordrhein-Westfalen,Technology,Copiers,Desktop Copier,1938.91,2,0.1,-210.53
+ORD-1008,2023-09-01,Felix Wagner,Home Office,Baden-Württemberg,Technology,Machines,Laminator,1188.9,3,0.3,324.53
+ORD-1355,2024-01-09,Jonas Weber,Corporate,Niedersachsen,Furniture,Furnishings,Desk Lamp,698.31,8,0.0,-122.09
+ORD-1255,2023-10-13,Marie Richter,Home Office,Niedersachsen,Technology,Copiers,Office Copier,1674.76,3,0.0,-274.43
+ORD-1329,2023-09-18,Lena Schulz,Consumer,Baden-Württemberg,Office Supplies,Paper,Sticky Notes,1263.26,7,0.0,361.4
+ORD-1180,2023-02-20,Jonas Weber,Home Office,Baden-Württemberg,Furniture,Chairs,Executive Chair,91.33,5,0.0,-0.93
+ORD-1173,2023-01-30,Julia Klein,Home Office,Niedersachsen,Technology,Accessories,Wireless Mouse,1247.95,3,0.3,229.25
+ORD-1218,2023-08-17,Felix Wagner,Corporate,Niedersachsen,Technology,Machines,Label Printer,411.24,3,0.2,-45.09
+ORD-1302,2023-02-16,Niklas Hartmann,Corporate,Niedersachsen,Furniture,Bookcases,Metal Bookcase,97.89,7,0.3,34.23
+ORD-1009,2023-05-15,Felix Wagner,Consumer,Nordrhein-Westfalen,Office Supplies,Binders,Ring Binder,349.34,7,0.0,-67.32
+ORD-1157,2023-10-09,Julia Klein,Home Office,Baden-Württemberg,Technology,Copiers,Office Copier,767.97,6,0.1,196.63
+ORD-1028,2023-05-11,Lena Schulz,Consumer,Bayern,Office Supplies,Binders,Ring Binder,1523.96,7,0.2,341.42
+ORD-1301,2023-09-25,David Wolf,Home Office,Baden-Württemberg,Technology,Machines,Label Printer,450.21,9,0.3,143.72
+ORD-1360,2024-04-09,,Home Office,Nordrhein-Westfalen,Office Supplies,Paper,Sticky Notes,213.37,9,0.0,-23.47
+ORD-1059,2023-05-11,Laura Fischer,Corporate,Bayern,Office Supplies,Paper,A4 Paper Ream,1714.09,6,0.1,392.41
+ORD-1206,2023-06-22,Maximilian Hoffmann,Corporate,Nordrhein-Westfalen,Furniture,Bookcases,Metal Bookcase,1541.29,6,0.0,512.32
+ORD-1065,2023-10-04,Anna Schmidt,Home Office,Niedersachsen,Furniture,Tables,Study Table,365.86,8,0.1,57.55
+ORD-1083,2023-06-22,Jonas Weber,Home Office,Nordrhein-Westfalen,Furniture,Furnishings,Wall Clock,396.61,8,0.0,73.8
+ORD-1292,2023-12-31,Anna Schmidt,Consumer,Baden-Württemberg,Office Supplies,Labels,Sticker Sheet,317.8,9,0.0,71.19
+ORD-1214,2023-04-04,Sophie Becker,Consumer,Bayern,Technology,Accessories,Wireless Mouse,222.33,5,0.0,57.1
+ORD-1260,2024-01-15,,Consumer,Baden-Württemberg,Technology,Machines,Label Printer,1603.49,7,0.1,-182.98
+ORD-1154,2024-03-25,Felix Wagner,Home Office,Niedersachsen,Technology,Accessories,Wireless Mouse,174.67,2,0.2,18.06
+ORD-1049,2024-01-30,Laura Fischer,Consumer,Baden-Württemberg,Furniture,Chairs,Executive Chair,1634.7,1,0.2,-191.43
+ORD-1209,2023-05-19,Anna Schmidt,Corporate,Bayern,Office Supplies,Binders,Clip Binder,1864.71,3,0.2,-319.79
+ORD-1327,2023-11-26,Lea Lange,Home Office,Niedersachsen,Office Supplies,Labels,Sticker Sheet,103.42,9,0.0,-8.14
+ORD-1032,2023-11-23,Sarah Neumann,Consumer,Bayern,Furniture,Furnishings,Wall Clock,586.61,6,0.1,166.75
+ORD-1002,2023-04-13,Laura Fischer,Home Office,Bayern,Technology,Copiers,Desktop Copier,897.21,7,0.0,-150.78
+ORD-1172,2023-11-04,Laura Fischer,Consumer,Nordrhein-Westfalen,Technology,Accessories,Wireless Mouse,1099.42,1,0.1,253.98
+ORD-1268,2023-09-20,Lukas Müller,Home Office,Nordrhein-Westfalen,Office Supplies,Labels,Sticker Sheet,1474.45,5,0.2,-273.37
+ORD-1014,2023-01-02,Felix Wagner,Consumer,Baden-Württemberg,Furniture,Furnishings,Wall Clock,856.06,6,0.3,86.2
+ORD-1375,2023-04-27,Laura Fischer,Home Office,Nordrhein-Westfalen,Furniture,Tables,Conference Table,1184.63,8,0.2,-34.71
+ORD-1010,2023-03-30,David Wolf,Corporate,Niedersachsen,Technology,Machines,Laminator,1931.61,2,,23.14
+ORD-1147,2023-01-12,Laura Fischer,Home Office,Niedersachsen,Furniture,Tables,Study Table,1917.82,8,0.3,32.58
+ORD-1266,2024-02-04,Jan Schröder,Corporate,Baden-Württemberg,Office Supplies,Binders,Ring Binder,800.4,5,0.2,-97.97
+ORD-1272,2023-09-13,Felix Wagner,Home Office,Baden-Württemberg,Office Supplies,Paper,A4 Paper Ream,1108.57,2,0.0,303.29
+ORD-1380,2023-03-17,Hannah Zimmermann,Corporate,Baden-Württemberg,Technology,Phones,Smartphone X1,1973.46,6,,276.26
+ORD-1096,2023-04-06,Laura Fischer,Home Office,Bayern,Office Supplies,Labels,Sticker Sheet,1102.96,9,0.1,179.9
+ORD-1035,2023-11-27,Jonas Weber,Corporate,Nordrhein-Westfalen,Office Supplies,Art,Marker Set,655.45,7,0.0,191.95
+ORD-1097,2024-01-08,Maximilian Hoffmann,Consumer,Nordrhein-Westfalen,Furniture,Bookcases,Wooden Bookcase,1280.16,7,0.2,206.63
+ORD-1340,2023-04-24,Lukas Müller,Home Office,Nordrhein-Westfalen,Technology,Phones,Smartphone X1,995.34,3,0.1,252.39
+ORD-1285,2023-05-02,Sarah Neumann,Corporate,Niedersachsen,Furniture,Bookcases,Wooden Bookcase,849.85,2,0.0,-92.25
+ORD-1259,2023-10-15,Sarah Neumann,Consumer,Niedersachsen,Technology,Accessories,Wireless Mouse,551.88,3,0.0,85.1
+ORD-1117,2023-07-11,Hannah Zimmermann,Consumer,Bayern,Furniture,Tables,Conference Table,1156.09,3,0.0,31.14
+ORD-1046,2023-08-06,Niklas Hartmann,Consumer,Bayern,Technology,Accessories,Wireless Mouse,1971.44,7,0.0,334.5
+ORD-1162,2024-04-02,Jonas Weber,Home Office,Bayern,Technology,Phones,Cordless Phone,761.92,5,0.1,36.42
+ORD-1315,2023-10-29,Paul Koch,Home Office,,Furniture,Tables,Conference Table,707.92,1,0.0,14.91
+ORD-1118,2024-04-10,Felix Wagner,Consumer,Bayern,Technology,Copiers,Desktop Copier,507.53,8,0.2,140.54
+ORD-1078,2023-10-07,Leon Braun,Home Office,Baden-Württemberg,Office Supplies,Labels,Sticker Sheet,425.75,6,0.2,-1.17
+ORD-1322,2024-03-27,David Wolf,Corporate,Nordrhein-Westfalen,Technology,Machines,Laminator,444.33,5,0.0,103.3
+ORD-1064,2023-06-18,Tim Bauer,Corporate,Bayern,Office Supplies,Labels,Label Roll,360.09,4,0.0,-25.03
+ORD-1231,2024-03-11,Lena Schulz,Consumer,Nordrhein-Westfalen,Furniture,Bookcases,Wooden Bookcase,800.6,8,0.2,-94.11
+ORD-1187,2023-07-26,Jonas Weber,Corporate,Baden-Württemberg,Office Supplies,Labels,Sticker Sheet,1077.82,8,0.1,71.66
+ORD-1275,2023-08-03,Felix Wagner,Consumer,Baden-Württemberg,Office Supplies,Art,Sketch Pad,1601.71,1,0.1,106.72
+ORD-1200,2023-04-22,Lukas Müller,Consumer,Nordrhein-Westfalen,Office Supplies,Art,Sketch Pad,329.76,8,0.0,96.69
+ORD-1279,2023-03-16,Sophie Becker,Corporate,Nordrhein-Westfalen,Office Supplies,Labels,Sticker Sheet,1646.94,5,0.0,408.9
+ORD-1122,2023-07-06,Felix Wagner,Consumer,Bayern,Office Supplies,Art,Sketch Pad,208.97,4,0.0,-40.55
+ORD-1381,2023-05-28,Maximilian Hoffmann,Home Office,Niedersachsen,Office Supplies,Binders,Ring Binder,698.57,8,0.3,-135.96
+ORD-1354,2023-08-07,Julia Klein,Home Office,Niedersachsen,Technology,Machines,Label Printer,341.09,6,0.1,64.71
+ORD-1159,2024-01-20,Niklas Hartmann,Corporate,Baden-Württemberg,Technology,Machines,Laminator,37.21,7,0.3,10.25
+ORD-1086,2023-02-20,Julia Klein,Corporate,Niedersachsen,Office Supplies,Labels,Label Roll,936.54,6,0.1,117.03
+ORD-1226,2024-03-23,Laura Fischer,Home Office,Niedersachsen,Office Supplies,Storage,File Organizer,341.79,1,0.0,31.92
+ORD-1263,2023-11-24,Anna Schmidt,Consumer,Niedersachsen,Office Supplies,Labels,Label Roll,217.18,5,0.0,-22.11
+ORD-1341,2023-02-25,Julia Klein,Home Office,Bayern,Technology,Phones,Smartphone X1,1327.6,8,0.1,147.57
+ORD-1077,2023-08-11,Jan Schröder,Consumer,Nordrhein-Westfalen,Furniture,Furnishings,Desk Lamp,1689.98,3,0.1,191.87
+ORD-1320,2024-03-21,Maximilian Hoffmann,Corporate,Baden-Württemberg,Office Supplies,Binders,Ring Binder,1182.33,1,0.3,355.51
+ORD-1307,2023-04-13,Sarah Neumann,Home Office,Nordrhein-Westfalen,Office Supplies,Labels,Sticker Sheet,83.65,8,0.3,-6.15
+ORD-1088,2024-05-05,David Wolf,Home Office,Nordrhein-Westfalen,Office Supplies,Paper,A4 Paper Ream,262.85,1,0.1,67.11
+ORD-1373,2024-03-30,Emma Krüger,Home Office,Niedersachsen,Furniture,Chairs,Executive Chair,259.12,4,0.3,9.5
+ORD-1183,2023-08-06,Felix Wagner,Corporate,Niedersachsen,Office Supplies,Labels,Label Roll,1383.89,9,0.1,-206.53
+ORD-1106,2023-09-14,Lena Schulz,Home Office,Niedersachsen,Office Supplies,Labels,Label Roll,1083.36,4,0.3,150.28
+ORD-1050,2023-07-06,Jonas Weber,Corporate,Baden-Württemberg,Technology,Accessories,Wireless Mouse,381.17,3,0.0,47.64
+ORD-1006,2023-11-10,Tim Bauer,Consumer,Bayern,Office Supplies,Binders,Clip Binder,1054.27,9,0.0,-41.99
+ORD-1018,2023-07-09,Sophie Becker,Home Office,Niedersachsen,Technology,Phones,Cordless Phone,657.41,2,0.1,63.66
+ORD-1235,2023-07-19,Marie Richter,Home Office,,Furniture,Tables,Study Table,852.96,8,0.1,66.73
+ORD-1328,2023-08-29,David Wolf,Home Office,Bayern,Furniture,Tables,Study Table,1914.97,8,0.0,-14.23
+ORD-1107,2023-12-02,Hannah Zimmermann,Home Office,Niedersachsen,Office Supplies,Binders,Ring Binder,1288.41,1,0.0,356.84
+ORD-1135,2023-08-05,Anna Schmidt,Consumer,Baden-Württemberg,Technology,Copiers,Office Copier,1187.86,4,0.0,8.25
+ORD-1332,2023-08-04,Laura Fischer,Home Office,,Office Supplies,Labels,Label Roll,1795.9,3,0.0,-137.49
+ORD-1227,2023-08-19,Felix Wagner,Home Office,Nordrhein-Westfalen,Office Supplies,Storage,Storage Box,1150.57,6,0.0,246.02
+ORD-1215,2023-08-24,Jonas Weber,Consumer,Bayern,Furniture,Bookcases,Wooden Bookcase,822.95,5,0.0,166.22
+ORD-1191,2023-08-15,Tim Bauer,Home Office,Baden-Württemberg,Office Supplies,Paper,Sticky Notes,800.36,9,0.0,164.53
+ORD-1363,2023-07-14,David Wolf,Corporate,Baden-Württemberg,Office Supplies,Storage,Storage Box,1902.22,8,0.2,71.87
+ORD-1283,2023-08-07,Lukas Müller,Corporate,Baden-Württemberg,Technology,Machines,Label Printer,1198.85,9,0.0,86.14
+ORD-1030,2023-08-19,Anna Schmidt,Corporate,Bayern,Technology,Accessories,Wireless Mouse,955.99,4,0.3,286.0
+ORD-1170,2023-09-09,Lena Schulz,Home Office,Bayern,Technology,Copiers,Office Copier,1961.12,2,0.3,244.07
+ORD-1181,2023-06-19,Jonas Weber,Consumer,Baden-Württemberg,Furniture,Bookcases,Wooden Bookcase,362.25,5,0.0,36.87
+ORD-1101,2023-04-04,Emma Krüger,Corporate,Niedersachsen,Office Supplies,Labels,Sticker Sheet,1712.37,4,0.0,-177.35
+ORD-1198,2023-11-11,Paul Koch,Home Office,Baden-Württemberg,Office Supplies,Storage,File Organizer,1973.17,5,0.0,618.65
+ORD-1210,2023-06-27,Sarah Neumann,Home Office,Niedersachsen,Technology,Copiers,Office Copier,913.99,5,0.0,-150.94
+ORD-1136,2024-02-19,Maximilian Hoffmann,Corporate,Nordrhein-Westfalen,Office Supplies,Art,Sketch Pad,968.52,6,0.0,181.88
+ORD-1386,2024-03-03,Sarah Neumann,Consumer,Bayern,Office Supplies,Labels,Sticker Sheet,218.09,3,0.0,63.88
+ORD-1352,2023-08-12,,Consumer,Nordrhein-Westfalen,Office Supplies,Storage,Storage Box,1681.84,5,0.0,-241.55
+ORD-1199,2024-03-12,Jonas Weber,Home Office,Niedersachsen,Furniture,Tables,Conference Table,212.55,6,0.3,0.2
+ORD-1167,2024-01-24,David Wolf,Home Office,Baden-Württemberg,Furniture,Furnishings,Desk Lamp,185.93,9,0.0,23.14
+ORD-1317,2024-01-12,Niklas Hartmann,Consumer,Nordrhein-Westfalen,Furniture,Tables,Conference Table,1538.86,9,0.0,-23.08
+ORD-1137,2023-07-21,Lukas Müller,Home Office,Nordrhein-Westfalen,Technology,Accessories,Wireless Mouse,1813.65,7,0.2,70.64
+ORD-1286,2023-12-29,Tim Bauer,Home Office,Baden-Württemberg,Office Supplies,Paper,Sticky Notes,376.9,5,0.2,49.65
+ORD-1132,2024-03-09,Laura Fischer,Consumer,Baden-Württemberg,Office Supplies,Art,Sketch Pad,1784.87,2,0.3,-277.12
+ORD-1040,2024-01-09,Anna Schmidt,Home Office,Bayern,Technology,Machines,Laminator,445.34,8,0.0,83.13
+ORD-1216,2023-05-17,Lea Lange,Consumer,Bayern,Furniture,Furnishings,Wall Clock,417.95,3,0.2,-68.3
+ORD-1044,2023-08-08,Maximilian Hoffmann,Home Office,Baden-Württemberg,Furniture,Bookcases,Metal Bookcase,112.44,5,0.0,-1.15
+ORD-1055,2024-02-19,Emma Krüger,Consumer,Niedersachsen,Furniture,Chairs,Mesh Task Chair,1755.91,3,0.0,-130.46
+ORD-1389,2023-12-14,Marie Richter,Consumer,Bayern,Furniture,Bookcases,Wooden Bookcase,1605.44,7,0.1,262.41
+ORD-1300,2024-04-08,Lea Lange,Home Office,Nordrhein-Westfalen,Office Supplies,Labels,Sticker Sheet,1699.9,9,0.0,504.62
+ORD-1373,2024-03-30,Emma Krüger,Home Office,Niedersachsen,Furniture,Chairs,Executive Chair,259.12,4,0.3,9.5
+ORD-1305,2024-05-12,Leon Braun,Home Office,Niedersachsen,Furniture,Tables,Round Meeting Table,849.31,2,0.2,178.17
+ORD-1036,2023-08-19,Jan Schröder,Home Office,Bayern,Furniture,Chairs,Ergo Office Chair,1814.59,1,0.0,-135.43
+ORD-1316,2023-09-02,Emma Krüger,Home Office,Baden-Württemberg,Furniture,Chairs,Executive Chair,964.76,8,0.3,-48.79
+ORD-1310,2023-01-15,Tim Bauer,Home Office,Baden-Württemberg,Technology,Machines,Label Printer,1609.91,4,0.0,378.16
+ORD-1277,2023-10-08,Leon Braun,Corporate,Nordrhein-Westfalen,Technology,Accessories,USB Cable,523.2,6,0.1,80.98
+ORD-1125,2024-01-02,Jonas Weber,Corporate,Nordrhein-Westfalen,Furniture,Chairs,Ergo Office Chair,175.74,5,0.0,-6.81
+ORD-1143,2023-08-01,Jan Schröder,Home Office,Niedersachsen,Office Supplies,Storage,Storage Box,1986.0,5,0.1,-120.86
+ORD-1111,2023-06-17,Maximilian Hoffmann,Corporate,Bayern,Technology,Accessories,USB Cable,1811.65,2,0.0,-323.51
+ORD-1324,2023-10-29,Emma Krüger,Home Office,Niedersachsen,Furniture,Furnishings,Wall Clock,1205.59,2,0.0,-130.36
+ORD-1359,2024-04-15,Maximilian Hoffmann,Consumer,Baden-Württemberg,Office Supplies,Labels,Label Roll,897.35,2,0.0,312.65
+ORD-1108,2023-06-09,Lena Schulz,Corporate,Nordrhein-Westfalen,Office Supplies,Labels,Sticker Sheet,1881.06,8,0.1,324.37
+ORD-1013,2023-07-25,Tim Bauer,Consumer,Nordrhein-Westfalen,Furniture,Bookcases,Metal Bookcase,788.21,2,0.0,129.57
+ORD-1273,2023-12-21,Leon Braun,Consumer,Bayern,Furniture,Tables,Round Meeting Table,1897.42,6,0.1,434.26
+ORD-1048,2023-10-07,Emma Krüger,Home Office,Baden-Württemberg,Technology,Phones,Cordless Phone,945.9,2,0.3,140.41
+ORD-1204,2023-04-04,Laura Fischer,Corporate,Niedersachsen,Furniture,Bookcases,Metal Bookcase,350.07,3,0.2,88.03
+ORD-1351,2024-05-10,Leon Braun,Corporate,Nordrhein-Westfalen,Technology,Machines,Label Printer,222.89,7,0.0,21.78
+ORD-1120,2023-10-06,Niklas Hartmann,Home Office,Bayern,Technology,Phones,Smartphone X1,1511.54,9,0.3,11.72
+ORD-1022,2024-05-13,Marie Richter,Home Office,Nordrhein-Westfalen,Furniture,Bookcases,Wooden Bookcase,1416.65,3,0.2,332.34
+ORD-1084,2024-02-04,Emma Krüger,Corporate,Niedersachsen,Furniture,Tables,Study Table,111.03,3,0.1,-1.57
+ORD-1131,2023-01-07,Hannah Zimmermann,Consumer,Niedersachsen,Office Supplies,Art,Sketch Pad,857.92,8,0.0,-137.25
+ORD-1330,2023-04-09,Tim Bauer,Corporate,Bayern,Office Supplies,Storage,File Organizer,1198.58,1,0.0,-125.08
+ORD-1230,2023-12-19,Julia Klein,Corporate,Nordrhein-Westfalen,Furniture,Bookcases,Metal Bookcase,214.8,4,0.0,11.03
+ORD-1173,2023-01-30,Julia Klein,Home Office,Niedersachsen,Technology,Accessories,Wireless Mouse,1247.95,3,0.3,229.25
+ORD-1287,2023-10-09,Emma Krüger,Consumer,Baden-Württemberg,Furniture,Furnishings,Desk Lamp,145.82,8,0.0,5.9
+ORD-1124,2023-07-25,Lena Schulz,Corporate,Nordrhein-Westfalen,Office Supplies,Binders,Ring Binder,1356.77,4,0.3,156.56
+ORD-1034,2023-10-11,Tim Bauer,Consumer,Nordrhein-Westfalen,Furniture,Tables,Conference Table,1609.31,4,0.1,468.16
+ORD-1387,2023-01-09,Lukas Müller,Home Office,Baden-Württemberg,Office Supplies,Art,Marker Set,1873.06,7,0.0,256.83
+ORD-1005,2023-10-21,Sophie Becker,Home Office,Niedersachsen,Office Supplies,Storage,File Organizer,11.55,5,0.0,1.61
+ORD-1020,2023-10-28,Emma Krüger,Corporate,Baden-Württemberg,Furniture,Bookcases,Metal Bookcase,158.36,7,0.0,5.21
+ORD-1220,2023-02-11,Anna Schmidt,Corporate,Baden-Württemberg,Furniture,Chairs,Executive Chair,790.97,8,0.2,38.42
+ORD-1030,2023-08-19,Anna Schmidt,Corporate,Bayern,Technology,Accessories,Wireless Mouse,955.99,4,0.3,286.0
+ORD-1150,2023-12-23,,Consumer,Baden-Württemberg,Furniture,Chairs,Mesh Task Chair,1949.05,6,0.0,-355.17
+ORD-1225,2023-05-14,Sarah Neumann,Corporate,Bayern,Technology,Machines,Laminator,672.3,3,0.0,-10.62
+ORD-1248,2023-01-25,Sarah Neumann,Consumer,Baden-Württemberg,Furniture,Furnishings,Desk Lamp,1001.75,6,0.3,-181.68
+ORD-1364,2023-01-21,Hannah Zimmermann,Corporate,Bayern,Technology,Copiers,Office Copier,1819.95,5,0.0,275.16
+ORD-1152,2023-08-28,Tim Bauer,Consumer,Baden-Württemberg,Office Supplies,Storage,Storage Box,333.61,3,0.0,84.2
+ORD-1318,2023-12-06,Anna Schmidt,Consumer,Niedersachsen,Office Supplies,Art,Marker Set,1477.79,1,0.3,-205.77
+ORD-1292,2023-12-31,Anna Schmidt,Consumer,Baden-Württemberg,Office Supplies,Labels,Sticker Sheet,317.8,9,0.0,71.19
+ORD-1234,2023-10-10,Anna Schmidt,Corporate,Baden-Württemberg,Technology,Accessories,Wireless Mouse,697.94,8,0.2,84.36
+ORD-1011,2023-12-12,Julia Klein,Consumer,Baden-Württemberg,Technology,Phones,Smartphone X1,204.37,4,0.2,-13.78
+ORD-1280,2023-02-10,Paul Koch,Consumer,Baden-Württemberg,Furniture,Bookcases,Wooden Bookcase,555.37,1,0.2,12.71
+ORD-1072,2023-02-18,Felix Wagner,Corporate,,Furniture,Tables,Conference Table,96.77,5,0.0,27.67
+ORD-1253,2023-08-12,Hannah Zimmermann,Home Office,Nordrhein-Westfalen,Furniture,Chairs,Executive Chair,143.48,7,0.1,4.98
+ORD-1093,2023-11-15,Anna Schmidt,Consumer,,Furniture,Chairs,Executive Chair,872.71,7,0.0,-54.13
+ORD-1350,2023-12-26,Anna Schmidt,Corporate,Niedersachsen,Furniture,Tables,Round Meeting Table,527.01,8,0.0,131.9
+ORD-1193,2023-03-27,Emma Krüger,Consumer,Baden-Württemberg,Technology,Phones,Cordless Phone,661.72,9,0.0,191.76
+ORD-1258,2023-05-12,Sophie Becker,Corporate,Niedersachsen,Office Supplies,Labels,Sticker Sheet,372.04,7,0.0,119.19
+ORD-1340,2023-04-24,Lukas Müller,Home Office,Nordrhein-Westfalen,Technology,Phones,Smartphone X1,995.34,3,0.1,252.39
+ORD-1126,2023-01-25,Lea Lange,Home Office,Baden-Württemberg,Office Supplies,Binders,Clip Binder,1111.87,5,0.3,237.72
+ORD-1196,2023-09-21,Julia Klein,Home Office,Baden-Württemberg,Furniture,Bookcases,Wooden Bookcase,1177.21,3,0.1,9.8
+ORD-1344,2023-02-14,,Consumer,Baden-Württemberg,Furniture,Tables,Conference Table,1397.97,4,0.1,196.05
+ORD-1138,2023-06-22,Lukas Müller,Home Office,Niedersachsen,Furniture,Tables,Round Meeting Table,32.59,4,0.1,-4.39
+ORD-1261,2023-06-27,Lea Lange,Home Office,Niedersachsen,Furniture,Furnishings,Wall Clock,1735.32,8,0.1,-321.2
+ORD-1039,2023-08-13,Sarah Neumann,Home Office,Niedersachsen,Furniture,Tables,Study Table,248.53,8,0.0,79.18
+ORD-1202,2024-02-12,Jonas Weber,Consumer,Bayern,Technology,Phones,Cordless Phone,232.96,2,0.1,27.21
+ORD-1383,2024-02-18,Niklas Hartmann,Consumer,Niedersachsen,Furniture,Bookcases,Wooden Bookcase,76.07,4,0.2,-0.24
+ORD-1291,2024-04-11,Felix Wagner,Corporate,Niedersachsen,Furniture,Tables,Conference Table,1194.21,1,0.0,87.18
+ORD-1190,2023-01-03,Tim Bauer,Corporate,Niedersachsen,Office Supplies,Binders,Clip Binder,1791.46,2,0.1,82.54
+ORD-1252,2023-03-04,Anna Schmidt,Corporate,Baden-Württemberg,Technology,Accessories,Wireless Mouse,1993.78,1,0.3,-70.23
+ORD-1113,2023-04-03,Julia Klein,Consumer,Baden-Württemberg,Furniture,Tables,Study Table,1691.3,2,0.0,-95.76
+ORD-1184,2023-02-16,Leon Braun,Consumer,Bayern,Technology,Machines,Label Printer,1259.52,8,0.3,353.26
+ORD-1153,2023-03-23,Lena Schulz,Home Office,Niedersachsen,Technology,Accessories,USB Cable,839.11,5,0.0,115.28
+ORD-1313,2023-06-19,Paul Koch,Corporate,Bayern,Technology,Copiers,Office Copier,1980.78,7,0.0,-194.1
+ORD-1326,2023-03-04,Sophie Becker,Consumer,Baden-Württemberg,Office Supplies,Labels,Label Roll,468.83,3,0.0,38.43
+ORD-1192,2023-01-28,Felix Wagner,Consumer,Bayern,Office Supplies,Binders,Clip Binder,49.94,9,0.0,13.1
+ORD-1045,2024-01-20,Marie Richter,Corporate,Baden-Württemberg,Furniture,Chairs,Mesh Task Chair,486.73,2,0.2,44.79
+ORD-1276,2023-07-28,Niklas Hartmann,Consumer,Nordrhein-Westfalen,Office Supplies,Binders,Clip Binder,544.67,8,0.1,100.42
+ORD-1007,2023-02-28,Lea Lange,Corporate,Bayern,Technology,Copiers,Desktop Copier,805.72,3,0.1,8.34
+ORD-1251,2023-12-27,Felix Wagner,Corporate,Nordrhein-Westfalen,Technology,Phones,Cordless Phone,305.84,6,0.0,83.6
+ORD-1312,2024-03-01,Maximilian Hoffmann,Home Office,Niedersachsen,Office Supplies,Art,Sketch Pad,1754.56,2,0.2,-327.37
+ORD-1076,2023-06-10,Lukas Müller,Consumer,Niedersachsen,Furniture,Tables,Conference Table,640.67,2,0.2,68.07
+ORD-1001,2023-04-13,Laura Fischer,Consumer,Baden-Württemberg,Furniture,Tables,Round Meeting Table,1595.12,8,0.3,206.19
+ORD-1392,2023-03-28,Felix Wagner,Consumer,Niedersachsen,Office Supplies,Labels,Sticker Sheet,1304.09,9,0.0,364.47
+ORD-1384,2023-04-13,Lena Schulz,Home Office,Niedersachsen,Technology,Machines,Label Printer,274.1,7,0.3,-24.54
+ORD-1069,2023-10-10,Sophie Becker,Home Office,Baden-Württemberg,Office Supplies,Labels,Label Roll,874.44,5,0.0,66.85
+ORD-1168,2023-09-12,Emma Krüger,Consumer,Niedersachsen,Office Supplies,Storage,Storage Box,67.28,5,0.3,9.5
+ORD-1393,2023-05-02,Lukas Müller,Consumer,Baden-Württemberg,Technology,Phones,Cordless Phone,664.74,4,0.1,139.17
+ORD-1219,2023-01-05,,Corporate,Bayern,Office Supplies,Art,Sketch Pad,479.03,4,0.0,-12.5
+ORD-1043,2024-03-15,Lea Lange,Consumer,Bayern,Office Supplies,Labels,Sticker Sheet,83.41,1,0.0,28.12
+ORD-1367,2024-03-20,Lena Schulz,Corporate,Nordrhein-Westfalen,Office Supplies,Labels,Sticker Sheet,408.71,1,0.0,64.75
+ORD-1346,2023-11-10,Emma Krüger,Corporate,Niedersachsen,Furniture,Tables,Study Table,936.29,7,0.0,-184.61
+ORD-1073,2024-01-15,Lena Schulz,Consumer,Nordrhein-Westfalen,Furniture,Chairs,Ergo Office Chair,40.76,8,0.1,-0.74
+ORD-1024,2023-01-28,Marie Richter,Consumer,,Furniture,Chairs,Ergo Office Chair,1727.58,8,0.3,81.54
+ORD-1399,2023-11-01,Lukas Müller,Corporate,Baden-Württemberg,Technology,Copiers,Office Copier,1737.86,8,0.1,59.12
+ORD-1186,2023-09-14,Jan Schröder,Consumer,Bayern,Office Supplies,Labels,Label Roll,178.19,3,0.0,-17.55
+ORD-1349,2023-01-13,Lea Lange,Consumer,Niedersachsen,Technology,Phones,Smartphone X1,1237.68,1,0.3,133.56
+ORD-1104,2023-01-10,Sophie Becker,Corporate,Nordrhein-Westfalen,Office Supplies,Storage,Storage Box,1898.8,4,0.0,-332.45
+ORD-1212,2023-11-17,Sarah Neumann,Consumer,,Office Supplies,Labels,Sticker Sheet,286.26,9,0.2,62.44
+ORD-1068,2023-06-07,Marie Richter,Home Office,Nordrhein-Westfalen,Furniture,Furnishings,Wall Clock,1946.29,3,0.3,565.64
+ORD-1026,2023-10-20,Leon Braun,Home Office,Niedersachsen,Furniture,Tables,Conference Table,1461.92,8,0.0,-71.49
+ORD-1197,2023-04-11,Emma Krüger,Home Office,Bayern,Technology,Machines,Laminator,732.53,2,0.0,-48.06
+ORD-1176,2023-09-19,Julia Klein,Consumer,Niedersachsen,Office Supplies,Paper,A4 Paper Ream,990.31,3,0.1,94.57
